@@ -1,0 +1,279 @@
+{
+  "categoryId": "immunologic-tolerance",
+  "categoryName": "Immunologic Tolerance",
+  "questions": [
+    {
+      "id": "impic-002",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The upper B cell receives antigen (Signal 1) plus T-cell help through CD40L-CD40 (Signal 2) and secretes antibody, whereas the lower B cell receives only Signal 1 and becomes unresponsive. Why is this two-signal requirement immunologically important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly increases antibody affinity"
+        },
+        {
+          "label": "B",
+          "text": "It is required for the B cell to fix complement"
+        },
+        {
+          "label": "C",
+          "text": "It accelerates antigen phagocytosis"
+        },
+        {
+          "label": "D",
+          "text": "It restricts class switching exclusively to IgE"
+        },
+        {
+          "label": "E",
+          "text": "It enforces self-tolerance, preventing B cells from responding to self-antigen without T-cell help"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
+        "whyCorrect": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-002_11_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-003",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "This figure shows developing thymocytes selected by how strongly their TCR binds self-peptide-MHC. Failure of the top pathway (strong self-antigen binding) would MOST likely result in:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overproduction of regulatory T cells"
+        },
+        {
+          "label": "B",
+          "text": "Failure of MHC restriction"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmunity, because self-reactive T cells escape deletion"
+        },
+        {
+          "label": "D",
+          "text": "Immunodeficiency with recurrent infections"
+        },
+        {
+          "label": "E",
+          "text": "Inability to recognize any MHC molecule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
+        "whyCorrect": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-003_11_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-004",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "In this bone-marrow figure, a self-reactive immature B cell that strongly binds self-antigen follows pathway A. Which tolerance mechanism does pathway A represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive selection"
+        },
+        {
+          "label": "B",
+          "text": "Anergy"
+        },
+        {
+          "label": "C",
+          "text": "Clonal ignorance"
+        },
+        {
+          "label": "D",
+          "text": "Clonal deletion (apoptosis) of the self-reactive B cell"
+        },
+        {
+          "label": "E",
+          "text": "Receptor editing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
+        "whyCorrect": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-004_11_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-070",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The antibody shown being transported across the intestinal epithelium into the lumen neutralizes microbes without provoking inflammation. In what form is it secreted to resist luminal proteolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A secretory dimer joined by a J chain and bearing secretory component"
+        },
+        {
+          "label": "B",
+          "text": "A complement-fixing IgG dimer"
+        },
+        {
+          "label": "C",
+          "text": "A single membrane-bound monomer"
+        },
+        {
+          "label": "D",
+          "text": "A pentamer, like circulating IgM"
+        },
+        {
+          "label": "E",
+          "text": "A free light-chain fragment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
+        "whyCorrect": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-070_11_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-129",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The central cell suppresses effector T cells partly by expressing high levels of CD25 to capture IL-2 (in addition to IL-10/TGF-beta, CTLA-4/B7, and cytolysis). How does high CD25 expression inhibit effector T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It delivers costimulation to effector T cells"
+        },
+        {
+          "label": "B",
+          "text": "It consumes IL-2, depriving effector T cells of the growth factor they need to proliferate and survive"
+        },
+        {
+          "label": "C",
+          "text": "It upregulates B7 on dendritic cells"
+        },
+        {
+          "label": "D",
+          "text": "It activates the complement cascade"
+        },
+        {
+          "label": "E",
+          "text": "It induces IgE class switching"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "whyCorrect": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-129_11_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-130",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The upper T cell receives TCR-MHC (signal 1) plus B7-CD28 costimulation (signal 2) and proliferates, whereas the lower T cell gets signal 1 only and becomes unresponsive. Blocking B7-CD28 costimulation (e.g., with CTLA-4-Ig) would therefore:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhance T-cell proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Increase MHC class I expression"
+        },
+        {
+          "label": "C",
+          "text": "Induce T-cell anergy and dampen the immune response"
+        },
+        {
+          "label": "D",
+          "text": "Trigger antibody class switching"
+        },
+        {
+          "label": "E",
+          "text": "Activate the complement cascade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "whyCorrect": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-130_11_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-135",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The cell on the right kills its target using granules containing perforin and granzymes (as well as Fas-FasL). A patient with a mutation causing nonfunctional perforin would have MOST impaired ability to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activate the classical complement pathway"
+        },
+        {
+          "label": "B",
+          "text": "Degranulate mast cells in allergic responses"
+        },
+        {
+          "label": "C",
+          "text": "Kill virus-infected and tumor cells via CD8+ T cells and NK cells"
+        },
+        {
+          "label": "D",
+          "text": "Produce antibodies against extracellular bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Recruit neutrophils by chemotaxis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Perforin lets granzymes enter target cells to trigger apoptosis, the core cytotoxic mechanism of CD8+ CTLs and NK cells. Loss-of-function causes impaired cytotoxicity (e.g., familial hemophagocytic lymphohistiocytosis).",
+        "whyCorrect": "Perforin lets granzymes enter target cells to trigger apoptosis, the core cytotoxic mechanism of CD8+ CTLs and NK cells. Loss-of-function causes impaired cytotoxicity (e.g., familial hemophagocytic lymphohistiocytosis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-135_11_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

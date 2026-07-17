@@ -1,0 +1,357 @@
+{
+  "categoryId": "antigen-receptor-generation-and-structure",
+  "categoryName": "Antigen Receptor Generation and Structure",
+  "questions": [
+    {
+      "id": "impic-042",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This figure shows a repertoire of lymphocytes each bearing a distinct antigen receptor (a, b, c, x, y, z). Antigen X appears and engages only the lymphocyte bearing receptor x, which then proliferates into a clone secreting anti-X antibody. According to the principle this illustrates, when is a lymphocyte's antigen specificity determined?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "After antigen exposure, when the antigen instructs the receptor to fold around it"
+        },
+        {
+          "label": "B",
+          "text": "Randomly re-assigned each time the cell divides"
+        },
+        {
+          "label": "C",
+          "text": "Only after the lymphocyte fuses with the antigen"
+        },
+        {
+          "label": "D",
+          "text": "By the concentration of antigen present at the time of binding"
+        },
+        {
+          "label": "E",
+          "text": "Before antigen exposure; each lymphocyte's receptor specificity is predetermined and antigen merely selects the matching clone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure illustrates clonal selection. A vast repertoire of lymphocytes, each with a unique pre-formed receptor, exists before any antigen is encountered. Antigen does not instruct receptor shape; it simply selects and activates the pre-existing clone whose receptor already fits, driving that clone's proliferation and antibody production. This refutes the older instructional theory of antibody formation.",
+        "whyCorrect": "The figure illustrates clonal selection. A vast repertoire of lymphocytes, each with a unique pre-formed receptor, exists before any antigen is encountered. Antigen does not instruct receptor shape; it simply selects and activates the pre-existing clone whose receptor already fits, driving that clone's proliferation and antibody production. This refutes the older instructional theory of antibody formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-042_7_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-043",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This figure shows antigen-bound B cells being sorted by the strength of antigen binding: those with lower-affinity receptors die, while those with higher-affinity receptors preferentially survive and proliferate, progressively improving the average affinity of the response. Which molecular process generates the receptor variants that are then selected in this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V(D)J recombination in the bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Isotype (class) switching of the heavy-chain constant region"
+        },
+        {
+          "label": "C",
+          "text": "Somatic hypermutation of immunoglobulin variable-region genes"
+        },
+        {
+          "label": "D",
+          "text": "Allelic exclusion of the light-chain locus"
+        },
+        {
+          "label": "E",
+          "text": "Gene conversion of MHC class II alleles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts affinity maturation. In the germinal center, activation-induced cytidine deaminase drives somatic hypermutation, introducing point mutations into the immunoglobulin variable regions. B cells whose mutated receptors bind antigen with higher affinity are preferentially selected to survive and proliferate, while lower-affinity clones undergo apoptosis. Class switching changes isotype/effector function but not affinity; V(D)J recombination creates the initial repertoire, not the fine-tuned variants.",
+        "whyCorrect": "The figure depicts affinity maturation. In the germinal center, activation-induced cytidine deaminase drives somatic hypermutation, introducing point mutations into the immunoglobulin variable regions. B cells whose mutated receptors bind antigen with higher affinity are preferentially selected to survive and proliferate, while lower-affinity clones undergo apoptosis. Class switching changes isotype/effector function but not affinity; V(D)J recombination creates the initial repertoire, not the fine-tuned variants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-043_7_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-044",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This diagram labels the regions of an immunoglobulin monomer, including the antigen-binding (Fab) arms, the hinge, and the crystallizable (Fc) region. The protease papain cleaves the antibody at the hinge. What fragments result from papain digestion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two Fab fragments and one Fc fragment"
+        },
+        {
+          "label": "B",
+          "text": "One Fab fragment and two Fc fragments"
+        },
+        {
+          "label": "C",
+          "text": "Two separate heavy chains and two light chains"
+        },
+        {
+          "label": "D",
+          "text": "One F(ab')2 fragment and one Fc fragment"
+        },
+        {
+          "label": "E",
+          "text": "Two Fc fragments only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Papain cleaves the immunoglobulin on the amino-terminal side of the hinge disulfide bonds, yielding two identical monovalent Fab fragments (each with one antigen-binding site) and one Fc fragment (which mediates effector functions and binds complement/Fc receptors). Pepsin, in contrast, cleaves below the hinge to give a single divalent F(ab')2 fragment plus a degraded Fc.",
+        "whyCorrect": "Papain cleaves the immunoglobulin on the amino-terminal side of the hinge disulfide bonds, yielding two identical monovalent Fab fragments (each with one antigen-binding site) and one Fc fragment (which mediates effector functions and binds complement/Fc receptors). Pepsin, in contrast, cleaves below the hinge to give a single divalent F(ab')2 fragment plus a degraded Fc.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-044_7_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-045",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This table lists mechanisms that expand the antigen-receptor repertoire, distinguishing combinatorial diversity from junctional diversity, and shows that adding or removing nucleotides at the segment joins vastly increases the total potential repertoire. Which enzyme adds the non-templated (N-region) nucleotides at these junctions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RAG1/RAG2 recombinase"
+        },
+        {
+          "label": "B",
+          "text": "Activation-induced cytidine deaminase (AID)"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase III"
+        },
+        {
+          "label": "D",
+          "text": "Terminal RNA ligase"
+        },
+        {
+          "label": "E",
+          "text": "Terminal deoxynucleotidyl transferase (TdT)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Junctional diversity arises when segment ends are trimmed and when non-templated nucleotides are inserted at the V(D)J joins. Terminal deoxynucleotidyl transferase (TdT) adds these N-region nucleotides, greatly increasing repertoire diversity (raising Ig from ~10^6 to ~10^11 combinations). RAG1/2 cut the DNA to initiate recombination but do not add N-nucleotides; AID drives somatic hypermutation and class switching later in mature B cells.",
+        "whyCorrect": "Junctional diversity arises when segment ends are trimmed and when non-templated nucleotides are inserted at the V(D)J joins. Terminal deoxynucleotidyl transferase (TdT) adds these N-region nucleotides, greatly increasing repertoire diversity (raising Ig from ~10^6 to ~10^11 combinations). RAG1/2 cut the DNA to initiate recombination but do not add N-nucleotides; AID drives somatic hypermutation and class switching later in mature B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-045_7_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-046",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This figure shows both a schematic (A) and a ribbon structure (B) of a heterodimeric antigen receptor composed of two disulfide-linked chains, each with a membrane-distal variable (V) domain and a membrane-proximal constant (C) domain anchored in the membrane. This receptor is found on the surface of which cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophage (this is a Toll-like receptor)"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell (this is the high-affinity IgE receptor)"
+        },
+        {
+          "label": "C",
+          "text": "T cell (this is the alpha-beta T-cell receptor)"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cell (this is KIR)"
+        },
+        {
+          "label": "E",
+          "text": "B cell (this is membrane immunoglobulin)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The two disulfide-linked chains each contain one variable and one constant immunoglobulin-like domain, identifying the alpha-beta T-cell receptor. The variable domains (Valpha/Vbeta) form the antigen-binding site that recognizes peptide presented on MHC. Unlike membrane immunoglobulin on B cells, the TCR is not secreted and recognizes only processed peptide-MHC, not soluble native antigen.",
+        "whyCorrect": "The two disulfide-linked chains each contain one variable and one constant immunoglobulin-like domain, identifying the alpha-beta T-cell receptor. The variable domains (Valpha/Vbeta) form the antigen-binding site that recognizes peptide presented on MHC. Unlike membrane immunoglobulin on B cells, the TCR is not secreted and recognizes only processed peptide-MHC, not soluble native antigen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-046_7_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-106",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This figure shows three effector functions of antibodies: coating bacteria to promote uptake by a macrophage; blocking a microbe from attaching to epithelial cells; and depositing C3b/forming a membrane attack complex. The membrane attack complex generated in the right-hand panel kills the target microbe by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking the microbe's adhesion to host cells"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking Fc receptors to trigger degranulation"
+        },
+        {
+          "label": "C",
+          "text": "Triggering caspase-mediated apoptosis of the microbe"
+        },
+        {
+          "label": "D",
+          "text": "Forming a transmembrane pore that causes osmotic lysis"
+        },
+        {
+          "label": "E",
+          "text": "Enhancing antigen presentation on MHC class I"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The panels show opsonization, neutralization, and complement activation. Antibody-triggered classical complement activation deposits C3b (an opsonin) and assembles the membrane attack complex (C5b-9), which inserts into the microbial membrane forming a pore. The resulting loss of osmotic integrity causes lysis. Neutralization (blocking adhesion) and opsonization are the other, distinct functions shown.",
+        "whyCorrect": "The panels show opsonization, neutralization, and complement activation. Antibody-triggered classical complement activation deposits C3b (an opsonin) and assembles the membrane attack complex (C5b-9), which inserts into the microbial membrane forming a pore. The resulting loss of osmotic integrity causes lysis. Neutralization (blocking adhesion) and opsonization are the other, distinct functions shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-106_7_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-119",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This diagram shows an antibody built from five four-chain monomer units held together in a radial arrangement by a central joining (J) chain and disulfide bonds. Which immunoglobulin isotype has this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgG"
+        },
+        {
+          "label": "B",
+          "text": "IgM"
+        },
+        {
+          "label": "C",
+          "text": "Secretory IgA"
+        },
+        {
+          "label": "D",
+          "text": "IgE"
+        },
+        {
+          "label": "E",
+          "text": "IgD"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pentamer of five monomers linked by a J chain is the classic structure of secreted IgM, giving it 10 potential antigen-binding sites and making it a highly efficient complement activator. IgM is the first antibody produced in a primary response. Secretory IgA is a dimer with a secretory component; IgG, IgE, and IgD circulate as monomers.",
+        "whyCorrect": "A pentamer of five monomers linked by a J chain is the classic structure of secreted IgM, giving it 10 potential antigen-binding sites and making it a highly efficient complement activator. IgM is the first antibody produced in a primary response. Secretory IgA is a dimer with a secretory component; IgG, IgE, and IgD circulate as monomers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-119_7_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-126",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This figure shows germline-to-rearranged DNA for the two chains of the T-cell receptor, one encoded on chromosome 14 and the other on chromosome 7, assembled to form the mature receptor protein. Which gene segment is present in the rearrangement of the beta chain (bottom) but absent from the alpha chain (top)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diversity (D) segment"
+        },
+        {
+          "label": "B",
+          "text": "Constant (C) segment"
+        },
+        {
+          "label": "C",
+          "text": "Joining (J) segment"
+        },
+        {
+          "label": "D",
+          "text": "Leader/signal segment"
+        },
+        {
+          "label": "E",
+          "text": "Variable (V) segment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The TCR alpha chain is assembled from V and J segments joined to C, whereas the beta chain uses V, D, and J segments joined to C. The additional diversity (D) segment, combined with junctional diversity at the extra join, increases the combinatorial and junctional diversity of the beta chain. This parallels immunoglobulin heavy versus light chain assembly.",
+        "whyCorrect": "The TCR alpha chain is assembled from V and J segments joined to C, whereas the beta chain uses V, D, and J segments joined to C. The additional diversity (D) segment, combined with junctional diversity at the extra join, increases the combinatorial and junctional diversity of the beta chain. This parallels immunoglobulin heavy versus light chain assembly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-126_7_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-127",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "This diagram shows two antibody monomers joined tail-to-tail by a joining (J) chain and wrapped by an additional polypeptide (secretory component) acquired during transport across epithelium. This form of antibody predominates in which location?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "On naive B cells as the primary surface receptor"
+        },
+        {
+          "label": "B",
+          "text": "The intravascular compartment as the main serum antibody"
+        },
+        {
+          "label": "C",
+          "text": "On the surface of mast cells and basophils"
+        },
+        {
+          "label": "D",
+          "text": "Mucosal secretions such as saliva, tears, and breast milk"
+        },
+        {
+          "label": "E",
+          "text": "Within the cytosol of infected cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure shows secretory IgA: a dimer linked by a J chain and stabilized by the secretory component added as it is transcytosed across mucosal epithelium. Secretory IgA is the dominant antibody at mucosal surfaces and in breast milk, where it neutralizes pathogens and toxins. IgG dominates serum, IgE binds mast cells, and IgM/IgD are the main surface receptors on naive B cells.",
+        "whyCorrect": "The figure shows secretory IgA: a dimer linked by a J chain and stabilized by the secretory component added as it is transcytosed across mucosal epithelium. Secretory IgA is the dominant antibody at mucosal surfaces and in breast milk, where it neutralizes pathogens and toxins. IgG dominates serum, IgE binds mast cells, and IgM/IgD are the main surface receptors on naive B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-127_7_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

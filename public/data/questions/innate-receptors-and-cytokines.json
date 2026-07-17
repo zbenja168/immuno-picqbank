@@ -1,0 +1,240 @@
+{
+  "categoryId": "innate-receptors-and-cytokines",
+  "categoryName": "Innate Receptors and Cytokines",
+  "questions": [
+    {
+      "id": "impic-085",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "The monoclonal antibody shown neutralizes both soluble and membrane-bound TNF-alpha. Before starting this class of biologic, patients must be screened for reactivation of which latent infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus retinitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis A"
+        },
+        {
+          "label": "C",
+          "text": "Tuberculosis (latent Mycobacterium tuberculosis)"
+        },
+        {
+          "label": "D",
+          "text": "Latent HIV"
+        },
+        {
+          "label": "E",
+          "text": "Latent Neisseria meningitidis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TNF-alpha is essential for maintaining the granulomas that wall off latent TB. Anti-TNF agents such as infliximab disrupt granulomas and can reactivate latent tuberculosis, so screening (IGRA or PPD) is required before therapy.",
+        "whyCorrect": "TNF-alpha is essential for maintaining the granulomas that wall off latent TB. Anti-TNF agents such as infliximab disrupt granulomas and can reactivate latent tuberculosis, so screening (IGRA or PPD) is required before therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-085_2_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-092",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "In the progression shown, septic shock is defined by hypotension that persists despite adequate IV fluid resuscitation. What is the primary mechanism of this refractory hypotension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated bronchospasm"
+        },
+        {
+          "label": "B",
+          "text": "Massive blood loss from hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Widespread inflammatory-mediator-induced vasodilation (e.g., nitric oxide) with capillary leak"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax obstructing venous return"
+        },
+        {
+          "label": "E",
+          "text": "Pump failure from a large myocardial infarction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sepsis triggers systemic release of inflammatory mediators (TNF, IL-1, nitric oxide) causing profound vasodilation and increased vascular permeability. The resulting distributive shock does not correct with fluids alone and requires vasopressors.",
+        "whyCorrect": "Sepsis triggers systemic release of inflammatory mediators (TNF, IL-1, nitric oxide) causing profound vasodilation and increased vascular permeability. The resulting distributive shock does not correct with fluids alone and requires vasopressors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-092_2_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-093",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "In this sequence of acute inflammation, step 6 shows leukocytes leaving the vessel and migrating into tissue. Which molecules mediate the initial rolling of leukocytes along the endothelium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perforin and granzymes"
+        },
+        {
+          "label": "B",
+          "text": "Selectins (E- and P-selectin binding sialyl-Lewis X)"
+        },
+        {
+          "label": "C",
+          "text": "MHC class II molecules"
+        },
+        {
+          "label": "D",
+          "text": "Rearranged immunoglobulin genes"
+        },
+        {
+          "label": "E",
+          "text": "The membrane attack complex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leukocyte extravasation proceeds through selectin-mediated rolling, chemokine-triggered integrin activation, firm adhesion (integrin-ICAM), and transmigration. Earlier steps show sentinel-cell mediators and increased vascular permeability that set the stage.",
+        "whyCorrect": "Leukocyte extravasation proceeds through selectin-mediated rolling, chemokine-triggered integrin activation, firm adhesion (integrin-ICAM), and transmigration. Earlier steps show sentinel-cell mediators and increased vascular permeability that set the stage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-093_2_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-094",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "An IgG-coated target cell is bound by an NK cell through its CD16 (Fc-gamma) receptor and then killed. What is this killing mechanism called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opsonophagocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Complement-dependent cytotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Antibody-dependent cellular cytotoxicity (ADCC)"
+        },
+        {
+          "label": "D",
+          "text": "Classical MHC-restricted CTL killing"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil extracellular trap formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In ADCC, IgG coats a target cell and its Fc region is recognized by CD16 (Fc-gamma-RIII) on NK cells, triggering perforin/granzyme release. This mechanism also contributes to the action of certain therapeutic monoclonal antibodies.",
+        "whyCorrect": "In ADCC, IgG coats a target cell and its Fc region is recognized by CD16 (Fc-gamma-RIII) on NK cells, triggering perforin/granzyme release. This mechanism also contributes to the action of certain therapeutic monoclonal antibodies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-094_2_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-095",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "Several Toll-like receptors in this diagram sit within endosomes rather than on the cell surface. What class of pathogen-associated molecule do these endosomal TLRs primarily detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peptidoglycan of gram-positive walls"
+        },
+        {
+          "label": "B",
+          "text": "Lipopolysaccharide of gram-negative walls"
+        },
+        {
+          "label": "C",
+          "text": "Flagellin from bacterial flagella"
+        },
+        {
+          "label": "D",
+          "text": "Microbial and viral nucleic acids (ssRNA, dsRNA, CpG DNA)"
+        },
+        {
+          "label": "E",
+          "text": "Mannose-rich surface glycans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Endosomal TLR-3 (dsRNA), TLR-7 (ssRNA), and TLR-9 (unmethylated CpG DNA) sense nucleic acids from ingested microbes and viruses, driving IRF-dependent type I interferon and NF-kB-dependent inflammatory cytokines. Surface TLR-4/2/5 detect LPS, peptidoglycan/lipopeptides, and flagellin.",
+        "whyCorrect": "Endosomal TLR-3 (dsRNA), TLR-7 (ssRNA), and TLR-9 (unmethylated CpG DNA) sense nucleic acids from ingested microbes and viruses, driving IRF-dependent type I interferon and NF-kB-dependent inflammatory cytokines. Surface TLR-4/2/5 detect LPS, peptidoglycan/lipopeptides, and flagellin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-095_2_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-144",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "The balance of signals shown determines whether an NK cell kills its target. Loss of which surface molecule on a virally infected or tumor cell most strongly tips the balance toward NK-mediated killing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The activating ligand"
+        },
+        {
+          "label": "B",
+          "text": "The IFN-alpha receptor"
+        },
+        {
+          "label": "C",
+          "text": "The CD3/T-cell receptor complex"
+        },
+        {
+          "label": "D",
+          "text": "MHC class I (removing the inhibitory signal)"
+        },
+        {
+          "label": "E",
+          "text": "Fc receptor CD16"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NK cells integrate inhibitory signals delivered by MHC I with activating signals from stress-induced ligands. Downregulation of MHC I ('missing self'), together with activating-ligand engagement and cytokines such as IFN, promotes lytic granule release.",
+        "whyCorrect": "NK cells integrate inhibitory signals delivered by MHC I with activating signals from stress-induced ligands. Downregulation of MHC I ('missing self'), together with activating-ligand engagement and cytokines such as IFN, promotes lytic granule release.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-144_2_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

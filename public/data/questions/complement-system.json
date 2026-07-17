@@ -1,0 +1,279 @@
+{
+  "categoryId": "complement-system",
+  "categoryName": "Complement System",
+  "questions": [
+    {
+      "id": "impic-036",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "The classical complement pathway shown begins when C1 binds antibody. Which region of the antibody does C1q actually attach to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The variable light chain only"
+        },
+        {
+          "label": "B",
+          "text": "Free mannose residues on the antibody"
+        },
+        {
+          "label": "C",
+          "text": "The Fc region of antigen-bound IgM or IgG"
+        },
+        {
+          "label": "D",
+          "text": "The J chain of secretory IgA"
+        },
+        {
+          "label": "E",
+          "text": "The antigen-binding Fab region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C1q binds the Fc portions of antibody (IgM or IgG) that is already bound to antigen, activating C1r/C1s to cleave C4 and C2 and assemble the classical C3 convertase (C4b2b).",
+        "whyCorrect": "C1q binds the Fc portions of antibody (IgM or IgG) that is already bound to antigen, activating C1r/C1s to cleave C4 and C2 and assemble the classical C3 convertase (C4b2b).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-036_4_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-037",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "This patient has recurrent episodes of non-pitting facial and lip swelling (angioedema) without urticaria or itching. Deficiency of which regulatory protein classically causes this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE overproduction"
+        },
+        {
+          "label": "B",
+          "text": "Myeloperoxidase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "C3 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "C1 esterase inhibitor (C1-INH) deficiency - hereditary angioedema"
+        },
+        {
+          "label": "E",
+          "text": "Factor VIII deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hereditary angioedema results from C1-inhibitor deficiency, leading to unchecked bradykinin generation and episodic angioedema without urticaria. Because it is bradykinin-mediated (not histamine-mediated), antihistamines are ineffective and ACE inhibitors can precipitate attacks.",
+        "whyCorrect": "Hereditary angioedema results from C1-inhibitor deficiency, leading to unchecked bradykinin generation and episodic angioedema without urticaria. Because it is bradykinin-mediated (not histamine-mediated), antihistamines are ineffective and ACE inhibitors can precipitate attacks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-037_4_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-062",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "The middle panel shows the membrane attack complex lysing a microbe. Deficiency of the terminal components that form this complex (C5-C9) predisposes to infection with which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria species"
+        },
+        {
+          "label": "C",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "D",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "E",
+          "text": "Mycobacterium tuberculosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The membrane attack complex (C5b-9) is critical for lysing Neisseria, so terminal-complement (C5-C9) deficiencies cause recurrent Neisseria (meningococcal/gonococcal) infections. Other panels show C3b opsonization and C3a/C5a leukocyte recruitment.",
+        "whyCorrect": "The membrane attack complex (C5b-9) is critical for lysing Neisseria, so terminal-complement (C5-C9) deficiencies cause recurrent Neisseria (meningococcal/gonococcal) infections. Other panels show C3b opsonization and C3a/C5a leukocyte recruitment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-062_4_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-063",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "Red cells shuttle C3b-tagged immune complexes to phagocytes via CR1, as shown. Deficiency of early classical complement components (C1q, C4, C2) impairs this clearance and predisposes to which autoimmune disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pernicious anemia"
+        },
+        {
+          "label": "B",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "C",
+          "text": "Type 1 diabetes mellitus"
+        },
+        {
+          "label": "D",
+          "text": "Systemic lupus erythematosus (SLE)"
+        },
+        {
+          "label": "E",
+          "text": "Hashimoto thyroiditis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Early classical-pathway components opsonize immune complexes with C3b for erythrocyte CR1-mediated transport to the liver and spleen. Their deficiency leads to immune-complex accumulation and is strongly associated with SLE.",
+        "whyCorrect": "Early classical-pathway components opsonize immune complexes with C3b for erythrocyte CR1-mediated transport to the liver and spleen. Their deficiency leads to immune-complex accumulation and is strongly associated with SLE.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-063_4_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-100",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "In the lectin pathway shown, mannose-binding lectin uses MASP-2 to cleave C4 and C2. MASP-2 is functionally analogous to which component of the classical pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C9"
+        },
+        {
+          "label": "B",
+          "text": "C1s (the C1-associated protease)"
+        },
+        {
+          "label": "C",
+          "text": "Factor D"
+        },
+        {
+          "label": "D",
+          "text": "Properdin"
+        },
+        {
+          "label": "E",
+          "text": "C3b"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lectin pathway mirrors the classical pathway: MBL replaces C1q, and MASP-2 performs the C4/C2-cleaving protease role of C1r/C1s, generating the same C3 convertase (C4b2b) without requiring antibody.",
+        "whyCorrect": "The lectin pathway mirrors the classical pathway: MBL replaces C1q, and MASP-2 performs the C4/C2-cleaving protease role of C1r/C1s, generating the same C3 convertase (C4b2b) without requiring antibody.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-100_4_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-101",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "Unlike the other complement pathways, the alternative pathway shown does not require antibody or lectin binding. How is it initiated on a microbial surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody Fc binding to CD16"
+        },
+        {
+          "label": "B",
+          "text": "C1q binding to antigen-antibody complexes"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous low-level hydrolysis of C3 ('C3 tickover') that deposits C3b on the microbe"
+        },
+        {
+          "label": "D",
+          "text": "MBL binding surface mannose"
+        },
+        {
+          "label": "E",
+          "text": "Perforin pore formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C3 continuously undergoes spontaneous hydrolysis ('tickover'). C3b deposited on a foreign surface binds factor B, which factor D cleaves to form C3bBb, stabilized by properdin. Host surfaces are protected by regulatory proteins.",
+        "whyCorrect": "C3 continuously undergoes spontaneous hydrolysis ('tickover'). C3b deposited on a foreign surface binds factor B, which factor D cleaves to form C3bBb, stabilized by properdin. Host surfaces are protected by regulatory proteins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-101_4_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-102",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "All three complement pathways in this schematic converge on C3 convertase and then a shared terminal pathway (C5-C9). What lytic structure does this terminal pathway assemble?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The C3 convertase"
+        },
+        {
+          "label": "B",
+          "text": "The membrane attack complex (C5b-9)"
+        },
+        {
+          "label": "C",
+          "text": "Anaphylatoxin C5a"
+        },
+        {
+          "label": "D",
+          "text": "Mannose-binding lectin"
+        },
+        {
+          "label": "E",
+          "text": "Opsonin C3b"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After C5 is cleaved, C5b recruits C6, C7, C8, and multiple C9 molecules to form the membrane attack complex (C5b-9), a pore that osmotically lyses the target cell. This is the shared terminal step of all three pathways.",
+        "whyCorrect": "After C5 is cleaved, C5b recruits C6, C7, C8, and multiple C9 molecules to form the membrane attack complex (C5b-9), a pore that osmotically lyses the target cell. This is the shared terminal step of all three pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-102_4_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

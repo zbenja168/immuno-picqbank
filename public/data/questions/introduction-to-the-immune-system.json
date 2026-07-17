@@ -1,0 +1,123 @@
+{
+  "categoryId": "introduction-to-the-immune-system",
+  "categoryName": "Introduction to the Immune System",
+  "questions": [
+    {
+      "id": "impic-090",
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System",
+      "stem": "In this hematopoiesis scheme, natural killer cells arise from a progenitor they share with which other cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophils and basophils"
+        },
+        {
+          "label": "B",
+          "text": "Erythrocytes and platelets"
+        },
+        {
+          "label": "C",
+          "text": "Macrophages and dendritic cells"
+        },
+        {
+          "label": "D",
+          "text": "T cells and B cells (the common lymphoid lineage)"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils and monocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hematopoietic stem cell gives rise to myeloid and lymphoid progenitors. The lymphoid progenitor produces T cells, B cells, and NK cells, whereas granulocytes, monocytes, erythrocytes, and platelets derive from the myeloid progenitor.",
+        "whyCorrect": "The hematopoietic stem cell gives rise to myeloid and lymphoid progenitors. The lymphoid progenitor produces T cells, B cells, and NK cells, whereas granulocytes, monocytes, erythrocytes, and platelets derive from the myeloid progenitor.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-090_1_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-091",
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System",
+      "stem": "This figure shows ciliated respiratory epithelium propelling material, including a trapped pathogen, upward toward the pharynx. A congenital defect in this ciliary function (e.g., primary ciliary dyskinesia) would predispose the patient to what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed-type hypersensitivity reactions"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent skin abscesses only"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent respiratory tract infections from impaired mucociliary clearance"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibody-mediated glomerulonephritis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic hemolytic anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mucociliary escalator is an innate physical defense: cilia beat in a coordinated fashion to sweep mucus-trapped microbes out of the airways. Defective cilia (as in primary ciliary dyskinesia/Kartagener syndrome) cause mucus stasis and recurrent sinopulmonary infections.",
+        "whyCorrect": "The mucociliary escalator is an innate physical defense: cilia beat in a coordinated fashion to sweep mucus-trapped microbes out of the airways. Defective cilia (as in primary ciliary dyskinesia/Kartagener syndrome) cause mucus stasis and recurrent sinopulmonary infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-091_1_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-113",
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System",
+      "stem": "This figure contrasts humoral and cell-mediated immunity. A patient with a defect in cytotoxic T lymphocytes would be MOST susceptible to which category of pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extracellular encapsulated bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Extracellular fungi in the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular microbes such as viruses replicating within infected cells"
+        },
+        {
+          "label": "D",
+          "text": "Large extracellular parasites"
+        },
+        {
+          "label": "E",
+          "text": "Bloodborne bacterial toxins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cytotoxic (CD8+) T lymphocytes kill host cells harboring intracellular pathogens, especially viruses. Humoral immunity (antibodies) handles extracellular microbes and toxins. Thus a CTL defect chiefly impairs defense against intracellular/viral infections.",
+        "whyCorrect": "Cytotoxic (CD8+) T lymphocytes kill host cells harboring intracellular pathogens, especially viruses. Humoral immunity (antibodies) handles extracellular microbes and toxins. Thus a CTL defect chiefly impairs defense against intracellular/viral infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-113_1_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

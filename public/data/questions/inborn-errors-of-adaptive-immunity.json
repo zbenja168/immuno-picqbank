@@ -1,0 +1,513 @@
+{
+  "categoryId": "inborn-errors-of-adaptive-immunity",
+  "categoryName": "Inborn Errors of Adaptive Immunity",
+  "questions": [
+    {
+      "id": "impic-015",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "This normal neonatal chest radiograph shows a prominent anterior-mediastinal structure (the 'sail sign'). Congenital absence of this structure would MOST likely cause which immunologic problem?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated antibody deficiency with normal T cells"
+        },
+        {
+          "label": "B",
+          "text": "A neutrophil killing defect"
+        },
+        {
+          "label": "C",
+          "text": "Terminal complement deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Functional asplenia"
+        },
+        {
+          "label": "E",
+          "text": "T-cell deficiency (as in thymic aplasia/DiGeorge)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The labeled structure is the thymus, the site of T-cell maturation. Failure of thymic development (e.g., DiGeorge/22q11.2 deletion) produces T-cell deficiency with susceptibility to viral, fungal, and opportunistic infections.",
+        "whyCorrect": "The labeled structure is the thymus, the site of T-cell maturation. Failure of thymic development (e.g., DiGeorge/22q11.2 deletion) produces T-cell deficiency with susceptibility to viral, fungal, and opportunistic infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-015_14_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-016",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "This diagram adds AIRE deficiency affecting late thymic T-cell development. What is the normal function of AIRE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It mediates V(D)J recombination in precursors"
+        },
+        {
+          "label": "B",
+          "text": "It drives thymic expression of peripheral-tissue self-antigens for negative selection (central tolerance)"
+        },
+        {
+          "label": "C",
+          "text": "It drives immunoglobulin class switching in B cells"
+        },
+        {
+          "label": "D",
+          "text": "It encodes the common gamma chain of cytokine receptors"
+        },
+        {
+          "label": "E",
+          "text": "It transmits signaling downstream of BTK"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AIRE (autoimmune regulator) promotes ectopic expression of tissue-restricted self-antigens by thymic medullary epithelial cells, enabling deletion of autoreactive thymocytes. AIRE loss causes APECED/APS-1 with multi-organ autoimmunity and chronic mucocutaneous candidiasis.",
+        "whyCorrect": "AIRE (autoimmune regulator) promotes ectopic expression of tissue-restricted self-antigens by thymic medullary epithelial cells, enabling deletion of autoreactive thymocytes. AIRE loss causes APECED/APS-1 with multi-organ autoimmunity and chronic mucocutaneous candidiasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-016_14_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-017",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "DiGeorge syndrome blocks the earliest step of T-cell development shown, preventing thymic maturation. What is the embryologic basis of this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mutation in the BTK gene"
+        },
+        {
+          "label": "B",
+          "text": "A mutation in the RAG recombinase genes"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of adenosine deaminase (ADA)"
+        },
+        {
+          "label": "D",
+          "text": "A mutation in the common gamma chain"
+        },
+        {
+          "label": "E",
+          "text": "Failed development of the third and fourth pharyngeal pouches, causing thymic (and parathyroid) aplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "DiGeorge (22q11.2 deletion) disrupts third/fourth pharyngeal pouch development, so the thymus fails to form and T cells cannot mature. Associated features include hypocalcemia (absent parathyroids) and conotruncal cardiac defects.",
+        "whyCorrect": "DiGeorge (22q11.2 deletion) disrupts third/fourth pharyngeal pouch development, so the thymus fails to form and T cells cannot mature. Associated features include hypocalcemia (absent parathyroids) and conotruncal cardiac defects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-017_14_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-018",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "An infant has these facial features (low-set ears, hypertelorism, cleft palate, micrognathia) along with recurrent viral/fungal infections, cardiac defects, and hypocalcemic tetany. This presentation is MOST associated with which genetic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "22q11.2 microdeletion (DiGeorge syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "WAS gene mutation"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 21"
+        },
+        {
+          "label": "D",
+          "text": "X-linked BTK mutation"
+        },
+        {
+          "label": "E",
+          "text": "Deletion at 15q11 (imprinting region)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The dysmorphic facies plus thymic hypoplasia (T-cell deficiency), parathyroid hypoplasia (hypocalcemia), and conotruncal heart defects constitute DiGeorge syndrome from a 22q11.2 deletion (CATCH-22).",
+        "whyCorrect": "The dysmorphic facies plus thymic hypoplasia (T-cell deficiency), parathyroid hypoplasia (hypocalcemia), and conotruncal heart defects constitute DiGeorge syndrome from a 22q11.2 deletion (CATCH-22).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-018_14_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-019",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "In this figure, X-linked hyper-IgM syndrome disrupts CD40L-CD40 signaling between helper T cells and B cells (and T cells and macrophages). What antibody profile results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated IgM with low IgG, IgA, and IgE due to failed class switching"
+        },
+        {
+          "label": "B",
+          "text": "Absence of all immunoglobulin classes"
+        },
+        {
+          "label": "C",
+          "text": "Isolated IgA deficiency with normal IgM and IgG"
+        },
+        {
+          "label": "D",
+          "text": "Low IgM with high IgG"
+        },
+        {
+          "label": "E",
+          "text": "Elevated IgE as the only abnormality"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CD40L (CD154) on activated T cells engages CD40 on B cells to license immunoglobulin class switching and germinal-center reactions. Its loss leaves B cells stuck making IgM: high IgM, low IgG/IgA/IgE, with susceptibility to pyogenic and opportunistic (e.g., Pneumocystis) infections.",
+        "whyCorrect": "CD40L (CD154) on activated T cells engages CD40 on B cells to license immunoglobulin class switching and germinal-center reactions. Its loss leaves B cells stuck making IgM: high IgM, low IgG/IgA/IgE, with susceptibility to pyogenic and opportunistic (e.g., Pneumocystis) infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-019_15_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-020",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "This diagram shows hyper-IgE (Job) syndrome impairing generation of the T-cell subset that drives neutrophilic inflammation. This disorder classically presents with which triad?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Telangiectasia with cerebellar ataxia"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent cold staphylococcal abscesses, eczema, and markedly elevated serum IgE"
+        },
+        {
+          "label": "C",
+          "text": "Absent B cells with panhypogammaglobulinemia"
+        },
+        {
+          "label": "D",
+          "text": "Tetany, cleft palate, and absent thymus"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent Neisseria infections"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyper-IgE syndrome (impaired Th17 responses, often STAT3 mutations) causes the classic triad of recurrent 'cold' staph skin abscesses, eczema, and high IgE. Other features include retained primary teeth, coarse facies, and recurrent pneumonias with pneumatoceles.",
+        "whyCorrect": "Hyper-IgE syndrome (impaired Th17 responses, often STAT3 mutations) causes the classic triad of recurrent 'cold' staph skin abscesses, eczema, and high IgE. Other features include retained primary teeth, coarse facies, and recurrent pneumonias with pneumatoceles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-020_15_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-021",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "This figure highlights selective IgA deficiency at the helper T-cell/B-cell/plasma-cell axis. What is the MOST characteristic clinical feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypocalcemic tetany and cardiac defects"
+        },
+        {
+          "label": "B",
+          "text": "Severe disseminated viral infection from birth"
+        },
+        {
+          "label": "C",
+          "text": "Complete absence of all antibody classes"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent Neisseria meningitis"
+        },
+        {
+          "label": "E",
+          "text": "Often asymptomatic, but may have recurrent sinopulmonary/GI infections and anaphylaxis to IgA-containing blood products"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Selective IgA deficiency is the most common primary immunodeficiency and is frequently asymptomatic. Some patients have recurrent mucosal infections, atopy, or autoimmunity, and anti-IgA antibodies can cause anaphylactic transfusion reactions to IgA-containing products.",
+        "whyCorrect": "Selective IgA deficiency is the most common primary immunodeficiency and is frequently asymptomatic. Some patients have recurrent mucosal infections, atopy, or autoimmunity, and anti-IgA antibodies can cause anaphylactic transfusion reactions to IgA-containing products.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-021_15_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-053",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "In this developmental scheme, ADA or RAG deficiency (SCID) blocks maturation of BOTH the B and T lineages, whereas BTK deficiency blocks only B cells. Why does the SCID defect affect both lineages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V(D)J recombination and early lymphoid precursors are shared by both B and T cells, so a defect there halts both"
+        },
+        {
+          "label": "B",
+          "text": "Because it selectively blocks thymic development only"
+        },
+        {
+          "label": "C",
+          "text": "Because it impairs BTK signaling downstream of the pre-BCR"
+        },
+        {
+          "label": "D",
+          "text": "Because it prevents immunoglobulin class switching"
+        },
+        {
+          "label": "E",
+          "text": "Because it affects only myeloid progenitors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RAG enzymes mediate V(D)J recombination required for both BCR and TCR assembly, and ADA deficiency accumulates toxic metabolites that kill developing lymphocytes; either blocks both lineages early, causing SCID. BTK acts later and only in B-cell development.",
+        "whyCorrect": "RAG enzymes mediate V(D)J recombination required for both BCR and TCR assembly, and ADA deficiency accumulates toxic metabolites that kill developing lymphocytes; either blocks both lineages early, causing SCID. BTK acts later and only in B-cell development.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-053_14_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-054",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "BTK deficiency arrests B-cell development at the stage shown, so mature B cells fail to form. What is the characteristic laboratory finding in this X-linked disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated IgE with normal B-cell numbers"
+        },
+        {
+          "label": "B",
+          "text": "Absent T cells with normal B cells"
+        },
+        {
+          "label": "C",
+          "text": "Normal immunoglobulins with neutropenia"
+        },
+        {
+          "label": "D",
+          "text": "High IgM with low IgG and IgA"
+        },
+        {
+          "label": "E",
+          "text": "Absent/very low immunoglobulins of all classes with absent circulating B cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "X-linked agammaglobulinemia (BTK mutation) blocks the pre-B to immature-B transition, so no mature B cells or plasma cells develop. Patients have absent B cells and panhypogammaglobulinemia, presenting after ~6 months with recurrent pyogenic infections.",
+        "whyCorrect": "X-linked agammaglobulinemia (BTK mutation) blocks the pre-B to immature-B transition, so no mature B cells or plasma cells develop. Patients have absent B cells and panhypogammaglobulinemia, presenting after ~6 months with recurrent pyogenic infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-054_14_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-055",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "A child presents with recurrent skin and soft-tissue abscesses, including these poorly inflamed ('cold') scalp and cutaneous abscesses. This pattern of recurrent staphylococcal abscesses points to a defect in which arm of immunity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T-cell-mediated immunity"
+        },
+        {
+          "label": "B",
+          "text": "Phagocyte (neutrophil) function"
+        },
+        {
+          "label": "C",
+          "text": "Terminal complement (C5-C9)"
+        },
+        {
+          "label": "D",
+          "text": "Immunoglobulin class switching"
+        },
+        {
+          "label": "E",
+          "text": "Splenic clearance of encapsulated bacteria"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Recurrent skin and deep-seated staphylococcal abscesses, especially when poorly inflamed, indicate a phagocyte/neutrophil defect in recruitment or microbial killing (e.g., chronic granulomatous disease, hyper-IgE/Job syndrome). Complement defects instead predispose to Neisseria, and T-cell defects to viral/fungal infection.",
+        "whyCorrect": "Recurrent skin and deep-seated staphylococcal abscesses, especially when poorly inflamed, indicate a phagocyte/neutrophil defect in recruitment or microbial killing (e.g., chronic granulomatous disease, hyper-IgE/Job syndrome). Complement defects instead predispose to Neisseria, and T-cell defects to viral/fungal infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-055_15_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-056",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "This diagram adds MSMD (Mendelian susceptibility to mycobacterial disease), which disrupts the IFN-gamma axis between Th1 cells and macrophages. Patients with these defects are especially susceptible to which infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recurrent Neisseria infections"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated mycobacterial (and Salmonella) infections"
+        },
+        {
+          "label": "C",
+          "text": "Anaphylaxis to environmental allergens"
+        },
+        {
+          "label": "D",
+          "text": "Encapsulated bacteria (Strep pneumoniae, H. influenzae)"
+        },
+        {
+          "label": "E",
+          "text": "Helminth infestations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IFN-gamma from Th1 cells activates macrophages to kill intracellular pathogens. Defects in the IL-12/IFN-gamma axis (MSMD) impair control of intracellular organisms, causing disseminated infection with nontuberculous mycobacteria, BCG, and Salmonella.",
+        "whyCorrect": "IFN-gamma from Th1 cells activates macrophages to kill intracellular pathogens. Defects in the IL-12/IFN-gamma axis (MSMD) impair control of intracellular organisms, causing disseminated infection with nontuberculous mycobacteria, BCG, and Salmonella.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-056_15_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-057",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "Common variable immunodeficiency (CVID), shown here, differs from selective IgA deficiency in that CVID typically involves:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated IgM with defective class switching"
+        },
+        {
+          "label": "B",
+          "text": "Low IgG plus low IgA and/or IgM with poor antibody responses, often presenting in later childhood or adulthood"
+        },
+        {
+          "label": "C",
+          "text": "A pure neutrophil killing defect"
+        },
+        {
+          "label": "D",
+          "text": "Isolated low IgA with otherwise normal immunoglobulins"
+        },
+        {
+          "label": "E",
+          "text": "Absent circulating T cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CVID is characterized by low IgG with low IgA and/or IgM and impaired specific antibody responses, presenting with recurrent sinopulmonary infections, autoimmunity, and increased lymphoma/GI disease risk, typically in the second-to-fourth decades. Selective IgA deficiency involves IgA alone.",
+        "whyCorrect": "CVID is characterized by low IgG with low IgA and/or IgM and impaired specific antibody responses, presenting with recurrent sinopulmonary infections, autoimmunity, and increased lymphoma/GI disease risk, typically in the second-to-fourth decades. Selective IgA deficiency involves IgA alone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-057_15_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-088",
+      "topicId": "inborn-errors-of-adaptive-immunity",
+      "topicName": "Inborn Errors of Adaptive Immunity",
+      "stem": "This figure summarizes diverse processes across NK, T, B, dendritic, and neutrophil cells: immune synapse formation, perforin/granule localization, phagocytic cup formation, podosome assembly, membrane protrusion, and migration. All of these depend on dynamic remodeling of which cellular structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extracellular matrix collagen"
+        },
+        {
+          "label": "B",
+          "text": "The endoplasmic reticulum"
+        },
+        {
+          "label": "C",
+          "text": "The microtubule (tubulin) network"
+        },
+        {
+          "label": "D",
+          "text": "The nuclear lamina"
+        },
+        {
+          "label": "E",
+          "text": "The actin cytoskeleton"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Actin polymerization/remodeling underlies immune-synapse formation, phagocytosis, granule delivery, podosome and membrane-protrusion dynamics, and leukocyte migration. Defects in actin regulators (e.g., WASP in Wiskott-Aldrich syndrome) impair these functions.",
+        "whyCorrect": "Actin polymerization/remodeling underlies immune-synapse formation, phagocytosis, granule delivery, podosome and membrane-protrusion dynamics, and leukocyte migration. Defects in actin regulators (e.g., WASP in Wiskott-Aldrich syndrome) impair these functions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-088_15_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

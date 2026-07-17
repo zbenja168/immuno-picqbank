@@ -1,0 +1,396 @@
+{
+  "categoryId": "phagocyte-function",
+  "categoryName": "Phagocyte Function",
+  "questions": [
+    {
+      "id": "impic-033",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "This stellate cell bearing numerous spiny membrane processes specializes in capturing antigen and priming naive T cells. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Megakaryocyte"
+        },
+        {
+          "label": "B",
+          "text": "Basophil"
+        },
+        {
+          "label": "C",
+          "text": "Red blood cell"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Dendritic cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The characteristic star-shaped morphology with many long processes marks a dendritic cell, the most effective professional antigen-presenting cell for activating naive T cells.",
+        "whyCorrect": "The characteristic star-shaped morphology with many long processes marks a dendritic cell, the most effective professional antigen-presenting cell for activating naive T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-033_3_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-034",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The diagram follows a dendritic cell capturing antigen in skin and presenting it to a naive T cell in the lymph node. Besides peptide-MHC recognition, what second signal must the dendritic cell deliver to fully activate the naive T cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine release"
+        },
+        {
+          "label": "B",
+          "text": "Complement C3b deposition"
+        },
+        {
+          "label": "C",
+          "text": "Perforin and granzyme delivery"
+        },
+        {
+          "label": "D",
+          "text": "Fc receptor cross-linking"
+        },
+        {
+          "label": "E",
+          "text": "Costimulation via B7 (CD80/86) binding CD28"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naive T-cell activation requires signal 1 (peptide-MHC engaging the TCR) plus signal 2, costimulation through B7 (CD80/86) on the mature dendritic cell binding CD28 on the T cell. CCR7 guides the DC to the T-cell zone; without costimulation the T cell becomes anergic.",
+        "whyCorrect": "Naive T-cell activation requires signal 1 (peptide-MHC engaging the TCR) plus signal 2, costimulation through B7 (CD80/86) on the mature dendritic cell binding CD28 on the T cell. CCR7 guides the DC to the T-cell zone; without costimulation the T cell becomes anergic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-034_3_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-035",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The figure contrasts antigen capture in lymph nodes (tissue antigens) with capture in the organ that filters blood-borne antigens. Loss of that blood-filtering organ leaves patients especially vulnerable to which pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous dermatophyte fungi"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular mycobacteria"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated bacteria (e.g., S. pneumoniae, H. influenzae, N. meningitidis)"
+        },
+        {
+          "label": "D",
+          "text": "Helminth parasites"
+        },
+        {
+          "label": "E",
+          "text": "Non-enveloped gastrointestinal viruses"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spleen captures and clears blood-borne antigens and opsonized encapsulated organisms via its marginal zone. Asplenic or hyposplenic patients are at high risk of overwhelming infection by encapsulated bacteria and require vaccination and prophylaxis.",
+        "whyCorrect": "The spleen captures and clears blood-borne antigens and opsonized encapsulated organisms via its marginal zone. Asplenic or hyposplenic patients are at high risk of overwhelming infection by encapsulated bacteria and require vaccination and prophylaxis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-035_3_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-061",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The oxidative (respiratory) burst diagrammed here is defective in a phagocyte immunodeficiency causing recurrent catalase-positive infections. Which test confirms that diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin (Coombs) test"
+        },
+        {
+          "label": "B",
+          "text": "Sweat chloride test"
+        },
+        {
+          "label": "C",
+          "text": "Tzanck smear"
+        },
+        {
+          "label": "D",
+          "text": "Dihydrorhodamine (DHR) flow cytometry (or the nitroblue tetrazolium, NBT, test)"
+        },
+        {
+          "label": "E",
+          "text": "CH50 total complement assay"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A defect in the NADPH oxidase that generates superoxide causes chronic granulomatous disease. The DHR and NBT tests measure the phagocyte oxidative burst; failure to oxidize the dye confirms CGD.",
+        "whyCorrect": "A defect in the NADPH oxidase that generates superoxide causes chronic granulomatous disease. The DHR and NBT tests measure the phagocyte oxidative burst; failure to oxidize the dye confirms CGD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-061_3_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-096",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "This cartoon jokes that neutrophils can 'shoot traps' to catch pathogens. What is the actual name of this antimicrobial process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement fixation"
+        },
+        {
+          "label": "B",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "C",
+          "text": "Antigen presentation on MHC II"
+        },
+        {
+          "label": "D",
+          "text": "Antibody-dependent cellular cytotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil extracellular trap (NET) formation / NETosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neutrophils extrude webs of decondensed chromatin (DNA) studded with antimicrobial proteins such as myeloperoxidase and elastase that trap and kill extracellular microbes. This process is called NETosis.",
+        "whyCorrect": "Neutrophils extrude webs of decondensed chromatin (DNA) studded with antimicrobial proteins such as myeloperoxidase and elastase that trap and kill extracellular microbes. This process is called NETosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-096_3_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-097",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "These cultured cells display long, thin cytoplasmic veils/processes and are the most potent activators of naive T cells. What cell type are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dendritic cell"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Erythrocyte"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dendritic cells extend numerous membrane processes that increase surface area for antigen capture and presentation. They are the principal professional antigen-presenting cells that prime naive T lymphocytes.",
+        "whyCorrect": "Dendritic cells extend numerous membrane processes that increase surface area for antigen capture and presentation. They are the principal professional antigen-presenting cells that prime naive T lymphocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-097_3_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-098",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The IL-12 / IFN-gamma feedback loop shown between a T cell and a macrophage is essential for eliminating which type of pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intracellular microbes (e.g., Mycobacterium, Listeria)"
+        },
+        {
+          "label": "B",
+          "text": "Blood-group-incompatible red cells"
+        },
+        {
+          "label": "C",
+          "text": "Free-floating extracellular toxins"
+        },
+        {
+          "label": "D",
+          "text": "Large extracellular parasites (helminths)"
+        },
+        {
+          "label": "E",
+          "text": "Non-infectious pollen allergens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Macrophage-derived IL-12 drives Th1 (and NK) cells to secrete IFN-gamma, which classically activates macrophages to kill phagocytosed intracellular organisms. Defects in this axis (e.g., IL-12 or IFN-gamma receptor mutations) cause susceptibility to mycobacteria.",
+        "whyCorrect": "Macrophage-derived IL-12 drives Th1 (and NK) cells to secrete IFN-gamma, which classically activates macrophages to kill phagocytosed intracellular organisms. Defects in this axis (e.g., IL-12 or IFN-gamma receptor mutations) cause susceptibility to mycobacteria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-098_3_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-099",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "Identify the predominant white blood cells in this smear: cells with a multilobed (3-5 lobe) nucleus and pale, finely granular cytoplasm.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophil"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "C",
+          "text": "Monocyte"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Segmented neutrophils have a nucleus of 3-5 lobes joined by thin strands and neutral (pale) cytoplasmic granules. They are the most abundant circulating leukocyte and the first responders in acute bacterial infection.",
+        "whyCorrect": "Segmented neutrophils have a nucleus of 3-5 lobes joined by thin strands and neutral (pale) cytoplasmic granules. They are the most abundant circulating leukocyte and the first responders in acute bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-099_3_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-117",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "In this peripheral blood smear, identify the largest leukocyte, which has abundant blue-gray cytoplasm and a folded, kidney-shaped (indented) nucleus.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Segmented neutrophil"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "C",
+          "text": "Small lymphocyte"
+        },
+        {
+          "label": "D",
+          "text": "Basophil"
+        },
+        {
+          "label": "E",
+          "text": "Monocyte"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Monocytes are the largest circulating leukocytes, with a folded reniform nucleus and abundant gray-blue cytoplasm. They migrate into tissues to become macrophages. The smaller multilobed cells present are neutrophils.",
+        "whyCorrect": "Monocytes are the largest circulating leukocytes, with a folded reniform nucleus and abundant gray-blue cytoplasm. They migrate into tissues to become macrophages. The smaller multilobed cells present are neutrophils.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-117_3_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-118",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "In this blood smear, identify the granulocyte with a bilobed nucleus packed with coarse red-orange (eosinophilic) granules.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monocyte"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "E",
+          "text": "Basophil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Eosinophils have a bilobed nucleus and large red-orange granules. They defend against helminths and participate in allergic (type I hypersensitivity) reactions; their granules contain major basic protein.",
+        "whyCorrect": "Eosinophils have a bilobed nucleus and large red-orange granules. They defend against helminths and participate in allergic (type I hypersensitivity) reactions; their granules contain major basic protein.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-118_3_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "categoryId": "inborn-errors-of-innate-immunity",
+  "categoryName": "Inborn Errors of Innate Immunity",
+  "questions": [
+    {
+      "id": "impic-064",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "These children share silvery/light hair, partial oculocutaneous hypopigmentation, and a history of recurrent pyogenic infections; their neutrophils contain giant granules. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oculocutaneous albinism type 1 (tyrosinase deficiency)"
+        },
+        {
+          "label": "B",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "C",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "D",
+          "text": "X-linked (Bruton) agammaglobulinemia"
+        },
+        {
+          "label": "E",
+          "text": "Chediak-Higashi syndrome (LYST mutation)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chediak-Higashi syndrome (autosomal recessive LYST mutation) impairs lysosomal trafficking, producing giant granules, partial albinism, recurrent infections, peripheral neuropathy, and a bleeding tendency. Isolated albinism lacks the immunodeficiency and giant granules.",
+        "whyCorrect": "Chediak-Higashi syndrome (autosomal recessive LYST mutation) impairs lysosomal trafficking, producing giant granules, partial albinism, recurrent infections, peripheral neuropathy, and a bleeding tendency. Isolated albinism lacks the immunodeficiency and giant granules.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-064_5_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-065",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "The right image shows a neutrophil with abnormal giant cytoplasmic granules from a patient with Chediak-Higashi syndrome. What underlying cellular defect produces these giant granules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective lysosomal trafficking/fusion (LYST mutation) causing failed phagolysosome formation"
+        },
+        {
+          "label": "B",
+          "text": "Complement C1-inhibitor deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Deficient leukocyte integrin CD18"
+        },
+        {
+          "label": "D",
+          "text": "Failure of V(D)J recombination"
+        },
+        {
+          "label": "E",
+          "text": "Absent NADPH oxidase activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mutation of the lysosomal trafficking regulator (LYST) causes granules and lysosomes to fuse into giant dysfunctional structures and impairs phagolysosome formation, so ingested microbes are not efficiently killed, resulting in recurrent infections.",
+        "whyCorrect": "Mutation of the lysosomal trafficking regulator (LYST) causes granules and lysosomes to fuse into giant dysfunctional structures and impairs phagolysosome formation, so ingested microbes are not efficiently killed, resulting in recurrent infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-065_5_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-066",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "The neutrophil oxidative burst diagrammed here is absent when NADPH oxidase is deficient (chronic granulomatous disease). Patients are especially prone to infection by which category of organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase-negative streptococci"
+        },
+        {
+          "label": "B",
+          "text": "Non-enveloped viruses"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated organisms only in the setting of asplenia"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria species"
+        },
+        {
+          "label": "E",
+          "text": "Catalase-positive organisms (e.g., S. aureus, Serratia, Nocardia, Aspergillus)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Catalase-positive microbes degrade their own hydrogen peroxide, so CGD phagocytes lacking NADPH oxidase cannot borrow microbial H2O2 to kill them. Catalase-negative organisms supply peroxide the phagocyte can still use.",
+        "whyCorrect": "Catalase-positive microbes degrade their own hydrogen peroxide, so CGD phagocytes lacking NADPH oxidase cannot borrow microbial H2O2 to kill them. Catalase-negative organisms supply peroxide the phagocyte can still use.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-066_5_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-067",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This lung biopsy shows granulomatous inflammation; the inset silver stain reveals septate hyphae branching at acute (~45-degree) angles. What organism is this, a classic cause of infection in chronic granulomatous disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucor (Rhizopus)"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "C",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "D",
+          "text": "Aspergillus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Septate hyphae with acute-angle (~45-degree) dichotomous branching are characteristic of Aspergillus, and invasive aspergillosis is a hallmark infection in chronic granulomatous disease. Mucormycosis instead shows broad, ribbon-like, nonseptate hyphae with wide-angle branching.",
+        "whyCorrect": "Septate hyphae with acute-angle (~45-degree) dichotomous branching are characteristic of Aspergillus, and invasive aspergillosis is a hallmark infection in chronic granulomatous disease. Mucormycosis instead shows broad, ribbon-like, nonseptate hyphae with wide-angle branching.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-067_5_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-068",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This assay compares oxidative burst (measured by flow cytometry and a colorimetric slide reaction) in resting versus PMA-stimulated neutrophils from a normal subject, an affected patient, and a carrier. The affected patient's neutrophils fail to show the stimulation-induced signal shift. A defect in which enzyme complex best explains this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lysosomal trafficking regulator (LYST)"
+        },
+        {
+          "label": "B",
+          "text": "Superoxide dismutase"
+        },
+        {
+          "label": "C",
+          "text": "Myeloperoxidase"
+        },
+        {
+          "label": "D",
+          "text": "NADPH oxidase"
+        },
+        {
+          "label": "E",
+          "text": "Glucose-6-phosphate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure shows a dihydrorhodamine (DHR)/flow-cytometry respiratory burst assay. Normal neutrophils shift dramatically with PMA (SI ~139), while the affected patient (XL-CGD) shows almost no shift (SI ~1.2) and the X-linked carrier shows a bimodal population. Failure to generate the oxidative burst reflects a defective phagocyte NADPH oxidase, the hallmark of chronic granulomatous disease. Myeloperoxidase deficiency still permits the burst; LYST defects cause Chediak-Higashi; the others are unrelated to this assay.",
+        "whyCorrect": "The figure shows a dihydrorhodamine (DHR)/flow-cytometry respiratory burst assay. Normal neutrophils shift dramatically with PMA (SI ~139), while the affected patient (XL-CGD) shows almost no shift (SI ~1.2) and the X-linked carrier shows a bimodal population. Failure to generate the oxidative burst reflects a defective phagocyte NADPH oxidase, the hallmark of chronic granulomatous disease. Myeloperoxidase deficiency still permits the burst; LYST defects cause Chediak-Higashi; the others are unrelated to this assay.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-068_5_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-069",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This flow-cytometry histogram measures cell-surface expression of a leukocyte molecule. The patient's cells (compared to negative control and to both parents) show markedly reduced expression, while both parents express it normally. Given the near-absent expression demonstrated here, which condition does this patient most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wiskott-Aldrich syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hyper-IgM syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "D",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "E",
+          "text": "Chediak-Higashi syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The histogram measures CD18, the beta-2 integrin subunit. The patient's leukocytes essentially lack CD18 expression while both heterozygous parents express it normally, consistent with autosomal recessive leukocyte adhesion deficiency type 1. Without CD18, neutrophils cannot firmly adhere to and cross the endothelium, producing recurrent infections without pus. CGD is a defect of the oxidative burst, not CD18 expression.",
+        "whyCorrect": "The histogram measures CD18, the beta-2 integrin subunit. The patient's leukocytes essentially lack CD18 expression while both heterozygous parents express it normally, consistent with autosomal recessive leukocyte adhesion deficiency type 1. Without CD18, neutrophils cannot firmly adhere to and cross the endothelium, producing recurrent infections without pus. CGD is a defect of the oxidative burst, not CD18 expression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-069_5_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-103",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This figure depicts a numbered sequence beginning with a barrier break and microbial entry, followed by sentinel-cell activation, secretion of mediators, increased vascular permeability, and leukocyte recruitment. Which vascular change occurring at step 4 is directly responsible for the local swelling (edema) seen clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction reducing blood flow to the site"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular permeability allowing fluid and plasma proteins into tissue"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial apoptosis causing vessel thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Platelet plug formation sealing the capillary"
+        },
+        {
+          "label": "E",
+          "text": "Decreased hydrostatic pressure within the venule"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure illustrates the acute inflammatory response. Mediators released by sentinel cells (step 3) act on the capillary-venule to increase vascular permeability (step 4), letting fluid, complement, and antibodies exit into tissue, which produces edema and delivers plasma proteins to the infection. Vasodilation (not vasoconstriction) increases flow, and the endothelium remains viable.",
+        "whyCorrect": "The figure illustrates the acute inflammatory response. Mediators released by sentinel cells (step 3) act on the capillary-venule to increase vascular permeability (step 4), letting fluid, complement, and antibodies exit into tissue, which produces edema and delivers plasma proteins to the infection. Vasodilation (not vasoconstriction) increases flow, and the endothelium remains viable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-103_5_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-104",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This figure shows the three sequential steps by which a neutrophil leaves the bloodstream at a site of tissue injury: rolling, firm binding, and transmigration between endothelial cells. A child with recurrent bacterial infections without pus, delayed umbilical cord separation, and markedly elevated blood neutrophils has a defect in the molecule mediating the firm-binding step. Which molecule is defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sialyl-Lewis X glycoprotein on the leukocyte"
+        },
+        {
+          "label": "B",
+          "text": "P-selectin on the endothelium"
+        },
+        {
+          "label": "C",
+          "text": "PECAM-1 (CD31) at endothelial junctions"
+        },
+        {
+          "label": "D",
+          "text": "E-selectin on the endothelium"
+        },
+        {
+          "label": "E",
+          "text": "CD11/CD18 (beta-2) integrin on the leukocyte"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the leukocyte adhesion cascade: selectins mediate rolling, leukocyte CD11/CD18 integrins binding endothelial ICAM-1 mediate firm arrest, and PECAM-1 mediates diapedesis. Defective CD18 (beta-2 integrin) causes leukocyte adhesion deficiency type 1, characterized by recurrent infections without pus, delayed cord separation, and neutrophilia because neutrophils cannot firmly adhere and exit vessels. A Sialyl-Lewis X defect causes LAD type 2, which lacks the cord-separation delay severity and neutrophilia is less pronounced.",
+        "whyCorrect": "The figure shows the leukocyte adhesion cascade: selectins mediate rolling, leukocyte CD11/CD18 integrins binding endothelial ICAM-1 mediate firm arrest, and PECAM-1 mediates diapedesis. Defective CD18 (beta-2 integrin) causes leukocyte adhesion deficiency type 1, characterized by recurrent infections without pus, delayed cord separation, and neutrophilia because neutrophils cannot firmly adhere and exit vessels. A Sialyl-Lewis X defect causes LAD type 2, which lacks the cord-separation delay severity and neutrophilia is less pronounced.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-104_5_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

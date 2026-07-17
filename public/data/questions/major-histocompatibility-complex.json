@@ -1,0 +1,279 @@
+{
+  "categoryId": "major-histocompatibility-complex",
+  "categoryName": "Major Histocompatibility Complex",
+  "questions": [
+    {
+      "id": "impic-038",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure traces how extracellular protein antigens are taken into vesicles of an antigen-presenting cell, processed, and loaded onto MHC molecules for surface display to CD4+ helper T cells. In the vesicular compartment, HLA-DM performs which essential function before peptide presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It ubiquitinates the antigen to target it to the proteasome"
+        },
+        {
+          "label": "B",
+          "text": "It transports peptides from the cytosol into the endoplasmic reticulum"
+        },
+        {
+          "label": "C",
+          "text": "It stabilizes beta-2 microglobulin association with the class II chains"
+        },
+        {
+          "label": "D",
+          "text": "It catalyzes removal of the CLIP fragment so antigenic peptides can bind the class II groove"
+        },
+        {
+          "label": "E",
+          "text": "It cleaves the invariant chain to generate the peptide-binding cleft de novo"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is the MHC class II (exogenous) processing pathway. After the invariant chain is degraded, a residual CLIP fragment occupies the class II groove. HLA-DM catalyzes exchange of CLIP for higher-affinity antigenic peptides, enabling display to CD4+ T cells. TAP-mediated cytosol-to-ER transport belongs to the class I pathway, and beta-2 microglobulin associates with class I, not class II.",
+        "whyCorrect": "This is the MHC class II (exogenous) processing pathway. After the invariant chain is degraded, a residual CLIP fragment occupies the class II groove. HLA-DM catalyzes exchange of CLIP for higher-affinity antigenic peptides, enabling display to CD4+ T cells. TAP-mediated cytosol-to-ER transport belongs to the class I pathway, and beta-2 microglobulin associates with class I, not class II.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-038_6_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-039",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure shows how endogenously synthesized (e.g., viral) proteins in the cytosol are processed and loaded onto MHC molecules for display to CD8+ cytotoxic T cells. What is the function of the transporter labeled TAP in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It adds ubiquitin to viral proteins targeting them for degradation"
+        },
+        {
+          "label": "B",
+          "text": "It removes CLIP from the peptide-binding groove"
+        },
+        {
+          "label": "C",
+          "text": "It transports proteasome-generated peptides from the cytosol into the endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "It degrades ubiquitinated proteins into short peptides"
+        },
+        {
+          "label": "E",
+          "text": "It exports assembled peptide-MHC complexes to the cell surface"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the MHC class I (endogenous) pathway. Cytosolic proteins are ubiquitinated and degraded by the proteasome; the transporter associated with antigen processing (TAP) then pumps these peptides into the ER, where they are loaded (with tapasin's help) onto newly assembled class I/beta-2 microglobulin molecules for display to CD8+ T cells. The proteasome, not TAP, performs the degradation.",
+        "whyCorrect": "This is the MHC class I (endogenous) pathway. Cytosolic proteins are ubiquitinated and degraded by the proteasome; the transporter associated with antigen processing (TAP) then pumps these peptides into the ER, where they are loaded (with tapasin's help) onto newly assembled class I/beta-2 microglobulin molecules for display to CD8+ T cells. The proteasome, not TAP, performs the degradation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-039_6_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-040",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure shows a dendritic cell engulfing fragments of a virally infected cell, then routing the internalized viral antigen so that it appears on MHC class I to activate a virus-specific CD8+ T cell. This ability of a dendritic cell to prime CD8+ T cells against a virus that never infected the dendritic cell itself depends on which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superantigen-mediated activation independent of peptide"
+        },
+        {
+          "label": "B",
+          "text": "Cross-presentation of exogenous antigen on MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "Direct endogenous class I presentation of self-synthesized viral protein"
+        },
+        {
+          "label": "D",
+          "text": "NK-mediated recognition of missing self"
+        },
+        {
+          "label": "E",
+          "text": "Class II presentation of exogenous antigen to the same CD8+ cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normally exogenous (engulfed) antigens are displayed on MHC class II to CD4 cells, while class I displays endogenously synthesized proteins. Cross-presentation is the specialized dendritic-cell pathway that diverts internalized exogenous antigen onto MHC class I, allowing priming of naive CD8+ cytotoxic T cells against pathogens (and tumors) that do not directly infect the APC. Costimulation is also provided, as shown.",
+        "whyCorrect": "Normally exogenous (engulfed) antigens are displayed on MHC class II to CD4 cells, while class I displays endogenously synthesized proteins. Cross-presentation is the specialized dendritic-cell pathway that diverts internalized exogenous antigen onto MHC class I, allowing priming of naive CD8+ cytotoxic T cells against pathogens (and tumors) that do not directly infect the APC. Costimulation is also provided, as shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-040_6_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-041",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure contrasts a CD8+ T cell engaging a target cell (left) and a CD4+ T cell engaging an antigen-presenting cell (right), each showing the TCR-MHC-peptide interaction plus an additional receptor-ligand pair. Besides TCR recognition of peptide-MHC (signal 1), what is the essential costimulatory interaction (signal 2) required for full naive T-cell activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 binding MHC class II"
+        },
+        {
+          "label": "B",
+          "text": "PD-1 binding PD-L1"
+        },
+        {
+          "label": "C",
+          "text": "CD40L on the APC binding CD40 on the T cell"
+        },
+        {
+          "label": "D",
+          "text": "CD8 binding MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "CD28 on the T cell binding B7 (CD80/CD86) on the APC"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the immunological synapse with the TCR-MHC-peptide complex plus a costimulatory pair. Signal 1 is TCR recognition of peptide-MHC (with CD4/CD8 as coreceptors); signal 2 is delivered by T-cell CD28 binding B7 (CD80/CD86) on the APC. Without this costimulation, a naive T cell becomes anergic. CD40L-CD40 signaling runs from the T cell to the APC/B cell, licensing the APC, and is not the CD28 costimulatory signal itself.",
+        "whyCorrect": "The figure shows the immunological synapse with the TCR-MHC-peptide complex plus a costimulatory pair. Signal 1 is TCR recognition of peptide-MHC (with CD4/CD8 as coreceptors); signal 2 is delivered by T-cell CD28 binding B7 (CD80/CD86) on the APC. Without this costimulation, a naive T cell becomes anergic. CD40L-CD40 signaling runs from the T cell to the APC/B cell, licensing the APC, and is not the CD28 costimulatory signal itself.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-041_6_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-105",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This map shows the organization of the human MHC (HLA) gene complex, including the class I loci, class II loci, and intervening genes encoding complement components and TNF. On which chromosome is this gene complex located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromosome 15"
+        },
+        {
+          "label": "B",
+          "text": "Chromosome 7"
+        },
+        {
+          "label": "C",
+          "text": "Chromosome 6"
+        },
+        {
+          "label": "D",
+          "text": "Chromosome 14"
+        },
+        {
+          "label": "E",
+          "text": "Chromosome 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The human HLA complex resides on the short arm of chromosome 6. The map shows class I genes (HLA-A, -B, -C), class II genes (HLA-DP, -DQ, -DR) along with DM and the antigen-processing TAP/proteasome genes, and the class III region encoding complement proteins (C4, C2, factor B) and cytokines (TNF, lymphotoxin). Chromosome 14 carries the Ig heavy chain and TCR alpha loci, not the MHC.",
+        "whyCorrect": "The human HLA complex resides on the short arm of chromosome 6. The map shows class I genes (HLA-A, -B, -C), class II genes (HLA-DP, -DQ, -DR) along with DM and the antigen-processing TAP/proteasome genes, and the class III region encoding complement proteins (C4, C2, factor B) and cytokines (TNF, lymphotoxin). Chromosome 14 carries the Ig heavy chain and TCR alpha loci, not the MHC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-105_6_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-124",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This table summarizes properties of MHC molecules, including which cell types express each class. A virus infects a skin fibroblast (a non-hematopoietic mesenchymal cell). Based on the expression pattern shown, viral peptides displayed on this infected fibroblast will be recognized by which T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gamma-delta T cells via MHC class I"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T lymphocytes via MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "CD4+ helper T cells via MHC class II"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer T cells via CD1"
+        },
+        {
+          "label": "E",
+          "text": "Regulatory T cells via MHC class II"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The table shows MHC class I is expressed on all nucleated cells (including mesenchymal cells like fibroblasts), whereas class II is restricted to professional APCs (dendritic cells, macrophages, B cells). Because a fibroblast expresses class I but not class II, it presents endogenous viral peptides on MHC class I to CD8+ cytotoxic T cells, which can then kill the infected cell. Class II-restricted CD4 responses require professional APCs.",
+        "whyCorrect": "The table shows MHC class I is expressed on all nucleated cells (including mesenchymal cells like fibroblasts), whereas class II is restricted to professional APCs (dendritic cells, macrophages, B cells). Because a fibroblast expresses class I but not class II, it presents endogenous viral peptides on MHC class I to CD8+ cytotoxic T cells, which can then kill the infected cell. Class II-restricted CD4 responses require professional APCs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-124_6_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-125",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This diagram compares the domain architecture of the two classes of MHC molecule anchored in the cell membrane. One class is built from a single polymorphic heavy chain paired with an invariant small subunit, while the other is built from two membrane-anchored polymorphic chains of similar size. Which feature is unique to the class shown on the left (MHC class I)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-covalently associated beta-2 microglobulin subunit"
+        },
+        {
+          "label": "B",
+          "text": "Two transmembrane-anchored polymorphic chains of equal size"
+        },
+        {
+          "label": "C",
+          "text": "Expression restricted to professional antigen-presenting cells"
+        },
+        {
+          "label": "D",
+          "text": "A peptide-binding groove formed by two separate polymorphic chains"
+        },
+        {
+          "label": "E",
+          "text": "An invariant chain occupying the groove during assembly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MHC class I consists of a single polymorphic heavy chain (alpha-1, alpha-2, alpha-3) non-covalently bound to the invariant beta-2 microglobulin; its peptide-binding cleft is formed by alpha-1 and alpha-2 of that single chain. MHC class II is a heterodimer of two membrane-anchored chains (alpha and beta), with the groove formed by alpha-1 and beta-1. Beta-2 microglobulin is therefore the distinguishing subunit of class I.",
+        "whyCorrect": "MHC class I consists of a single polymorphic heavy chain (alpha-1, alpha-2, alpha-3) non-covalently bound to the invariant beta-2 microglobulin; its peptide-binding cleft is formed by alpha-1 and alpha-2 of that single chain. MHC class II is a heterodimer of two membrane-anchored chains (alpha and beta), with the groove formed by alpha-1 and beta-1. Beta-2 microglobulin is therefore the distinguishing subunit of class I.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-125_6_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

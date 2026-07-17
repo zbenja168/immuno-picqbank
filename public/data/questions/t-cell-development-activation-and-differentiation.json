@@ -1,0 +1,201 @@
+{
+  "categoryId": "t-cell-development-activation-and-differentiation",
+  "categoryName": "T Cell Development, Activation, and Differentiation",
+  "questions": [
+    {
+      "id": "impic-052",
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "stem": "This figure follows T-cell development from lymphoid progenitors entering the thymus, progressing through double-negative and double-positive stages with V(D)J recombination of the TCR, and emerging as mature single-positive CD4+ or CD8+ T cells that enter the circulation. In which organ does this antigen-independent development and selection of T cells occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Thymus"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Lymph node"
+        },
+        {
+          "label": "E",
+          "text": "Bone marrow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Although T-cell progenitors arise in the bone marrow, they migrate to the thymus, where they undergo TCR gene rearrangement and progress from double-negative to double-positive (CD4+CD8+) thymocytes and then to single-positive CD4+ or CD8+ cells. Positive selection occurs in the thymic cortex and negative selection in the medulla. Failure of thymic development (e.g., DiGeorge syndrome) results in absent mature T cells.",
+        "whyCorrect": "Although T-cell progenitors arise in the bone marrow, they migrate to the thymus, where they undergo TCR gene rearrangement and progress from double-negative to double-positive (CD4+CD8+) thymocytes and then to single-positive CD4+ or CD8+ cells. Positive selection occurs in the thymic cortex and negative selection in the medulla. Failure of thymic development (e.g., DiGeorge syndrome) results in absent mature T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-052_9_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-086",
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "stem": "This figure shows double-positive thymocytes in the cortex being tested against self MHC plus peptide. Some weakly recognize MHC and are positively selected, while others fail to recognize any self MHC. What is the fate of a thymocyte whose T-cell receptor cannot recognize self-MHC at all?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Export as a naive CD8+ T cell"
+        },
+        {
+          "label": "B",
+          "text": "Differentiation into a natural killer cell"
+        },
+        {
+          "label": "C",
+          "text": "Negative selection because of strong self-reactivity"
+        },
+        {
+          "label": "D",
+          "text": "Maturation into a regulatory T cell"
+        },
+        {
+          "label": "E",
+          "text": "Apoptosis by death (neglect) due to failed positive selection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During thymic selection, a double-positive thymocyte must recognize self-MHC weakly to be positively selected (in the cortex). A thymocyte whose TCR cannot engage self-MHC receives no survival signal and dies by neglect. Separately, thymocytes that recognize self-MHC/peptide too strongly are removed by negative selection (apoptosis) in the medulla to enforce central tolerance. Only intermediate-affinity cells survive to become mature CD4+ or CD8+ T cells.",
+        "whyCorrect": "During thymic selection, a double-positive thymocyte must recognize self-MHC weakly to be positively selected (in the cortex). A thymocyte whose TCR cannot engage self-MHC receives no survival signal and dies by neglect. Separately, thymocytes that recognize self-MHC/peptide too strongly are removed by negative selection (apoptosis) in the medulla to enforce central tolerance. Only intermediate-affinity cells survive to become mature CD4+ or CD8+ T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-086_9_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-108",
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "stem": "This figure shows a dendritic cell activating a naive T cell, providing both TCR-MHC engagement and a costimulatory interaction. If the naive T cell receives the TCR-MHC signal (signal 1) but the costimulatory signal (signal 2) is absent, what is the usual consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The T cell lyses the dendritic cell"
+        },
+        {
+          "label": "B",
+          "text": "The T cell secretes maximal IL-2 and expands"
+        },
+        {
+          "label": "C",
+          "text": "The T cell is fully activated and proliferates normally"
+        },
+        {
+          "label": "D",
+          "text": "The T cell becomes anergic (functionally unresponsive)"
+        },
+        {
+          "label": "E",
+          "text": "The T cell differentiates directly into a memory cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Full activation of a naive T cell requires signal 1 (TCR recognition of peptide-MHC, shown with CD4/CD8 coreceptors) plus signal 2, costimulation via CD28 binding B7 (CD80/CD86) on the dendritic cell. If a T cell recognizes antigen without adequate costimulation, it is rendered anergic (or is deleted), a key mechanism of peripheral tolerance that prevents inappropriate activation against self-antigens presented in the absence of danger signals.",
+        "whyCorrect": "Full activation of a naive T cell requires signal 1 (TCR recognition of peptide-MHC, shown with CD4/CD8 coreceptors) plus signal 2, costimulation via CD28 binding B7 (CD80/CD86) on the dendritic cell. If a T cell recognizes antigen without adequate costimulation, it is rendered anergic (or is deleted), a key mechanism of peripheral tolerance that prevents inappropriate activation against self-antigens presented in the absence of danger signals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-108_9_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-109",
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "stem": "This figure shows a naive CD4+ T cell differentiating into distinct helper subsets depending on the cytokine environment, each producing characteristic effector cytokines and functions. Which subset, driven by IL-12 and secreting IFN-gamma, is most important for enhancing macrophage killing of intracellular bacteria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tfh"
+        },
+        {
+          "label": "B",
+          "text": "Th2"
+        },
+        {
+          "label": "C",
+          "text": "Th17"
+        },
+        {
+          "label": "D",
+          "text": "Treg"
+        },
+        {
+          "label": "E",
+          "text": "Th1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "IL-12 (with IFN-gamma) drives Th1 differentiation; Th1 cells secrete IFN-gamma, which activates macrophages to kill ingested intracellular pathogens and promotes B-cell switching to opsonizing IgG. Th2 (IL-4) targets helminths and drives IgE; Th17 (IL-6, TGF-beta, IL-1) recruits neutrophils against extracellular bacteria and fungi; Treg (TGF-beta, IL-2) suppresses responses and maintains tolerance.",
+        "whyCorrect": "IL-12 (with IFN-gamma) drives Th1 differentiation; Th1 cells secrete IFN-gamma, which activates macrophages to kill ingested intracellular pathogens and promotes B-cell switching to opsonizing IgG. Th2 (IL-4) targets helminths and drives IgE; Th17 (IL-6, TGF-beta, IL-1) recruits neutrophils against extracellular bacteria and fungi; Treg (TGF-beta, IL-2) suppresses responses and maintains tolerance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-109_9_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-128",
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "stem": "This figure outlines the T-cell receptor signaling cascade: TCR/CD3 clustering, Lck-mediated phosphorylation and ZAP-70 recruitment, and downstream events that raise cytosolic calcium and activate transcription factors including NFAT, NF-kB, and AP-1. The rise in cytosolic calcium activates calcineurin, which in turn activates which transcription factor targeted by cyclosporine and tacrolimus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "STAT3"
+        },
+        {
+          "label": "B",
+          "text": "NF-kB"
+        },
+        {
+          "label": "C",
+          "text": "Myc"
+        },
+        {
+          "label": "D",
+          "text": "AP-1"
+        },
+        {
+          "label": "E",
+          "text": "NFAT"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Increased cytosolic calcium activates the phosphatase calcineurin, which dephosphorylates NFAT, allowing it to enter the nucleus and drive IL-2 transcription. The immunosuppressants cyclosporine and tacrolimus inhibit calcineurin, blocking NFAT activation and thereby suppressing T-cell activation, which is exploited to prevent transplant rejection. NF-kB and AP-1 are activated through the PKC and MAPK arms of the same cascade.",
+        "whyCorrect": "Increased cytosolic calcium activates the phosphatase calcineurin, which dephosphorylates NFAT, allowing it to enter the nucleus and drive IL-2 transcription. The immunosuppressants cyclosporine and tacrolimus inhibit calcineurin, blocking NFAT activation and thereby suppressing T-cell activation, which is exploited to prevent transplant rejection. NF-kB and AP-1 are activated through the PKC and MAPK arms of the same cascade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-128_9_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

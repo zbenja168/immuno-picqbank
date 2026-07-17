@@ -1,0 +1,162 @@
+{
+  "categoryId": "biologic-agents",
+  "categoryName": "Biologic Agents",
+  "questions": [
+    {
+      "id": "impic-078",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "Anakinra blocks inflammatory signaling at the IL-1 receptor, as shown. Anakinra is a recombinant form of which naturally occurring molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1 receptor antagonist (IL-1Ra)"
+        },
+        {
+          "label": "B",
+          "text": "IL-10"
+        },
+        {
+          "label": "C",
+          "text": "Soluble TNF receptor"
+        },
+        {
+          "label": "D",
+          "text": "A monoclonal anti-IL-1 antibody"
+        },
+        {
+          "label": "E",
+          "text": "IL-6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anakinra is recombinant IL-1 receptor antagonist; it occupies the IL-1 receptor without triggering signaling, competitively blocking IL-1alpha and IL-1beta. It is used in rheumatoid arthritis and autoinflammatory syndromes.",
+        "whyCorrect": "Anakinra is recombinant IL-1 receptor antagonist; it occupies the IL-1 receptor without triggering signaling, competitively blocking IL-1alpha and IL-1beta. It is used in rheumatoid arthritis and autoinflammatory syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-078_19_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-079",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "Infliximab is a monoclonal antibody that binds both soluble and membrane-bound TNF-alpha, preventing it from engaging its receptor. Before starting this drug, patients must be screened for reactivation of which latent infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malaria"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis A"
+        },
+        {
+          "label": "C",
+          "text": "Herpes zoster"
+        },
+        {
+          "label": "D",
+          "text": "Group A streptococcus"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TNF-alpha is essential for forming and maintaining granulomas that contain Mycobacterium tuberculosis. TNF blockade with infliximab can allow reactivation of latent TB, so latent TB screening is required before initiating therapy.",
+        "whyCorrect": "TNF-alpha is essential for forming and maintaining granulomas that contain Mycobacterium tuberculosis. TNF blockade with infliximab can allow reactivation of latent TB, so latent TB screening is required before initiating therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-079_19_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-112",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "Etanercept neutralizes TNF-alpha, as shown, but structurally it is not an antibody. What is etanercept?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A soluble TNF-receptor-IgG Fc fusion protein (decoy receptor)"
+        },
+        {
+          "label": "B",
+          "text": "An antisense oligonucleotide against TNF mRNA"
+        },
+        {
+          "label": "C",
+          "text": "A small-molecule TNF synthesis inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "A humanized monoclonal antibody against TNF-alpha"
+        },
+        {
+          "label": "E",
+          "text": "A recombinant IL-1 receptor antagonist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Etanercept is a fusion protein linking the extracellular ligand-binding portion of the p75 TNF receptor to the Fc region of human IgG1. It acts as a soluble decoy that binds circulating TNF-alpha, preventing it from activating cell-surface TNF receptors.",
+        "whyCorrect": "Etanercept is a fusion protein linking the extracellular ligand-binding portion of the p75 TNF receptor to the Fc region of human IgG1. It acts as a soluble decoy that binds circulating TNF-alpha, preventing it from activating cell-surface TNF receptors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-112_19_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-131",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "This figure arranges therapeutic antibodies from fully murine to fully human, with tolerance increasing as murine content falls. What is the main clinical advantage of a fully human monoclonal antibody over a murine one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher antigen-binding affinity in all cases"
+        },
+        {
+          "label": "B",
+          "text": "Ability to cross the blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "Longer shelf life of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Greater complement activation"
+        },
+        {
+          "label": "E",
+          "text": "Reduced immunogenicity (less likely to provoke anti-drug antibodies)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "whyCorrect": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-131_19_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

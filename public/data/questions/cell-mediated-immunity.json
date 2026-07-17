@@ -1,0 +1,201 @@
+{
+  "categoryId": "cell-mediated-immunity",
+  "categoryName": "Cell-Mediated Immunity",
+  "questions": [
+    {
+      "id": "impic-001",
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity",
+      "stem": "A naive CD4+ T cell differentiates into the subset shown, which secretes IL-4, IL-5, and IL-13 and drives IgE class switching, mast cell degranulation, eosinophil activation, and intestinal mucus/peristalsis. This response is MOST important for host defense against which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular viruses and bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Extracellular pyogenic bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Systemic fungal infections"
+        },
+        {
+          "label": "E",
+          "text": "Helminth (parasitic worm) infections"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure depicts Th2 differentiation and its effector arms (IL-4/5/13, IgE, eosinophils, mast cells, mucus and peristalsis). This program mediates immunity against helminths and, when dysregulated, causes allergic disease. Intracellular pathogens are handled by Th1/CD8 responses.",
+        "whyCorrect": "The figure depicts Th2 differentiation and its effector arms (IL-4/5/13, IgE, eosinophils, mast cells, mucus and peristalsis). This program mediates immunity against helminths and, when dysregulated, causes allergic disease. Intracellular pathogens are handled by Th1/CD8 responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-001_10_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-087",
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity",
+      "stem": "The CD4+ Th1 cell activates the macrophage via CD40L-CD40 and IFN-gamma. What is the principal antimicrobial consequence of this activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE class switching in B cells"
+        },
+        {
+          "label": "B",
+          "text": "Goblet-cell mucus secretion"
+        },
+        {
+          "label": "C",
+          "text": "Direct antibody-mediated pore formation in bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Histamine release and vasodilation"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced killing of phagocytosed intracellular microbes via reactive oxygen species and nitric oxide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Th1 cells license macrophages through CD40L-CD40 and IFN-gamma. The activated ('classically activated') macrophage generates ROS and NO to kill ingested microbes, secretes TNF/IL-1/IL-12, and upregulates MHC and B7.",
+        "whyCorrect": "Th1 cells license macrophages through CD40L-CD40 and IFN-gamma. The activated ('classically activated') macrophage generates ROS and NO to kill ingested microbes, secretes TNF/IL-1/IL-12, and upregulates MHC and B7.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-087_10_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-110",
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity",
+      "stem": "The CD8+ T cell kills the virus-infected cell using the receptor-ligand pair and downstream caspase shown, without releasing cytotoxic granules. This represents which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opsonization for phagocytosis"
+        },
+        {
+          "label": "B",
+          "text": "A perforin-independent (death-receptor) pathway of cytotoxic killing"
+        },
+        {
+          "label": "C",
+          "text": "Antibody-dependent cell-mediated cytotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Complement-mediated membrane lysis"
+        },
+        {
+          "label": "E",
+          "text": "Necrosis from reactive oxygen species"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FasL on the CTL engages Fas on the target, activating caspase-3 and apoptosis. This death-receptor pathway is an alternative to perforin/granzyme granule exocytosis and does not require granule contents.",
+        "whyCorrect": "FasL on the CTL engages Fas on the target, activating caspase-3 and apoptosis. This death-receptor pathway is an alternative to perforin/granzyme granule exocytosis and does not require granule contents.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-110_10_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-122",
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity",
+      "stem": "A CD8+ cytotoxic T cell recognizes a virus-infected cell via MHC I and releases the granule contents shown. What is the specific role of perforin in this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It forms pores in the target-cell membrane, allowing granzymes to enter"
+        },
+        {
+          "label": "B",
+          "text": "It neutralizes released viral particles"
+        },
+        {
+          "label": "C",
+          "text": "It cross-links Fas to trigger caspases"
+        },
+        {
+          "label": "D",
+          "text": "It directly cleaves target-cell DNA"
+        },
+        {
+          "label": "E",
+          "text": "It fixes complement on the target membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytotoxic granules contain perforin, granzymes, and serglycin. Perforin polymerizes to create pores that let granzymes enter the cytosol, where they activate caspases and induce apoptosis of the infected cell.",
+        "whyCorrect": "Cytotoxic granules contain perforin, granzymes, and serglycin. Perforin polymerizes to create pores that let granzymes enter the cytosol, where they activate caspases and induce apoptosis of the infected cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-122_10_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-134",
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity",
+      "stem": "An antibody-coated tumor cell is recognized by the CD16 Fc receptor on the effector cell shown; Fc cross-linking triggers degranulation and the target dies by apoptosis. What is this killing mechanism called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutralization"
+        },
+        {
+          "label": "B",
+          "text": "Complement-dependent cytotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Opsonization and phagocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Type III immune-complex injury"
+        },
+        {
+          "label": "E",
+          "text": "Antibody-dependent cell-mediated cytotoxicity (ADCC)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NK cells express CD16 (FcγRIII), which binds the Fc region of IgG coating a target cell. Cross-linking triggers release of cytotoxic granules, killing the antibody-coated cell by ADCC. This differs from complement lysis and from phagocytosis.",
+        "whyCorrect": "NK cells express CD16 (FcγRIII), which binds the Fc region of IgG coating a target cell. Cross-linking triggers release of cytotoxic granules, killing the antibody-coated cell by ADCC. This differs from complement lysis and from phagocytosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-134_10_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

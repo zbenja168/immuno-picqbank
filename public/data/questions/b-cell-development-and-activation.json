@@ -1,0 +1,318 @@
+{
+  "categoryId": "b-cell-development-and-activation",
+  "categoryName": "B Cell Development and Activation",
+  "questions": [
+    {
+      "id": "impic-047",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure shows a follicular helper T cell interacting with an activated B cell that has already bound antigen through its B-cell receptor. In addition to TCR recognition of peptide on the B cell's MHC class II, the B cell receives a critical second signal from the T cell. Which receptor-ligand interaction provides this second signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD-L1 on the B cell binding PD-1 on the T cell"
+        },
+        {
+          "label": "B",
+          "text": "ICAM-1 on the B cell binding LFA-1 on the T cell"
+        },
+        {
+          "label": "C",
+          "text": "B7 on the B cell binding CD28 on the T cell"
+        },
+        {
+          "label": "D",
+          "text": "CD40 on the B cell binding CD40 ligand (CD40L) on the T cell"
+        },
+        {
+          "label": "E",
+          "text": "Fas on the B cell binding Fas ligand on the T cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In T-dependent B-cell activation, the B cell presents antigen on MHC class II to a helper (Tfh) cell; the licensed T cell then delivers CD40L, which engages CD40 on the B cell, and secretes cytokines. CD40-CD40L signaling is essential for B-cell proliferation, germinal center formation, isotype switching, and affinity maturation. Loss of CD40L causes hyper-IgM syndrome. Fas-FasL signaling promotes apoptosis, the opposite outcome.",
+        "whyCorrect": "In T-dependent B-cell activation, the B cell presents antigen on MHC class II to a helper (Tfh) cell; the licensed T cell then delivers CD40L, which engages CD40 on the B cell, and secretes cytokines. CD40-CD40L signaling is essential for B-cell proliferation, germinal center formation, isotype switching, and affinity maturation. Loss of CD40L causes hyper-IgM syndrome. Fas-FasL signaling promotes apoptosis, the opposite outcome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-047_8_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-048",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure shows a naive B cell responding to a repetitive polysaccharide antigen (with help from other signals such as complement) and differentiating into short-lived plasma cells that secrete mainly low-affinity IgM, without a germinal center. What type of humoral response does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T-cell response"
+        },
+        {
+          "label": "B",
+          "text": "Affinity-matured secondary response"
+        },
+        {
+          "label": "C",
+          "text": "Delayed-type hypersensitivity response"
+        },
+        {
+          "label": "D",
+          "text": "T-independent antibody response"
+        },
+        {
+          "label": "E",
+          "text": "T-dependent antibody response"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Repetitive polysaccharide antigens can crosslink many B-cell receptors and, with second signals like complement C3d, activate B cells without T-cell help. This T-independent response yields predominantly low-affinity IgM from short-lived plasma cells, with little class switching, affinity maturation, or memory. Because young children mount T-independent responses poorly, encapsulated-organism polysaccharide vaccines are conjugated to protein to recruit T-cell help.",
+        "whyCorrect": "Repetitive polysaccharide antigens can crosslink many B-cell receptors and, with second signals like complement C3d, activate B cells without T-cell help. This T-independent response yields predominantly low-affinity IgM from short-lived plasma cells, with little class switching, affinity maturation, or memory. Because young children mount T-independent responses poorly, encapsulated-organism polysaccharide vaccines are conjugated to protein to recruit T-cell help.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-048_8_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-049",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This graph plots two antibody classes over time after a primary immunization and a later secondary immunization with the same antigen. Compared with the primary response, the secondary response is faster, larger, and dominated by the isotype that peaks highest after re-exposure. Which cells are chiefly responsible for this more rapid and robust secondary response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "B",
+          "text": "Short-lived IgM-secreting plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "Naive B cells newly emerging from the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Follicular dendritic cells"
+        },
+        {
+          "label": "E",
+          "text": "Memory B cells generated during the primary response"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The graph shows IgM dominating the slower primary response, while the secondary response rises faster and higher and is dominated by IgG. This anamnestic response is mediated by long-lived memory B cells (and memory T cells) generated during the primary exposure; upon re-encounter they rapidly proliferate and differentiate into class-switched, high-affinity IgG-secreting plasma cells. This principle underlies vaccine booster dosing.",
+        "whyCorrect": "The graph shows IgM dominating the slower primary response, while the secondary response rises faster and higher and is dominated by IgG. This anamnestic response is mediated by long-lived memory B cells (and memory T cells) generated during the primary exposure; upon re-encounter they rapidly proliferate and differentiate into class-switched, high-affinity IgG-secreting plasma cells. This principle underlies vaccine booster dosing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-049_8_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-050",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure shows immature B cells, which express complete antigen receptors, undergoing one of two fates in the bone marrow depending on how strongly their receptor binds self-antigen. An immature B cell whose receptor strongly recognizes a self-antigen follows the left-hand pathway. What is its principal fate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class switching to IgG and export to lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Proliferation into a high-affinity memory clone"
+        },
+        {
+          "label": "C",
+          "text": "Apoptosis (clonal deletion), with receptor editing as an alternative"
+        },
+        {
+          "label": "D",
+          "text": "Immediate differentiation into an antibody-secreting plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Conversion into a follicular dendritic cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts B-cell central tolerance. Immature B cells whose receptors bind self-antigen strongly undergo negative selection, primarily clonal deletion by apoptosis (some instead undergo receptor editing to change specificity). B cells that bind self weakly or not at all are positively selected and mature into the periphery. This screening prevents autoreactive B cells from entering the repertoire.",
+        "whyCorrect": "The figure depicts B-cell central tolerance. Immature B cells whose receptors bind self-antigen strongly undergo negative selection, primarily clonal deletion by apoptosis (some instead undergo receptor editing to change specificity). B cells that bind self weakly or not at all are positively selected and mature into the periphery. This screening prevents autoreactive B cells from entering the repertoire.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-050_8_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-051",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure shows the structure and histology of the lymph node and spleen, mapping where different lymphocytes localize. A patient with a hereditary defect in T-cell development (e.g., DiGeorge/thymic aplasia) would show marked depletion of lymphocytes in which lymph node region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The germinal centers of secondary follicles"
+        },
+        {
+          "label": "B",
+          "text": "The paracortex"
+        },
+        {
+          "label": "C",
+          "text": "The primary follicles of the cortex"
+        },
+        {
+          "label": "D",
+          "text": "The medullary cords"
+        },
+        {
+          "label": "E",
+          "text": "The subcapsular sinus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lymph node paracortex is the T-cell zone (analogous to the periarteriolar lymphoid sheath in the spleen), while follicles/germinal centers in the cortex are B-cell zones and medullary cords contain plasma cells and macrophages. A defect in T-cell production, as in DiGeorge syndrome, selectively depletes the paracortex, whereas B-cell follicles remain relatively preserved. Knowing zone-specific residence lets you predict which region is affected by a given cellular deficiency.",
+        "whyCorrect": "The lymph node paracortex is the T-cell zone (analogous to the periarteriolar lymphoid sheath in the spleen), while follicles/germinal centers in the cortex are B-cell zones and medullary cords contain plasma cells and macrophages. A defect in T-cell production, as in DiGeorge syndrome, selectively depletes the paracortex, whereas B-cell follicles remain relatively preserved. Knowing zone-specific residence lets you predict which region is affected by a given cellular deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-051_8_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-107",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure depicts the reaction occurring in the germinal center, showing B cells proliferating in a dark zone, being selected for improved affinity in a light zone by follicular dendritic cells and Tfh cells, and finally exiting as plasma cells and memory B cells. Which two processes occurring here improve antibody affinity and change antibody isotype, respectively?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opsonization and neutralization"
+        },
+        {
+          "label": "B",
+          "text": "V(D)J recombination and allelic exclusion"
+        },
+        {
+          "label": "C",
+          "text": "Central tolerance and receptor editing"
+        },
+        {
+          "label": "D",
+          "text": "Somatic hypermutation and class (isotype) switching"
+        },
+        {
+          "label": "E",
+          "text": "Positive selection and negative selection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The germinal center is where affinity maturation and isotype switching occur. Somatic hypermutation introduces mutations into variable regions; high-affinity clones are selected by competing for antigen on follicular dendritic cells and for Tfh help. Class-switch recombination changes the heavy-chain constant region (e.g., IgM to IgG/IgA/IgE) without altering specificity. Both depend on activation-induced cytidine deaminase and yield plasma cells and memory B cells.",
+        "whyCorrect": "The germinal center is where affinity maturation and isotype switching occur. Somatic hypermutation introduces mutations into variable regions; high-affinity clones are selected by competing for antigen on follicular dendritic cells and for Tfh help. Class-switch recombination changes the heavy-chain constant region (e.g., IgM to IgG/IgA/IgE) without altering specificity. Both depend on activation-induced cytidine deaminase and yield plasma cells and memory B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-107_8_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-120",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure follows B-cell development from a hematopoietic stem cell through pro-B, pre-B, and immature B stages in the bone marrow, then into the circulation as a mature naive B cell. The mature naive B cell shown co-expresses surface IgM together with which other immunoglobulin isotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgG"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgA"
+        },
+        {
+          "label": "D",
+          "text": "Secretory IgA"
+        },
+        {
+          "label": "E",
+          "text": "IgE"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During antigen-independent development in the bone marrow, the pre-B cell expresses a heavy chain and the immature B cell expresses a complete surface IgM (BCR). As it matures and enters the periphery, the naive B cell co-expresses surface IgM and IgD (produced by alternative splicing of the same heavy-chain transcript). Switching to IgG, IgA, or IgE occurs only later, after antigen encounter and class-switch recombination.",
+        "whyCorrect": "During antigen-independent development in the bone marrow, the pre-B cell expresses a heavy chain and the immature B cell expresses a complete surface IgM (BCR). As it matures and enters the periphery, the naive B cell co-expresses surface IgM and IgD (produced by alternative splicing of the same heavy-chain transcript). Switching to IgG, IgA, or IgE occurs only later, after antigen encounter and class-switch recombination.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-120_8_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-121",
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation",
+      "stem": "This figure traces the continuous recirculation of lymphocytes among blood, the thoracic duct, secondary lymphoid organs (lymph node and spleen), and mucosal tissues. Through which specialized vascular structure do naive lymphocytes leave the blood to enter a lymph node?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The thoracic duct"
+        },
+        {
+          "label": "B",
+          "text": "The efferent lymphatic vessel"
+        },
+        {
+          "label": "C",
+          "text": "High endothelial venules (HEV)"
+        },
+        {
+          "label": "D",
+          "text": "The afferent lymphatic vessel"
+        },
+        {
+          "label": "E",
+          "text": "The central arteriole of the white pulp"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Naive lymphocytes exit the blood into lymph nodes by crossing high endothelial venules, using L-selectin, chemokine, and integrin interactions to home into the node. If they do not encounter antigen, they leave via the efferent lymphatic, which drains toward the thoracic duct and back into the blood, sustaining continuous surveillance. Afferent lymphatics carry antigen and dendritic cells into the node, not blood-borne lymphocytes.",
+        "whyCorrect": "Naive lymphocytes exit the blood into lymph nodes by crossing high endothelial venules, using L-selectin, chemokine, and integrin interactions to home into the node. If they do not encounter antigen, they leave via the efferent lymphatic, which drains toward the thoracic duct and back into the blood, sustaining continuous surveillance. Afferent lymphatics carry antigen and dendritic cells into the node, not blood-borne lymphocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-121_8_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

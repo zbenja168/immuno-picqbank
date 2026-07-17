@@ -1,0 +1,201 @@
+{
+  "categoryId": "immunosuppressants",
+  "categoryName": "Immunosuppressants",
+  "questions": [
+    {
+      "id": "impic-075",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "Cyclosporine (via cyclophilin) and tacrolimus (via FKBP) both inhibit calcineurin in T cells. Why does calcineurin inhibition reduce IL-2 transcription?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It degrades IL-2 messenger RNA directly"
+        },
+        {
+          "label": "B",
+          "text": "It prevents CD4 from associating with MHC"
+        },
+        {
+          "label": "C",
+          "text": "Calcineurin normally dephosphorylates NFAT, allowing it to enter the nucleus; inhibition keeps NFAT phosphorylated in the cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "It blocks the T-cell receptor from binding antigen"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits ribosomal translation of IL-2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calcineurin is a phosphatase that dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2. By inhibiting calcineurin, cyclosporine and tacrolimus keep NFAT phosphorylated and cytoplasmic, blocking IL-2 production and T-cell activation.",
+        "whyCorrect": "Calcineurin is a phosphatase that dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2. By inhibiting calcineurin, cyclosporine and tacrolimus keep NFAT phosphorylated and cytoplasmic, blocking IL-2 production and T-cell activation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-075_18_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-076",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "Sirolimus (rapamycin) binds FKBP, the same immunophilin bound by tacrolimus, but instead inhibits mTOR downstream of the IL-2 receptor. What does this selectively block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody class switching in B cells"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil chemotaxis"
+        },
+        {
+          "label": "C",
+          "text": "IL-2 gene transcription"
+        },
+        {
+          "label": "D",
+          "text": "T-cell receptor signal transduction"
+        },
+        {
+          "label": "E",
+          "text": "IL-2-driven T-cell proliferation (cell-cycle progression)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Although sirolimus and tacrolimus share FKBP binding, tacrolimus inhibits calcineurin (blocking IL-2 production) whereas sirolimus inhibits mTOR, which acts downstream of the IL-2 receptor to drive cell-cycle progression. Sirolimus therefore blocks the proliferative response to IL-2 rather than its synthesis.",
+        "whyCorrect": "Although sirolimus and tacrolimus share FKBP binding, tacrolimus inhibits calcineurin (blocking IL-2 production) whereas sirolimus inhibits mTOR, which acts downstream of the IL-2 receptor to drive cell-cycle progression. Sirolimus therefore blocks the proliferative response to IL-2 rather than its synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-076_18_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-077",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "This diagram shows sites of action of cytotoxic immunosuppressants on nucleotide synthesis. Mycophenolate inhibits inosine monophosphate dehydrogenase. Why are lymphocytes especially sensitive to this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes cannot perform pyrimidine synthesis at all"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes depend on de novo purine synthesis because they lack an effective purine salvage pathway"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytes rely solely on the salvage pathway for purines"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocytes cannot replicate DNA without dietary folate"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocytes uniquely express dihydrofolate reductase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IMP dehydrogenase is required for de novo guanine nucleotide synthesis. Unlike most cells, activated lymphocytes rely heavily on the de novo purine pathway rather than salvage, so mycophenolate preferentially suppresses lymphocyte proliferation.",
+        "whyCorrect": "IMP dehydrogenase is required for de novo guanine nucleotide synthesis. Unlike most cells, activated lymphocytes rely heavily on the de novo purine pathway rather than salvage, so mycophenolate preferentially suppresses lymphocyte proliferation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-077_18_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-089",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "This diagram shows glucocorticoids inhibiting NF-kB. What is the principal immunologic consequence of blocking this transcription factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased antibody affinity maturation"
+        },
+        {
+          "label": "B",
+          "text": "Accelerated B-cell class switching"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced complement synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Decreased production of inflammatory cytokines"
+        },
+        {
+          "label": "E",
+          "text": "Increased mast-cell degranulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NF-kB drives transcription of many pro-inflammatory genes (cytokines, adhesion molecules, enzymes). By inhibiting NF-kB, glucocorticoids reduce inflammatory cytokine production, which accounts for much of their anti-inflammatory and immunosuppressive effect.",
+        "whyCorrect": "NF-kB drives transcription of many pro-inflammatory genes (cytokines, adhesion molecules, enzymes). By inhibiting NF-kB, glucocorticoids reduce inflammatory cytokine production, which accounts for much of their anti-inflammatory and immunosuppressive effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-089_18_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-136",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "A transplant patient on chronic prednisone develops thin skin that bruises easily and pink-purple abdominal striae. These skin changes result from glucocorticoid inhibition of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sebum secretion by sebaceous glands"
+        },
+        {
+          "label": "B",
+          "text": "Melanin production by melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Keratin cross-linking in the epidermis"
+        },
+        {
+          "label": "D",
+          "text": "Elastin degradation by elastase"
+        },
+        {
+          "label": "E",
+          "text": "Collagen synthesis by fibroblasts"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucocorticoids suppress fibroblast proliferation and collagen synthesis, thinning the dermis. The weakened dermal connective tissue tears to reveal underlying vessels, producing wide pink-purple striae and easy bruising characteristic of Cushingoid skin.",
+        "whyCorrect": "Glucocorticoids suppress fibroblast proliferation and collagen synthesis, thinning the dermis. The weakened dermal connective tissue tears to reveal underlying vessels, producing wide pink-purple striae and easy bruising characteristic of Cushingoid skin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-136_18_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

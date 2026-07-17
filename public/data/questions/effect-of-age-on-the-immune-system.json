@@ -1,0 +1,279 @@
+{
+  "categoryId": "effect-of-age-on-the-immune-system",
+  "categoryName": "Effect of Age on the Immune System",
+  "questions": [
+    {
+      "id": "impic-114",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "The bilaminar embryo shown develops a primitive streak and primitive node. What key process do these structures initiate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fertilization of the oocyte"
+        },
+        {
+          "label": "B",
+          "text": "Neurulation - closure of the neural tube"
+        },
+        {
+          "label": "C",
+          "text": "Formation of placental villi"
+        },
+        {
+          "label": "D",
+          "text": "Gastrulation - formation of the three germ layers"
+        },
+        {
+          "label": "E",
+          "text": "Implantation of the blastocyst"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Epiblast cells migrate through the primitive streak to generate endoderm, mesoderm, and ectoderm during gastrulation. The primitive node organizes the body axis; neural tube closure (neurulation) occurs afterward.",
+        "whyCorrect": "Epiblast cells migrate through the primitive streak to generate endoderm, mesoderm, and ectoderm during gastrulation. The primitive node organizes the body axis; neural tube closure (neurulation) occurs afterward.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-114_23_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-115",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "The developing embryo shown forms pharyngeal (branchial) arches and pouches. The third pharyngeal pouch gives rise to which primary lymphoid organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bursa of Fabricius"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Palatine tonsil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The third pharyngeal pouch forms the thymus and inferior parathyroid glands. Failure of third/fourth pouch development causes DiGeorge syndrome (thymic aplasia with T-cell deficiency and hypocalcemia).",
+        "whyCorrect": "The third pharyngeal pouch forms the thymus and inferior parathyroid glands. Failure of third/fourth pouch development causes DiGeorge syndrome (thymic aplasia with T-cell deficiency and hypocalcemia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-115_23_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-116",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "The right-hand histology section shows an organ with an outer cortex, an inner medulla, and eosinophilic whorled keratinized structures within the medulla. Which organ is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thymus"
+        },
+        {
+          "label": "B",
+          "text": "Lymph node"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Palatine tonsil"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The whorled eosinophilic Hassall's corpuscles in the medulla are characteristic of the thymus, where developing T cells undergo positive selection (cortex) and negative selection (medulla). The left diagram shows its pharyngeal arch/pouch origin.",
+        "whyCorrect": "The whorled eosinophilic Hassall's corpuscles in the medulla are characteristic of the thymus, where developing T cells undergo positive selection (cortex) and negative selection (medulla). The left diagram shows its pharyngeal arch/pouch origin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-116_23_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-140",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "This graph of infant serum immunoglobulins shows a transient dip in IgG at roughly 3-6 months of age. What causes this physiologic nadir?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A Bruton tyrosine kinase mutation blocking all B-cell development"
+        },
+        {
+          "label": "B",
+          "text": "Loss of maternal IgA from breast milk"
+        },
+        {
+          "label": "C",
+          "text": "Maternal transplacental IgG has been catabolized before the infant's own IgG production is fully established"
+        },
+        {
+          "label": "D",
+          "text": "Thymic aplasia (DiGeorge syndrome) preventing T-cell help"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibody-mediated destruction of infant plasma cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Maternal IgG crosses the placenta and protects the newborn, then declines over the first months of life. Because the infant's own IgG synthesis ramps up more slowly, a transient physiologic hypogammaglobulinemia appears around 3-6 months.",
+        "whyCorrect": "Maternal IgG crosses the placenta and protects the newborn, then declines over the first months of life. Because the infant's own IgG synthesis ramps up more slowly, a transient physiologic hypogammaglobulinemia appears around 3-6 months.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-140_23_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-141",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "In the postnatal gut mucosa shown, the lumen is defended by secretory antibody even before the infant's own mucosal immunity matures. What is the major source of this early protective secretory IgA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transplacental transfer from maternal serum"
+        },
+        {
+          "label": "B",
+          "text": "Maternal breast milk / colostrum"
+        },
+        {
+          "label": "C",
+          "text": "Fetal bone-marrow plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Complement-derived opsonins"
+        },
+        {
+          "label": "E",
+          "text": "Paneth cell secretion of IgA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Secretory IgA in breast milk and colostrum coats the neonatal gut mucosa, providing passive mucosal immunity. M cells overlying Peyer's patches sample luminal antigen, but the infant's own robust secretory IgA production develops only over the first months.",
+        "whyCorrect": "Secretory IgA in breast milk and colostrum coats the neonatal gut mucosa, providing passive mucosal immunity. M cells overlying Peyer's patches sample luminal antigen, but the infant's own robust secretory IgA production develops only over the first months.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-141_23_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-142",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "This graph tracks the site of hematopoiesis across gestation. Which organ is the predominant site of blood-cell production during the middle of fetal development (around months 4-6)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Yolk sac"
+        },
+        {
+          "label": "E",
+          "text": "Thymus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hematopoiesis begins in the yolk sac, shifts to the fetal liver (with a brief splenic contribution) in mid-gestation, then moves to the bone marrow, which becomes the definitive site by birth and remains so in adults.",
+        "whyCorrect": "Hematopoiesis begins in the yolk sac, shifts to the fetal liver (with a brief splenic contribution) in mid-gestation, then moves to the bone marrow, which becomes the definitive site by birth and remains so in adults.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-142_23_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-143",
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "stem": "This schematic traces the origin of long-lived tissue-resident macrophages (such as microglia, alveolar, and skin macrophages). What is their principal embryonic source?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circulating adult bone-marrow monocytes exclusively"
+        },
+        {
+          "label": "B",
+          "text": "Thymic epithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Yolk-sac and fetal-liver progenitors, seeded before birth and self-renewing in tissue"
+        },
+        {
+          "label": "D",
+          "text": "Neural crest cells"
+        },
+        {
+          "label": "E",
+          "text": "Splenic marginal-zone B cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Many tissue-resident macrophages arise from yolk-sac and fetal-liver progenitors during embryogenesis and maintain themselves by local self-renewal, largely independent of adult bone-marrow-derived monocytes.",
+        "whyCorrect": "Many tissue-resident macrophages arise from yolk-sac and fetal-liver progenitors during embryogenesis and maintain themselves by local self-renewal, largely independent of adult bone-marrow-derived monocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-143_23_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

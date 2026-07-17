@@ -1,0 +1,240 @@
+{
+  "categoryId": "hypersensitivity-reactions",
+  "categoryName": "Hypersensitivity Reactions",
+  "questions": [
+    {
+      "id": "impic-005",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Both panels show antibodies directed against cell-surface receptors: one blocks the acetylcholine receptor at the neuromuscular junction, the other stimulates the TSH receptor. These disorders are examples of which hypersensitivity type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type III (immune complex)"
+        },
+        {
+          "label": "B",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type I with immune-complex deposition"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (delayed, T-cell mediated)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
+        "whyCorrect": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-005_12_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-006",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Circulating antigen-antibody complexes deposit in the vessel wall, fix complement, and recruit neutrophils (Phase II). Which hypersensitivity type is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type II (antibody against cell-surface antigen)"
+        },
+        {
+          "label": "B",
+          "text": "Type III (immune-complex) hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "D",
+          "text": "Type II with receptor-blocking antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (T-cell mediated)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
+        "whyCorrect": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-006_12_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-007",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "This linear array of vesicles appeared on the skin after contact with a plant. What is the underlying immunologic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type II antibody-mediated hypersensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Type III immune-complex hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type IV (delayed-type, T-cell mediated) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type I IgE-mediated hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated urticaria"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
+        "whyCorrect": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-007_12_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-008",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "These four panels show dendritic cells presenting allergen, Th2-driven IgE class switching, IgE binding FcepsilonRI on mast cells, and (only on re-exposure) mast-cell degranulation. The events in panels 1-3, which occur before any symptoms, are collectively termed:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy induction"
+        },
+        {
+          "label": "B",
+          "text": "Immune tolerance"
+        },
+        {
+          "label": "C",
+          "text": "Desensitization"
+        },
+        {
+          "label": "D",
+          "text": "Sensitization"
+        },
+        {
+          "label": "E",
+          "text": "The effector (challenge) phase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
+        "whyCorrect": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-008_12_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-009",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Among the mediators released by the activated mast cell shown, which is MOST responsible for the immediate vasodilation and increased vascular permeability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "B",
+          "text": "Perforin"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "TNF"
+        },
+        {
+          "label": "E",
+          "text": "Tryptase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
+        "whyCorrect": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-009_12_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-010",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Intradermal antigen in a sensitized person produces the wheal-and-flare reaction shown within minutes. This immediate reaction is mediated primarily by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-triggered mast cell degranulation releasing histamine"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of immune complexes"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil-derived proteases"
+        },
+        {
+          "label": "D",
+          "text": "T-cell cytokines (delayed hypersensitivity)"
+        },
+        {
+          "label": "E",
+          "text": "Complement-fixing IgG antibodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
+        "whyCorrect": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-010_12_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

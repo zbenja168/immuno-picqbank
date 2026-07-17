@@ -1,0 +1,396 @@
+{
+  "categoryId": "diagnostic-laboratory-immunology",
+  "categoryName": "Diagnostic Laboratory Immunology",
+  "questions": [
+    {
+      "id": "impic-022",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "Panel A shows nuclear staining patterns produced by patient serum on substrate cells; panel B depicts how the signal is generated, with a fluorophore-labeled secondary antibody binding a patient (primary) antibody that is bound to antigen. What laboratory technique is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct Coombs test"
+        },
+        {
+          "label": "B",
+          "text": "Western blot"
+        },
+        {
+          "label": "C",
+          "text": "Sandwich ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "E",
+          "text": "Indirect immunofluorescence"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antinuclear antibody testing uses indirect immunofluorescence: patient antibodies bind nuclear antigens on fixed cells, then a fluorescently labeled anti-human antibody detects them, producing characteristic patterns (homogeneous, speckled, nucleolar, centromere).",
+        "whyCorrect": "Antinuclear antibody testing uses indirect immunofluorescence: patient antibodies bind nuclear antigens on fixed cells, then a fluorescently labeled anti-human antibody detects them, producing characteristic patterns (homogeneous, speckled, nucleolar, centromere).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-022_17_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-023",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "In this microplate assay, antigen is immobilized in the well, an enzyme-conjugated antibody binds it, and after washing a substrate is added that produces a measurable color proportional to the amount bound. What technique is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Southern blot"
+        },
+        {
+          "label": "B",
+          "text": "ELISA (enzyme-linked immunosorbent assay)"
+        },
+        {
+          "label": "C",
+          "text": "Immunofluorescence microscopy"
+        },
+        {
+          "label": "D",
+          "text": "Agglutination assay"
+        },
+        {
+          "label": "E",
+          "text": "Polymerase chain reaction (PCR)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ELISA uses an enzyme-linked antibody and a chromogenic substrate to quantify antigen or antibody. The enzyme converts substrate into a colored product whose intensity is proportional to the amount of target, read by a spectrophotometer.",
+        "whyCorrect": "ELISA uses an enzyme-linked antibody and a chromogenic substrate to quantify antigen or antibody. The enzyme converts substrate into a colored product whose intensity is proportional to the amount of target, read by a spectrophotometer.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-023_17_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-024",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "Three ELISA configurations are shown. In the third, an antibody is first immobilized to capture antigen from the sample, and a second labeled antibody then binds a different epitope of that antigen. What is this configuration called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Western blot"
+        },
+        {
+          "label": "B",
+          "text": "Indirect ELISA"
+        },
+        {
+          "label": "C",
+          "text": "Competitive ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Sandwich ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Direct ELISA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In a sandwich ELISA the target antigen is trapped between two antibodies, an immobilized capture antibody and a labeled detection antibody binding a separate epitope, giving high specificity and sensitivity for measuring antigen.",
+        "whyCorrect": "In a sandwich ELISA the target antigen is trapped between two antibodies, an immobilized capture antibody and a labeled detection antibody binding a separate epitope, giving high specificity and sensitivity for measuring antigen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-024_17_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-058",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "These flow plots show a patient with abundant B cells but nearly absent T and NK cells (a T-B+NK- phenotype) from an X-linked defect in the common gamma chain. This shared receptor subunit is required for signaling by which group of cytokines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21"
+        },
+        {
+          "label": "B",
+          "text": "IL-8 and other chemokines"
+        },
+        {
+          "label": "C",
+          "text": "IFN-gamma and IL-12"
+        },
+        {
+          "label": "D",
+          "text": "IL-1, IL-6, and TNF-alpha"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta and IL-10"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "X-linked SCID results from mutation of IL2RG, encoding the common gamma chain shared by receptors for IL-2, -4, -7, -9, -15, and -21. Loss of IL-7 signaling blocks T-cell development and loss of IL-15 blocks NK development, while B cells are spared (T-B+NK-).",
+        "whyCorrect": "X-linked SCID results from mutation of IL2RG, encoding the common gamma chain shared by receptors for IL-2, -4, -7, -9, -15, and -21. Loss of IL-7 signaling blocks T-cell development and loss of IL-15 blocks NK development, while B cells are spared (T-B+NK-).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-058_17_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-059",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "This figure contrasts a healthy infant with an infant who has SCID, showing very low or undetectable TRECs in the latter. Why are TRECs reduced in SCID?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TRECs leak out because of a capillary defect"
+        },
+        {
+          "label": "B",
+          "text": "B-cell overgrowth dilutes the TREC signal"
+        },
+        {
+          "label": "C",
+          "text": "TRECs are destroyed by complement in SCID"
+        },
+        {
+          "label": "D",
+          "text": "T-cell production is very low or absent, and TRECs are byproducts of T-cell receptor gene rearrangement in the thymus"
+        },
+        {
+          "label": "E",
+          "text": "The infant produces autoantibodies that consume TRECs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "TRECs (T-cell receptor excision circles) are DNA circles excised during TCR gene rearrangement and serve as a marker of recent thymic T-cell output. In SCID, thymic T-cell development fails, so TRECs are very low or undetectable, the basis for newborn SCID screening.",
+        "whyCorrect": "TRECs (T-cell receptor excision circles) are DNA circles excised during TCR gene rearrangement and serve as a marker of recent thymic T-cell output. In SCID, thymic T-cell development fails, so TRECs are very low or undetectable, the basis for newborn SCID screening.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-059_17_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-071",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "This flow cytometry scatter plot separates leukocytes by forward scatter (FSC) and side scatter (SSC); granulocytes fall in the region of highest side scatter. What property of granulocytes accounts for their high SSC signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Their high surface expression of CD3"
+        },
+        {
+          "label": "B",
+          "text": "Their large overall cell diameter"
+        },
+        {
+          "label": "C",
+          "text": "Their abundant cytoplasmic granules (high internal complexity)"
+        },
+        {
+          "label": "D",
+          "text": "Their high membrane cholesterol content"
+        },
+        {
+          "label": "E",
+          "text": "Their increased nuclear DNA content"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Forward scatter correlates with cell size, while side scatter reflects internal complexity/granularity. Granulocytes (neutrophils, eosinophils, basophils) are packed with cytoplasmic granules, giving them the highest SSC and separating them from monocytes and lymphocytes.",
+        "whyCorrect": "Forward scatter correlates with cell size, while side scatter reflects internal complexity/granularity. Granulocytes (neutrophils, eosinophils, basophils) are packed with cytoplasmic granules, giving them the highest SSC and separating them from monocytes and lymphocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-071_17_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-072",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "In this assay lymphocytes were labeled with the dye CFSE and stimulated; the histograms in panel B track CFSE fluorescence. A progressive shift toward lower CFSE fluorescence indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased antibody secretion"
+        },
+        {
+          "label": "B",
+          "text": "Apoptosis of the labeled cells"
+        },
+        {
+          "label": "C",
+          "text": "Class switching to IgG"
+        },
+        {
+          "label": "D",
+          "text": "Cell proliferation (each division halves the dye per cell)"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation of surface activation markers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CFSE binds intracellular proteins and is divided equally between daughter cells at each division, so fluorescence per cell halves with every round. Successive leftward peaks mark cell generations, making CFSE dilution a readout of proliferation.",
+        "whyCorrect": "CFSE binds intracellular proteins and is divided equally between daughter cells at each division, so fluorescence per cell halves with every round. Successive leftward peaks mark cell generations, making CFSE dilution a readout of proliferation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-072_17_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-073",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "Lymphocytes from a patient and a control were tested for proliferation after mitogen stimulation. The control shows a large rightward shift (stimulation index = 100) while the patient shows none (SI = 1). What does the patient's result indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defective lymphocyte proliferative response to mitogen"
+        },
+        {
+          "label": "B",
+          "text": "Excessive polyclonal B-cell activation"
+        },
+        {
+          "label": "C",
+          "text": "An ongoing acute viral infection"
+        },
+        {
+          "label": "D",
+          "text": "A normal, robust T-cell response"
+        },
+        {
+          "label": "E",
+          "text": "An isolated neutrophil disorder"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A lymphocyte proliferation (stimulation index) assay measures the ability of T cells to divide in response to mitogens. A flat response (SI approximately 1) indicates absent T-cell function, as seen in severe combined immunodeficiency and other T-cell defects.",
+        "whyCorrect": "A lymphocyte proliferation (stimulation index) assay measures the ability of T cells to divide in response to mitogens. A flat response (SI approximately 1) indicates absent T-cell function, as seen in severe combined immunodeficiency and other T-cell defects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-073_17_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-074",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "These flow cytometry dot plots are stained for CD19 (y-axis) and CD3 (x-axis). Cells appearing in the upper-left region (CD19-positive, CD3-negative) represent which population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes"
+        },
+        {
+          "label": "D",
+          "text": "B lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CD19 is a pan-B-cell marker and CD3 marks T cells. CD19+CD3- events (upper left) are B cells, while CD19-CD3+ events (lower right) are T cells. This gating quantifies B- and T-cell proportions in a sample.",
+        "whyCorrect": "CD19 is a pan-B-cell marker and CD3 marks T cells. CD19+CD3- events (upper left) are B cells, while CD19-CD3+ events (lower right) are T cells. This gating quantifies B- and T-cell proportions in a sample.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-074_17_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-111",
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "stem": "On this forward blood typing card, the sample agglutinates (clumps) with anti-A and anti-D reagents but stays smooth with anti-B and the control. What is the blood type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A positive"
+        },
+        {
+          "label": "B",
+          "text": "A negative"
+        },
+        {
+          "label": "C",
+          "text": "B positive"
+        },
+        {
+          "label": "D",
+          "text": "O negative"
+        },
+        {
+          "label": "E",
+          "text": "AB positive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Agglutination occurs when a reagent antibody binds a matching red-cell antigen. Clumping with anti-A indicates the A antigen; clumping with anti-D (anti-Rh) indicates Rh(D) positivity; no reaction with anti-B excludes the B antigen. The type is therefore A positive.",
+        "whyCorrect": "Agglutination occurs when a reagent antibody binds a matching red-cell antigen. Clumping with anti-A indicates the A antigen; clumping with anti-D (anti-Rh) indicates Rh(D) positivity; no reaction with anti-B excludes the B antigen. The type is therefore A positive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-111_17_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

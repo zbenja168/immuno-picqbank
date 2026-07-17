@@ -1,128 +1,128 @@
 {
-  "categoryId": "tolerance-autoimmunity",
-  "categoryName": "Tolerance & Autoimmunity",
+  "categoryId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+  "categoryName": "Introduction to Autoinflammatory and Autoimmune Diseases",
   "questions": [
     {
-      "id": "impic-129",
-      "topicId": "tolerance-autoimmunity",
-      "topicName": "Tolerance & Autoimmunity",
-      "stem": "The central cell suppresses effector T cells partly by expressing high levels of CD25 to capture IL-2 (in addition to IL-10/TGF-beta, CTLA-4/B7, and cytolysis). How does high CD25 expression inhibit effector T cells?",
+      "id": "impic-029",
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "stem": "The left panel illustrates molecular mimicry, in which a T-cell receptor reacts with a self-peptide that shares structural homology with a microbial antigen. Cross-reactivity between streptococcal M protein and cardiac tissue by this mechanism causes which disease?",
       "choices": [
         {
           "label": "A",
-          "text": "It delivers costimulation to effector T cells"
+          "text": "Wilson disease"
         },
         {
           "label": "B",
-          "text": "It consumes IL-2, depriving effector T cells of the growth factor they need to proliferate and survive"
+          "text": "Rheumatic fever"
         },
         {
           "label": "C",
-          "text": "It upregulates B7 on dendritic cells"
+          "text": "Sickle cell disease"
         },
         {
           "label": "D",
-          "text": "It activates the complement cascade"
+          "text": "Cystic fibrosis"
         },
         {
           "label": "E",
-          "text": "It induces IgE class switching"
+          "text": "Hemochromatosis"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
-        "whyCorrect": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "summary": "In molecular mimicry, antibodies or T cells raised against a pathogen cross-react with structurally similar self-antigens. Antibodies against group A streptococcal M protein cross-react with cardiac myosin and valve tissue, producing rheumatic fever.",
+        "whyCorrect": "In molecular mimicry, antibodies or T cells raised against a pathogen cross-react with structurally similar self-antigens. Antibodies against group A streptococcal M protein cross-react with cardiac myosin and valve tissue, producing rheumatic fever.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "impic-129_11_p11_1.png",
+      "imageRef": "impic-029_21_p11_1.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "impic-130",
-      "topicId": "tolerance-autoimmunity",
-      "topicName": "Tolerance & Autoimmunity",
-      "stem": "The upper T cell receives TCR-MHC (signal 1) plus B7-CD28 costimulation (signal 2) and proliferates, whereas the lower T cell gets signal 1 only and becomes unresponsive. Blocking B7-CD28 costimulation (e.g., with CTLA-4-Ig) would therefore:",
+      "id": "impic-030",
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "stem": "In this sequence an infected cell is damaged and leaks self-antigens, which antigen-presenting cells then present to autoreactive T cells, ultimately driving immune responses against uninfected cells. What best explains why the response broadens to target uninfected host cells?",
       "choices": [
         {
           "label": "A",
-          "text": "Enhance T-cell proliferation"
+          "text": "Tissue damage releases previously sequestered self-antigens that activate autoreactive T cells"
         },
         {
           "label": "B",
-          "text": "Increase MHC class I expression"
+          "text": "The pathogen directly infects all host cells simultaneously"
         },
         {
           "label": "C",
-          "text": "Induce T-cell anergy and dampen the immune response"
+          "text": "Complement nonspecifically lyses every cell"
         },
         {
           "label": "D",
-          "text": "Trigger antibody class switching"
+          "text": "The thymus begins producing new self-reactive clones on demand"
         },
         {
           "label": "E",
-          "text": "Activate the complement cascade"
+          "text": "Autoantibodies are transferred from the mother"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
-        "whyCorrect": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "summary": "This is epitope spreading: cell injury during infection releases hidden self-antigens that are taken up and presented, activating autoreactive lymphocytes. The immune response then expands beyond the original microbial target to self-tissues, contributing to autoimmune disease.",
+        "whyCorrect": "This is epitope spreading: cell injury during infection releases hidden self-antigens that are taken up and presented, activating autoreactive lymphocytes. The immune response then expands beyond the original microbial target to self-tissues, contributing to autoimmune disease.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "impic-130_11_p9_1.png",
+      "imageRef": "impic-030_21_p13_1.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "impic-131",
-      "topicId": "tolerance-autoimmunity",
-      "topicName": "Tolerance & Autoimmunity",
-      "stem": "This figure arranges therapeutic antibodies from fully murine to fully human, with tolerance increasing as murine content falls. What is the main clinical advantage of a fully human monoclonal antibody over a murine one?",
+      "id": "impic-031",
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "stem": "This crystal structure shows an antigenic peptide bound in the groove of an HLA-DR molecule and contacted by a T-cell receptor. HLA-DR is a class II MHC molecule; it presents peptides to which cells?",
       "choices": [
         {
           "label": "A",
-          "text": "Higher antigen-binding affinity in all cases"
+          "text": "B cells via their B-cell receptor"
         },
         {
           "label": "B",
-          "text": "Ability to cross the blood-brain barrier"
+          "text": "Natural killer cells"
         },
         {
           "label": "C",
-          "text": "Longer shelf life of the drug"
+          "text": "Neutrophils"
         },
         {
           "label": "D",
-          "text": "Greater complement activation"
+          "text": "CD4+ helper T cells"
         },
         {
           "label": "E",
-          "text": "Reduced immunogenicity (less likely to provoke anti-drug antibodies)"
+          "text": "CD8+ cytotoxic T cells"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
-        "whyCorrect": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "summary": "HLA-DR, -DP, and -DQ are MHC class II molecules expressed on professional antigen-presenting cells. They present exogenously derived peptides to CD4+ helper T cells, whose TCR, together with the CD4 co-receptor binding MHC II, recognizes the peptide-MHC complex.",
+        "whyCorrect": "HLA-DR, -DP, and -DQ are MHC class II molecules expressed on professional antigen-presenting cells. They present exogenously derived peptides to CD4+ helper T cells, whose TCR, together with the CD4 co-receptor binding MHC II, recognizes the peptide-MHC complex.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "impic-131_19_p5_1.png",
+      "imageRef": "impic-031_21_p8_1.png",
       "tags": [
         "picture"
       ]
     },
     {
       "id": "impic-132",
-      "topicId": "tolerance-autoimmunity",
-      "topicName": "Tolerance & Autoimmunity",
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
       "stem": "This spectrum ranges from autoinflammatory disorders (e.g., familial Mediterranean fever, cryopyrin-associated periodic syndrome) at one end to autoimmune disorders (e.g., SLE, myasthenia gravis) at the other. Diseases at the autoinflammatory end are driven primarily by which arm of the immune system?",
       "choices": [
         {
@@ -160,8 +160,8 @@
     },
     {
       "id": "impic-133",
-      "topicId": "tolerance-autoimmunity",
-      "topicName": "Tolerance & Autoimmunity",
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
       "stem": "This figure shows central tolerance, including deletion of self-reactive T cells in the thymus. Failure of thymic negative selection due to a defect in the AIRE gene results in what?",
       "choices": [
         {

@@ -1,0 +1,279 @@
+{
+  "categoryId": "tumors-and-transplants",
+  "categoryName": "Tumors and Transplants",
+  "questions": [
+    {
+      "id": "impic-032",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "The left panel shows a CD8+ T cell killing a cancer cell; the right shows the same tumor cell (now poorly presenting antigen on MHC I) killed by a different lymphocyte. Why can the right-hand lymphocyte kill the tumor when the CD8+ T cell cannot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NK cells must first be primed by dendritic cells in lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "NK cells preferentially lyse cells that overexpress MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "NK cells recognize peptide-MHC through a rearranged T-cell receptor"
+        },
+        {
+          "label": "D",
+          "text": "NK cells are activated by loss of inhibitory MHC class I ('missing self')"
+        },
+        {
+          "label": "E",
+          "text": "NK cells kill only after antibody opsonization via CD16"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tumor or viral downregulation of MHC I lets cells evade CD8+ T cells but simultaneously removes the inhibitory signal to NK cells. Reduced 'self' MHC together with activating-ligand engagement and cytokines triggers NK-mediated perforin/granzyme killing (the missing-self hypothesis).",
+        "whyCorrect": "Tumor or viral downregulation of MHC I lets cells evade CD8+ T cells but simultaneously removes the inhibitory signal to NK cells. Reduced 'self' MHC together with activating-ligand engagement and cytokines triggers NK-mediated perforin/granzyme killing (the missing-self hypothesis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-032_22_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-060",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "One tumor immune-escape mechanism shown is loss of MHC class I so cytotoxic T lymphocytes can no longer recognize the tumor. Which effector cell is best positioned to eliminate such MHC-I-deficient tumor cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naive B cell"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer (NK) cell"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Downregulating MHC I evades CTLs but sensitizes the tumor to NK cells, which kill targets lacking inhibitory MHC I. Other escape strategies depicted include tolerization by APCs, antigen modulation, secretion of TGF-beta/IL-10, and creation of an immune-privileged barrier.",
+        "whyCorrect": "Downregulating MHC I evades CTLs but sensitizes the tumor to NK cells, which kill targets lacking inhibitory MHC I. Other escape strategies depicted include tolerization by APCs, antigen modulation, secretion of TGF-beta/IL-10, and creation of an immune-privileged barrier.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-060_22_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-084",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "This figure shows preformed circulating recipient antibodies binding donor (allogeneic) HLA on graft endothelium within minutes to hours, activating complement and damaging endothelium. Which pre-transplant test detects these preformed antibodies and prevents this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mantoux (PPD) skin test"
+        },
+        {
+          "label": "B",
+          "text": "Serum creatinine measurement"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocyte sedimentation rate"
+        },
+        {
+          "label": "D",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocyte crossmatch (donor-recipient crossmatching)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hyperacute rejection is mediated by preformed recipient antibodies against donor HLA or ABO antigens, causing immediate complement activation, thrombosis, and endothelial injury. A pre-transplant crossmatch (mixing recipient serum with donor lymphocytes) detects such antibodies so incompatible grafts are avoided.",
+        "whyCorrect": "Hyperacute rejection is mediated by preformed recipient antibodies against donor HLA or ABO antigens, causing immediate complement activation, thrombosis, and endothelial injury. A pre-transplant crossmatch (mixing recipient serum with donor lymphocytes) detects such antibodies so incompatible grafts are avoided.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-084_22_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-123",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "These plots show sequence variability across the MHC class I and class II molecules. Where is the polymorphism (sequence variability) concentrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the residues lining the peptide-binding groove"
+        },
+        {
+          "label": "B",
+          "text": "In the cytoplasmic signaling tail"
+        },
+        {
+          "label": "C",
+          "text": "Evenly distributed along the entire molecule"
+        },
+        {
+          "label": "D",
+          "text": "In the invariant beta-2 microglobulin domain"
+        },
+        {
+          "label": "E",
+          "text": "In the transmembrane anchor region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MHC polymorphism clusters in the peptide-binding cleft (alpha-1/alpha-2 for class I; alpha-1/beta-1 for class II), diversifying the repertoire of peptides presented across a population. Framework and membrane-proximal domains such as beta-2 microglobulin are conserved.",
+        "whyCorrect": "MHC polymorphism clusters in the peptide-binding cleft (alpha-1/alpha-2 for class I; alpha-1/beta-1 for class II), diversifying the repertoire of peptides presented across a population. Framework and membrane-proximal domains such as beta-2 microglobulin are conserved.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-123_22_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-137",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "This figure depicts a rejection developing over days to weeks, featuring recipient CD8+ T cells attacking graft parenchymal cells and endothelium (endothelialitis). Compared with hyperacute rejection, what is the principal mechanism of this (acute) rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T-cell-mediated (cellular) immunity against donor HLA"
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Fibrosis and vascular narrowing developing over years"
+        },
+        {
+          "label": "D",
+          "text": "Preformed recipient antibodies present before transplant"
+        },
+        {
+          "label": "E",
+          "text": "Complement deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acute rejection occurs days to weeks after transplantation and is driven chiefly by recipient T cells (notably CD8+ cytotoxic T cells) recognizing donor HLA, with a variable antibody-mediated component (endothelialitis). It is distinct from antibody-driven hyperacute rejection (minutes-hours) and chronic rejection (months-years).",
+        "whyCorrect": "Acute rejection occurs days to weeks after transplantation and is driven chiefly by recipient T cells (notably CD8+ cytotoxic T cells) recognizing donor HLA, with a variable antibody-mediated component (endothelialitis). It is distinct from antibody-driven hyperacute rejection (minutes-hours) and chronic rejection (months-years).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-137_22_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-138",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "This process, developing over months to years after solid-organ transplantation, is illustrated. What is the characteristic vascular lesion responsible for graft failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulomatous destruction of intrahepatic bile ducts"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophilic fibrinoid necrosis of vessel walls within minutes"
+        },
+        {
+          "label": "C",
+          "text": "Massive interstitial hemorrhage from platelet thrombi"
+        },
+        {
+          "label": "D",
+          "text": "Complement-mediated lysis of graft endothelium by preformed antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Concentric intimal smooth-muscle proliferation causing vessel occlusion (graft arteriosclerosis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic rejection is driven by recipient CD4+ T cells and macrophages responding to graft alloantigens, secreting cytokines that stimulate intimal smooth-muscle proliferation and fibrosis, progressively occluding vessels over months to years. Hyperacute rejection (preformed antibodies) occurs in minutes and acute rejection over days to weeks.",
+        "whyCorrect": "Chronic rejection is driven by recipient CD4+ T cells and macrophages responding to graft alloantigens, secreting cytokines that stimulate intimal smooth-muscle proliferation and fibrosis, progressively occluding vessels over months to years. Hyperacute rejection (preformed antibodies) occurs in minutes and acute rejection over days to weeks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-138_22_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-139",
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "stem": "A naive strain B mouse rejects a strain A skin graft in 14 days; a second strain A graft placed later is rejected in only 6 days. What accounts for the accelerated second-set rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Innate complement activation triggered by the second graft"
+        },
+        {
+          "label": "B",
+          "text": "Loss of MHC expression on the second graft"
+        },
+        {
+          "label": "C",
+          "text": "Non-specific acceleration of wound healing"
+        },
+        {
+          "label": "D",
+          "text": "Immunologic memory (memory T cells generated by the first graft)"
+        },
+        {
+          "label": "E",
+          "text": "Passively transferred maternal antibody"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Second-set rejection is faster and more vigorous because the first exposure generated antigen-specific memory T lymphocytes against strain A alloantigens. Specificity and memory are defining features of the adaptive immune response.",
+        "whyCorrect": "Second-set rejection is faster and more vigorous because the first exposure generated antigen-specific memory T lymphocytes against strain A alloantigens. Specificity and memory are defining features of the adaptive immune response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-139_22_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "allergic-diseases-and-anaphylaxis",
+  "categoryName": "Allergic Diseases and Anaphylaxis",
+  "questions": [
+    {
+      "id": "impic-011",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "In this asthma pathway, mast-cell mediators produce an early response of bronchoconstriction and a late response of inflammation and bronchial hyperreactivity. Which mediators chiefly drive the sustained bronchoconstriction of the late response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Cysteinyl leukotrienes (LTC4/D4/E4)"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Histamine acting alone"
+        },
+        {
+          "label": "E",
+          "text": "Complement fragment C3a"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
+        "whyCorrect": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-011_13_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-012",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "This figure shows simultaneous multi-organ involvement after allergen exposure: airway swelling, bronchospasm, hypotension/tachycardia, urticaria, and GI symptoms. What is this life-threatening reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Localized urticaria"
+        },
+        {
+          "label": "B",
+          "text": "Serum sickness"
+        },
+        {
+          "label": "C",
+          "text": "Arthus reaction"
+        },
+        {
+          "label": "D",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Anaphylaxis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
+        "whyCorrect": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-012_13_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-013",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "These transient, raised, erythematous, blanching wheals appeared after allergen exposure and are intensely pruritic. What is this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "B",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Petechial rash"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Urticaria (hives)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyCorrect": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-013_13_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-014",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "In the procedure shown, drops of allergen extract are placed on the forearm, the skin is pricked, and a wheal is measured. This test diagnoses which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type IV (delayed, T-cell mediated)"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type I (IgE-mediated) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type II (antibody-mediated)"
+        },
+        {
+          "label": "E",
+          "text": "Type III (immune complex)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
+        "whyCorrect": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-014_13_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
