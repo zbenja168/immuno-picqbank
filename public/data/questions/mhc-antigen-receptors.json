@@ -1,0 +1,279 @@
+{
+  "categoryId": "mhc-antigen-receptors",
+  "categoryName": "MHC & Antigen Receptors",
+  "questions": [
+    {
+      "id": "impic-122",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "A CD8+ cytotoxic T cell recognizes a virus-infected cell via MHC I and releases the granule contents shown. What is the specific role of perforin in this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It forms pores in the target-cell membrane, allowing granzymes to enter"
+        },
+        {
+          "label": "B",
+          "text": "It neutralizes released viral particles"
+        },
+        {
+          "label": "C",
+          "text": "It cross-links Fas to trigger caspases"
+        },
+        {
+          "label": "D",
+          "text": "It directly cleaves target-cell DNA"
+        },
+        {
+          "label": "E",
+          "text": "It fixes complement on the target membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytotoxic granules contain perforin, granzymes, and serglycin. Perforin polymerizes to create pores that let granzymes enter the cytosol, where they activate caspases and induce apoptosis of the infected cell.",
+        "whyCorrect": "Cytotoxic granules contain perforin, granzymes, and serglycin. Perforin polymerizes to create pores that let granzymes enter the cytosol, where they activate caspases and induce apoptosis of the infected cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-122_10_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-123",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "These plots show sequence variability across the MHC class I and class II molecules. Where is the polymorphism (sequence variability) concentrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the residues lining the peptide-binding groove"
+        },
+        {
+          "label": "B",
+          "text": "In the cytoplasmic signaling tail"
+        },
+        {
+          "label": "C",
+          "text": "Evenly distributed along the entire molecule"
+        },
+        {
+          "label": "D",
+          "text": "In the invariant beta-2 microglobulin domain"
+        },
+        {
+          "label": "E",
+          "text": "In the transmembrane anchor region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MHC polymorphism clusters in the peptide-binding cleft (alpha-1/alpha-2 for class I; alpha-1/beta-1 for class II), diversifying the repertoire of peptides presented across a population. Framework and membrane-proximal domains such as beta-2 microglobulin are conserved.",
+        "whyCorrect": "MHC polymorphism clusters in the peptide-binding cleft (alpha-1/alpha-2 for class I; alpha-1/beta-1 for class II), diversifying the repertoire of peptides presented across a population. Framework and membrane-proximal domains such as beta-2 microglobulin are conserved.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-123_22_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-124",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "This table summarizes properties of MHC molecules, including which cell types express each class. A virus infects a skin fibroblast (a non-hematopoietic mesenchymal cell). Based on the expression pattern shown, viral peptides displayed on this infected fibroblast will be recognized by which T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gamma-delta T cells via MHC class I"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T lymphocytes via MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "CD4+ helper T cells via MHC class II"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer T cells via CD1"
+        },
+        {
+          "label": "E",
+          "text": "Regulatory T cells via MHC class II"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The table shows MHC class I is expressed on all nucleated cells (including mesenchymal cells like fibroblasts), whereas class II is restricted to professional APCs (dendritic cells, macrophages, B cells). Because a fibroblast expresses class I but not class II, it presents endogenous viral peptides on MHC class I to CD8+ cytotoxic T cells, which can then kill the infected cell. Class II-restricted CD4 responses require professional APCs.",
+        "whyCorrect": "The table shows MHC class I is expressed on all nucleated cells (including mesenchymal cells like fibroblasts), whereas class II is restricted to professional APCs (dendritic cells, macrophages, B cells). Because a fibroblast expresses class I but not class II, it presents endogenous viral peptides on MHC class I to CD8+ cytotoxic T cells, which can then kill the infected cell. Class II-restricted CD4 responses require professional APCs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-124_6_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-125",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "This diagram compares the domain architecture of the two classes of MHC molecule anchored in the cell membrane. One class is built from a single polymorphic heavy chain paired with an invariant small subunit, while the other is built from two membrane-anchored polymorphic chains of similar size. Which feature is unique to the class shown on the left (MHC class I)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-covalently associated beta-2 microglobulin subunit"
+        },
+        {
+          "label": "B",
+          "text": "Two transmembrane-anchored polymorphic chains of equal size"
+        },
+        {
+          "label": "C",
+          "text": "Expression restricted to professional antigen-presenting cells"
+        },
+        {
+          "label": "D",
+          "text": "A peptide-binding groove formed by two separate polymorphic chains"
+        },
+        {
+          "label": "E",
+          "text": "An invariant chain occupying the groove during assembly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MHC class I consists of a single polymorphic heavy chain (alpha-1, alpha-2, alpha-3) non-covalently bound to the invariant beta-2 microglobulin; its peptide-binding cleft is formed by alpha-1 and alpha-2 of that single chain. MHC class II is a heterodimer of two membrane-anchored chains (alpha and beta), with the groove formed by alpha-1 and beta-1. Beta-2 microglobulin is therefore the distinguishing subunit of class I.",
+        "whyCorrect": "MHC class I consists of a single polymorphic heavy chain (alpha-1, alpha-2, alpha-3) non-covalently bound to the invariant beta-2 microglobulin; its peptide-binding cleft is formed by alpha-1 and alpha-2 of that single chain. MHC class II is a heterodimer of two membrane-anchored chains (alpha and beta), with the groove formed by alpha-1 and beta-1. Beta-2 microglobulin is therefore the distinguishing subunit of class I.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-125_6_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-126",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "This figure shows germline-to-rearranged DNA for the two chains of the T-cell receptor, one encoded on chromosome 14 and the other on chromosome 7, assembled to form the mature receptor protein. Which gene segment is present in the rearrangement of the beta chain (bottom) but absent from the alpha chain (top)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diversity (D) segment"
+        },
+        {
+          "label": "B",
+          "text": "Constant (C) segment"
+        },
+        {
+          "label": "C",
+          "text": "Joining (J) segment"
+        },
+        {
+          "label": "D",
+          "text": "Leader/signal segment"
+        },
+        {
+          "label": "E",
+          "text": "Variable (V) segment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The TCR alpha chain is assembled from V and J segments joined to C, whereas the beta chain uses V, D, and J segments joined to C. The additional diversity (D) segment, combined with junctional diversity at the extra join, increases the combinatorial and junctional diversity of the beta chain. This parallels immunoglobulin heavy versus light chain assembly.",
+        "whyCorrect": "The TCR alpha chain is assembled from V and J segments joined to C, whereas the beta chain uses V, D, and J segments joined to C. The additional diversity (D) segment, combined with junctional diversity at the extra join, increases the combinatorial and junctional diversity of the beta chain. This parallels immunoglobulin heavy versus light chain assembly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-126_7_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-127",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "This diagram shows two antibody monomers joined tail-to-tail by a joining (J) chain and wrapped by an additional polypeptide (secretory component) acquired during transport across epithelium. This form of antibody predominates in which location?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "On naive B cells as the primary surface receptor"
+        },
+        {
+          "label": "B",
+          "text": "The intravascular compartment as the main serum antibody"
+        },
+        {
+          "label": "C",
+          "text": "On the surface of mast cells and basophils"
+        },
+        {
+          "label": "D",
+          "text": "Mucosal secretions such as saliva, tears, and breast milk"
+        },
+        {
+          "label": "E",
+          "text": "Within the cytosol of infected cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure shows secretory IgA: a dimer linked by a J chain and stabilized by the secretory component added as it is transcytosed across mucosal epithelium. Secretory IgA is the dominant antibody at mucosal surfaces and in breast milk, where it neutralizes pathogens and toxins. IgG dominates serum, IgE binds mast cells, and IgM/IgD are the main surface receptors on naive B cells.",
+        "whyCorrect": "The figure shows secretory IgA: a dimer linked by a J chain and stabilized by the secretory component added as it is transcytosed across mucosal epithelium. Secretory IgA is the dominant antibody at mucosal surfaces and in breast milk, where it neutralizes pathogens and toxins. IgG dominates serum, IgE binds mast cells, and IgM/IgD are the main surface receptors on naive B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-127_7_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-128",
+      "topicId": "mhc-antigen-receptors",
+      "topicName": "MHC & Antigen Receptors",
+      "stem": "This figure outlines the T-cell receptor signaling cascade: TCR/CD3 clustering, Lck-mediated phosphorylation and ZAP-70 recruitment, and downstream events that raise cytosolic calcium and activate transcription factors including NFAT, NF-kB, and AP-1. The rise in cytosolic calcium activates calcineurin, which in turn activates which transcription factor targeted by cyclosporine and tacrolimus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "STAT3"
+        },
+        {
+          "label": "B",
+          "text": "NF-kB"
+        },
+        {
+          "label": "C",
+          "text": "Myc"
+        },
+        {
+          "label": "D",
+          "text": "AP-1"
+        },
+        {
+          "label": "E",
+          "text": "NFAT"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Increased cytosolic calcium activates the phosphatase calcineurin, which dephosphorylates NFAT, allowing it to enter the nucleus and drive IL-2 transcription. The immunosuppressants cyclosporine and tacrolimus inhibit calcineurin, blocking NFAT activation and thereby suppressing T-cell activation, which is exploited to prevent transplant rejection. NF-kB and AP-1 are activated through the PKC and MAPK arms of the same cascade.",
+        "whyCorrect": "Increased cytosolic calcium activates the phosphatase calcineurin, which dephosphorylates NFAT, allowing it to enter the nucleus and drive IL-2 transcription. The immunosuppressants cyclosporine and tacrolimus inhibit calcineurin, blocking NFAT activation and thereby suppressing T-cell activation, which is exploited to prevent transplant rejection. NF-kB and AP-1 are activated through the PKC and MAPK arms of the same cascade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-128_9_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

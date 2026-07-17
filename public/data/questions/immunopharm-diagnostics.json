@@ -1,0 +1,669 @@
+{
+  "categoryId": "immunopharm-diagnostics",
+  "categoryName": "Immunopharm & Diagnostics",
+  "questions": [
+    {
+      "id": "impic-070",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "The antibody shown being transported across the intestinal epithelium into the lumen neutralizes microbes without provoking inflammation. In what form is it secreted to resist luminal proteolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A secretory dimer joined by a J chain and bearing secretory component"
+        },
+        {
+          "label": "B",
+          "text": "A complement-fixing IgG dimer"
+        },
+        {
+          "label": "C",
+          "text": "A single membrane-bound monomer"
+        },
+        {
+          "label": "D",
+          "text": "A pentamer, like circulating IgM"
+        },
+        {
+          "label": "E",
+          "text": "A free light-chain fragment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
+        "whyCorrect": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-070_11_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-071",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This flow cytometry scatter plot separates leukocytes by forward scatter (FSC) and side scatter (SSC); granulocytes fall in the region of highest side scatter. What property of granulocytes accounts for their high SSC signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Their high surface expression of CD3"
+        },
+        {
+          "label": "B",
+          "text": "Their large overall cell diameter"
+        },
+        {
+          "label": "C",
+          "text": "Their abundant cytoplasmic granules (high internal complexity)"
+        },
+        {
+          "label": "D",
+          "text": "Their high membrane cholesterol content"
+        },
+        {
+          "label": "E",
+          "text": "Their increased nuclear DNA content"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Forward scatter correlates with cell size, while side scatter reflects internal complexity/granularity. Granulocytes (neutrophils, eosinophils, basophils) are packed with cytoplasmic granules, giving them the highest SSC and separating them from monocytes and lymphocytes.",
+        "whyCorrect": "Forward scatter correlates with cell size, while side scatter reflects internal complexity/granularity. Granulocytes (neutrophils, eosinophils, basophils) are packed with cytoplasmic granules, giving them the highest SSC and separating them from monocytes and lymphocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-071_17_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-072",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "In this assay lymphocytes were labeled with the dye CFSE and stimulated; the histograms in panel B track CFSE fluorescence. A progressive shift toward lower CFSE fluorescence indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased antibody secretion"
+        },
+        {
+          "label": "B",
+          "text": "Apoptosis of the labeled cells"
+        },
+        {
+          "label": "C",
+          "text": "Class switching to IgG"
+        },
+        {
+          "label": "D",
+          "text": "Cell proliferation (each division halves the dye per cell)"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation of surface activation markers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CFSE binds intracellular proteins and is divided equally between daughter cells at each division, so fluorescence per cell halves with every round. Successive leftward peaks mark cell generations, making CFSE dilution a readout of proliferation.",
+        "whyCorrect": "CFSE binds intracellular proteins and is divided equally between daughter cells at each division, so fluorescence per cell halves with every round. Successive leftward peaks mark cell generations, making CFSE dilution a readout of proliferation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-072_17_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-073",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "Lymphocytes from a patient and a control were tested for proliferation after mitogen stimulation. The control shows a large rightward shift (stimulation index = 100) while the patient shows none (SI = 1). What does the patient's result indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defective lymphocyte proliferative response to mitogen"
+        },
+        {
+          "label": "B",
+          "text": "Excessive polyclonal B-cell activation"
+        },
+        {
+          "label": "C",
+          "text": "An ongoing acute viral infection"
+        },
+        {
+          "label": "D",
+          "text": "A normal, robust T-cell response"
+        },
+        {
+          "label": "E",
+          "text": "An isolated neutrophil disorder"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A lymphocyte proliferation (stimulation index) assay measures the ability of T cells to divide in response to mitogens. A flat response (SI approximately 1) indicates absent T-cell function, as seen in severe combined immunodeficiency and other T-cell defects.",
+        "whyCorrect": "A lymphocyte proliferation (stimulation index) assay measures the ability of T cells to divide in response to mitogens. A flat response (SI approximately 1) indicates absent T-cell function, as seen in severe combined immunodeficiency and other T-cell defects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-073_17_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-074",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "These flow cytometry dot plots are stained for CD19 (y-axis) and CD3 (x-axis). Cells appearing in the upper-left region (CD19-positive, CD3-negative) represent which population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes"
+        },
+        {
+          "label": "D",
+          "text": "B lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CD19 is a pan-B-cell marker and CD3 marks T cells. CD19+CD3- events (upper left) are B cells, while CD19-CD3+ events (lower right) are T cells. This gating quantifies B- and T-cell proportions in a sample.",
+        "whyCorrect": "CD19 is a pan-B-cell marker and CD3 marks T cells. CD19+CD3- events (upper left) are B cells, while CD19-CD3+ events (lower right) are T cells. This gating quantifies B- and T-cell proportions in a sample.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-074_17_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-075",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "Cyclosporine (via cyclophilin) and tacrolimus (via FKBP) both inhibit calcineurin in T cells. Why does calcineurin inhibition reduce IL-2 transcription?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It degrades IL-2 messenger RNA directly"
+        },
+        {
+          "label": "B",
+          "text": "It prevents CD4 from associating with MHC"
+        },
+        {
+          "label": "C",
+          "text": "Calcineurin normally dephosphorylates NFAT, allowing it to enter the nucleus; inhibition keeps NFAT phosphorylated in the cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "It blocks the T-cell receptor from binding antigen"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits ribosomal translation of IL-2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calcineurin is a phosphatase that dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2. By inhibiting calcineurin, cyclosporine and tacrolimus keep NFAT phosphorylated and cytoplasmic, blocking IL-2 production and T-cell activation.",
+        "whyCorrect": "Calcineurin is a phosphatase that dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2. By inhibiting calcineurin, cyclosporine and tacrolimus keep NFAT phosphorylated and cytoplasmic, blocking IL-2 production and T-cell activation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-075_18_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-076",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "Sirolimus (rapamycin) binds FKBP, the same immunophilin bound by tacrolimus, but instead inhibits mTOR downstream of the IL-2 receptor. What does this selectively block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody class switching in B cells"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil chemotaxis"
+        },
+        {
+          "label": "C",
+          "text": "IL-2 gene transcription"
+        },
+        {
+          "label": "D",
+          "text": "T-cell receptor signal transduction"
+        },
+        {
+          "label": "E",
+          "text": "IL-2-driven T-cell proliferation (cell-cycle progression)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Although sirolimus and tacrolimus share FKBP binding, tacrolimus inhibits calcineurin (blocking IL-2 production) whereas sirolimus inhibits mTOR, which acts downstream of the IL-2 receptor to drive cell-cycle progression. Sirolimus therefore blocks the proliferative response to IL-2 rather than its synthesis.",
+        "whyCorrect": "Although sirolimus and tacrolimus share FKBP binding, tacrolimus inhibits calcineurin (blocking IL-2 production) whereas sirolimus inhibits mTOR, which acts downstream of the IL-2 receptor to drive cell-cycle progression. Sirolimus therefore blocks the proliferative response to IL-2 rather than its synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-076_18_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-077",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This diagram shows sites of action of cytotoxic immunosuppressants on nucleotide synthesis. Mycophenolate inhibits inosine monophosphate dehydrogenase. Why are lymphocytes especially sensitive to this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes cannot perform pyrimidine synthesis at all"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes depend on de novo purine synthesis because they lack an effective purine salvage pathway"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytes rely solely on the salvage pathway for purines"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocytes cannot replicate DNA without dietary folate"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocytes uniquely express dihydrofolate reductase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IMP dehydrogenase is required for de novo guanine nucleotide synthesis. Unlike most cells, activated lymphocytes rely heavily on the de novo purine pathway rather than salvage, so mycophenolate preferentially suppresses lymphocyte proliferation.",
+        "whyCorrect": "IMP dehydrogenase is required for de novo guanine nucleotide synthesis. Unlike most cells, activated lymphocytes rely heavily on the de novo purine pathway rather than salvage, so mycophenolate preferentially suppresses lymphocyte proliferation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-077_18_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-078",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "Anakinra blocks inflammatory signaling at the IL-1 receptor, as shown. Anakinra is a recombinant form of which naturally occurring molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1 receptor antagonist (IL-1Ra)"
+        },
+        {
+          "label": "B",
+          "text": "IL-10"
+        },
+        {
+          "label": "C",
+          "text": "Soluble TNF receptor"
+        },
+        {
+          "label": "D",
+          "text": "A monoclonal anti-IL-1 antibody"
+        },
+        {
+          "label": "E",
+          "text": "IL-6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anakinra is recombinant IL-1 receptor antagonist; it occupies the IL-1 receptor without triggering signaling, competitively blocking IL-1alpha and IL-1beta. It is used in rheumatoid arthritis and autoinflammatory syndromes.",
+        "whyCorrect": "Anakinra is recombinant IL-1 receptor antagonist; it occupies the IL-1 receptor without triggering signaling, competitively blocking IL-1alpha and IL-1beta. It is used in rheumatoid arthritis and autoinflammatory syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-078_19_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-079",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "Infliximab is a monoclonal antibody that binds both soluble and membrane-bound TNF-alpha, preventing it from engaging its receptor. Before starting this drug, patients must be screened for reactivation of which latent infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malaria"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis A"
+        },
+        {
+          "label": "C",
+          "text": "Herpes zoster"
+        },
+        {
+          "label": "D",
+          "text": "Group A streptococcus"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TNF-alpha is essential for forming and maintaining granulomas that contain Mycobacterium tuberculosis. TNF blockade with infliximab can allow reactivation of latent TB, so latent TB screening is required before initiating therapy.",
+        "whyCorrect": "TNF-alpha is essential for forming and maintaining granulomas that contain Mycobacterium tuberculosis. TNF blockade with infliximab can allow reactivation of latent TB, so latent TB screening is required before initiating therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-079_19_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-080",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "Several vaccine platforms are shown around a central virus. Which type generally produces the strongest, most durable immunity but is contraindicated in immunocompromised patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein subunit vaccine"
+        },
+        {
+          "label": "B",
+          "text": "Live attenuated vaccine"
+        },
+        {
+          "label": "C",
+          "text": "Virus-like particle vaccine"
+        },
+        {
+          "label": "D",
+          "text": "mRNA vaccine"
+        },
+        {
+          "label": "E",
+          "text": "Inactivated (killed) vaccine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Live attenuated vaccines use weakened replicating organisms that closely mimic natural infection, generating robust humoral and cell-mediated memory. Because the organism replicates, it can cause disease in immunocompromised hosts, in whom such vaccines are generally contraindicated.",
+        "whyCorrect": "Live attenuated vaccines use weakened replicating organisms that closely mimic natural infection, generating robust humoral and cell-mediated memory. Because the organism replicates, it can cause disease in immunocompromised hosts, in whom such vaccines are generally contraindicated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-080_20_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-081",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This figure compares a plain polysaccharide vaccine with a protein-polysaccharide conjugate vaccine. Why does the plain polysaccharide vaccine fail to protect infants under 2 years and produce no memory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infants lack B cells until age 2"
+        },
+        {
+          "label": "B",
+          "text": "Pure polysaccharides elicit a T-independent B-cell response, which lacks class switching, affinity maturation, and memory"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharides are destroyed by infant stomach acid"
+        },
+        {
+          "label": "D",
+          "text": "The vaccine antigen is presented on MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "Polysaccharides only stimulate cytotoxic T cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Polysaccharide antigens cross-link B-cell receptors without engaging T-cell help (T-independent response), producing short-lived IgM/IgG2 and no memory; infant B cells respond poorly. Conjugating the polysaccharide to a carrier protein recruits helper T cells, enabling class switching, affinity maturation, and memory, and it works in young children.",
+        "whyCorrect": "Polysaccharide antigens cross-link B-cell receptors without engaging T-cell help (T-independent response), producing short-lived IgM/IgG2 and no memory; infant B cells respond poorly. Conjugating the polysaccharide to a carrier protein recruits helper T cells, enabling class switching, affinity maturation, and memory, and it works in young children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-081_20_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-082",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This 2x2 figure classifies immunity as active/passive and natural/artificial. Which forms shown provide immediate but short-lived protection because the recipient does not generate their own antibodies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active natural immunity (infection)"
+        },
+        {
+          "label": "B",
+          "text": "Passive immunity: maternal antibodies and administered monoclonal antibodies"
+        },
+        {
+          "label": "C",
+          "text": "None provide immediate protection"
+        },
+        {
+          "label": "D",
+          "text": "Active artificial immunity (vaccination)"
+        },
+        {
+          "label": "E",
+          "text": "Both forms of active immunity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Passive immunity transfers preformed antibodies (transplacental maternal IgG or therapeutic/monoclonal antibodies), giving immediate protection that wanes as the antibodies are catabolized, with no immunologic memory. Active immunity (infection or vaccination) is slower to develop but long-lasting.",
+        "whyCorrect": "Passive immunity transfers preformed antibodies (transplacental maternal IgG or therapeutic/monoclonal antibodies), giving immediate protection that wanes as the antibodies are catabolized, with no immunologic memory. Active immunity (infection or vaccination) is slower to develop but long-lasting.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-082_20_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-083",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This figure shows that when most of a population is immunized, spread of a contagious disease is contained and even unimmunized individuals are largely protected. What is this phenomenon called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herd immunity"
+        },
+        {
+          "label": "B",
+          "text": "Cross-reactivity"
+        },
+        {
+          "label": "C",
+          "text": "Original antigenic sin"
+        },
+        {
+          "label": "D",
+          "text": "Passive immunity"
+        },
+        {
+          "label": "E",
+          "text": "Immunologic tolerance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Herd (community) immunity occurs when a high proportion of a population is immune, reducing transmission so that susceptible individuals are indirectly protected. The threshold coverage needed rises with the pathogen's contagiousness.",
+        "whyCorrect": "Herd (community) immunity occurs when a high proportion of a population is immune, reducing transmission so that susceptible individuals are indirectly protected. The threshold coverage needed rises with the pathogen's contagiousness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-083_20_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-084",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This figure shows preformed circulating recipient antibodies binding donor (allogeneic) HLA on graft endothelium within minutes to hours, activating complement and damaging endothelium. Which pre-transplant test detects these preformed antibodies and prevents this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mantoux (PPD) skin test"
+        },
+        {
+          "label": "B",
+          "text": "Serum creatinine measurement"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocyte sedimentation rate"
+        },
+        {
+          "label": "D",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocyte crossmatch (donor-recipient crossmatching)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hyperacute rejection is mediated by preformed recipient antibodies against donor HLA or ABO antigens, causing immediate complement activation, thrombosis, and endothelial injury. A pre-transplant crossmatch (mixing recipient serum with donor lymphocytes) detects such antibodies so incompatible grafts are avoided.",
+        "whyCorrect": "Hyperacute rejection is mediated by preformed recipient antibodies against donor HLA or ABO antigens, causing immediate complement activation, thrombosis, and endothelial injury. A pre-transplant crossmatch (mixing recipient serum with donor lymphocytes) detects such antibodies so incompatible grafts are avoided.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-084_22_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-085",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "The monoclonal antibody shown neutralizes both soluble and membrane-bound TNF-alpha. Before starting this class of biologic, patients must be screened for reactivation of which latent infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus retinitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis A"
+        },
+        {
+          "label": "C",
+          "text": "Tuberculosis (latent Mycobacterium tuberculosis)"
+        },
+        {
+          "label": "D",
+          "text": "Latent HIV"
+        },
+        {
+          "label": "E",
+          "text": "Latent Neisseria meningitidis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TNF-alpha is essential for maintaining the granulomas that wall off latent TB. Anti-TNF agents such as infliximab disrupt granulomas and can reactivate latent tuberculosis, so screening (IGRA or PPD) is required before therapy.",
+        "whyCorrect": "TNF-alpha is essential for maintaining the granulomas that wall off latent TB. Anti-TNF agents such as infliximab disrupt granulomas and can reactivate latent tuberculosis, so screening (IGRA or PPD) is required before therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-085_2_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-086",
+      "topicId": "immunopharm-diagnostics",
+      "topicName": "Immunopharm & Diagnostics",
+      "stem": "This figure shows double-positive thymocytes in the cortex being tested against self MHC plus peptide. Some weakly recognize MHC and are positively selected, while others fail to recognize any self MHC. What is the fate of a thymocyte whose T-cell receptor cannot recognize self-MHC at all?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Export as a naive CD8+ T cell"
+        },
+        {
+          "label": "B",
+          "text": "Differentiation into a natural killer cell"
+        },
+        {
+          "label": "C",
+          "text": "Negative selection because of strong self-reactivity"
+        },
+        {
+          "label": "D",
+          "text": "Maturation into a regulatory T cell"
+        },
+        {
+          "label": "E",
+          "text": "Apoptosis by death (neglect) due to failed positive selection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During thymic selection, a double-positive thymocyte must recognize self-MHC weakly to be positively selected (in the cortex). A thymocyte whose TCR cannot engage self-MHC receives no survival signal and dies by neglect. Separately, thymocytes that recognize self-MHC/peptide too strongly are removed by negative selection (apoptosis) in the medulla to enforce central tolerance. Only intermediate-affinity cells survive to become mature CD4+ or CD8+ T cells.",
+        "whyCorrect": "During thymic selection, a double-positive thymocyte must recognize self-MHC weakly to be positively selected (in the cortex). A thymocyte whose TCR cannot engage self-MHC receives no survival signal and dies by neglect. Separately, thymocytes that recognize self-MHC/peptide too strongly are removed by negative selection (apoptosis) in the medulla to enforce central tolerance. Only intermediate-affinity cells survive to become mature CD4+ or CD8+ T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-086_9_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

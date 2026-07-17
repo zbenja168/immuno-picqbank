@@ -1,0 +1,201 @@
+{
+  "categoryId": "tolerance-autoimmunity",
+  "categoryName": "Tolerance & Autoimmunity",
+  "questions": [
+    {
+      "id": "impic-129",
+      "topicId": "tolerance-autoimmunity",
+      "topicName": "Tolerance & Autoimmunity",
+      "stem": "The central cell suppresses effector T cells partly by expressing high levels of CD25 to capture IL-2 (in addition to IL-10/TGF-beta, CTLA-4/B7, and cytolysis). How does high CD25 expression inhibit effector T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It delivers costimulation to effector T cells"
+        },
+        {
+          "label": "B",
+          "text": "It consumes IL-2, depriving effector T cells of the growth factor they need to proliferate and survive"
+        },
+        {
+          "label": "C",
+          "text": "It upregulates B7 on dendritic cells"
+        },
+        {
+          "label": "D",
+          "text": "It activates the complement cascade"
+        },
+        {
+          "label": "E",
+          "text": "It induces IgE class switching"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "whyCorrect": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-129_11_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-130",
+      "topicId": "tolerance-autoimmunity",
+      "topicName": "Tolerance & Autoimmunity",
+      "stem": "The upper T cell receives TCR-MHC (signal 1) plus B7-CD28 costimulation (signal 2) and proliferates, whereas the lower T cell gets signal 1 only and becomes unresponsive. Blocking B7-CD28 costimulation (e.g., with CTLA-4-Ig) would therefore:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhance T-cell proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Increase MHC class I expression"
+        },
+        {
+          "label": "C",
+          "text": "Induce T-cell anergy and dampen the immune response"
+        },
+        {
+          "label": "D",
+          "text": "Trigger antibody class switching"
+        },
+        {
+          "label": "E",
+          "text": "Activate the complement cascade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "whyCorrect": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-130_11_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-131",
+      "topicId": "tolerance-autoimmunity",
+      "topicName": "Tolerance & Autoimmunity",
+      "stem": "This figure arranges therapeutic antibodies from fully murine to fully human, with tolerance increasing as murine content falls. What is the main clinical advantage of a fully human monoclonal antibody over a murine one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher antigen-binding affinity in all cases"
+        },
+        {
+          "label": "B",
+          "text": "Ability to cross the blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "Longer shelf life of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Greater complement activation"
+        },
+        {
+          "label": "E",
+          "text": "Reduced immunogenicity (less likely to provoke anti-drug antibodies)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "whyCorrect": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-131_19_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-132",
+      "topicId": "tolerance-autoimmunity",
+      "topicName": "Tolerance & Autoimmunity",
+      "stem": "This spectrum ranges from autoinflammatory disorders (e.g., familial Mediterranean fever, cryopyrin-associated periodic syndrome) at one end to autoimmune disorders (e.g., SLE, myasthenia gravis) at the other. Diseases at the autoinflammatory end are driven primarily by which arm of the immune system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The complement system exclusively"
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "The innate immune system"
+        },
+        {
+          "label": "D",
+          "text": "The adaptive immune system (autoantibodies and autoreactive T cells)"
+        },
+        {
+          "label": "E",
+          "text": "Passively transferred maternal antibodies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Autoinflammatory disorders arise from dysregulated innate immunity (e.g., inflammasome/IL-1 overactivation) without autoantibodies or antigen-specific T cells, causing recurrent unprovoked inflammation. Autoimmune disorders at the other end involve the adaptive system, with autoreactive T cells and autoantibodies against specific self-antigens.",
+        "whyCorrect": "Autoinflammatory disorders arise from dysregulated innate immunity (e.g., inflammasome/IL-1 overactivation) without autoantibodies or antigen-specific T cells, causing recurrent unprovoked inflammation. Autoimmune disorders at the other end involve the adaptive system, with autoreactive T cells and autoantibodies against specific self-antigens.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-132_21_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-133",
+      "topicId": "tolerance-autoimmunity",
+      "topicName": "Tolerance & Autoimmunity",
+      "stem": "This figure shows central tolerance, including deletion of self-reactive T cells in the thymus. Failure of thymic negative selection due to a defect in the AIRE gene results in what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune polyendocrinopathy (APECED/APS-1) affecting multiple organs"
+        },
+        {
+          "label": "B",
+          "text": "Severe combined immunodeficiency"
+        },
+        {
+          "label": "C",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "D",
+          "text": "Selective IgA deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary angioedema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AIRE (autoimmune regulator) drives thymic expression of peripheral self-antigens so self-reactive T cells are deleted (central tolerance). AIRE mutations impair this negative selection, allowing autoreactive T cells to escape and cause autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED).",
+        "whyCorrect": "AIRE (autoimmune regulator) drives thymic expression of peripheral self-antigens so self-reactive T cells are deleted (central tolerance). AIRE mutations impair this negative selection, allowing autoreactive T cells to escape and cause autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-133_21_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

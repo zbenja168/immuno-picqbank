@@ -1,0 +1,2034 @@
+{
+  "categoryId": "hypersensitivity-allergy",
+  "categoryName": "Hypersensitivity & Allergy",
+  "questions": [
+    {
+      "id": "impic-001",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "A naive CD4+ T cell differentiates into the subset shown, which secretes IL-4, IL-5, and IL-13 and drives IgE class switching, mast cell degranulation, eosinophil activation, and intestinal mucus/peristalsis. This response is MOST important for host defense against which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular viruses and bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Extracellular pyogenic bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Systemic fungal infections"
+        },
+        {
+          "label": "E",
+          "text": "Helminth (parasitic worm) infections"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure depicts Th2 differentiation and its effector arms (IL-4/5/13, IgE, eosinophils, mast cells, mucus and peristalsis). This program mediates immunity against helminths and, when dysregulated, causes allergic disease. Intracellular pathogens are handled by Th1/CD8 responses.",
+        "whyCorrect": "The figure depicts Th2 differentiation and its effector arms (IL-4/5/13, IgE, eosinophils, mast cells, mucus and peristalsis). This program mediates immunity against helminths and, when dysregulated, causes allergic disease. Intracellular pathogens are handled by Th1/CD8 responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-001_10_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-002",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "The upper B cell receives antigen (Signal 1) plus T-cell help through CD40L-CD40 (Signal 2) and secretes antibody, whereas the lower B cell receives only Signal 1 and becomes unresponsive. Why is this two-signal requirement immunologically important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly increases antibody affinity"
+        },
+        {
+          "label": "B",
+          "text": "It is required for the B cell to fix complement"
+        },
+        {
+          "label": "C",
+          "text": "It accelerates antigen phagocytosis"
+        },
+        {
+          "label": "D",
+          "text": "It restricts class switching exclusively to IgE"
+        },
+        {
+          "label": "E",
+          "text": "It enforces self-tolerance, preventing B cells from responding to self-antigen without T-cell help"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
+        "whyCorrect": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-002_11_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-003",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows developing thymocytes selected by how strongly their TCR binds self-peptide-MHC. Failure of the top pathway (strong self-antigen binding) would MOST likely result in:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overproduction of regulatory T cells"
+        },
+        {
+          "label": "B",
+          "text": "Failure of MHC restriction"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmunity, because self-reactive T cells escape deletion"
+        },
+        {
+          "label": "D",
+          "text": "Immunodeficiency with recurrent infections"
+        },
+        {
+          "label": "E",
+          "text": "Inability to recognize any MHC molecule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
+        "whyCorrect": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-003_11_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-004",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this bone-marrow figure, a self-reactive immature B cell that strongly binds self-antigen follows pathway A. Which tolerance mechanism does pathway A represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive selection"
+        },
+        {
+          "label": "B",
+          "text": "Anergy"
+        },
+        {
+          "label": "C",
+          "text": "Clonal ignorance"
+        },
+        {
+          "label": "D",
+          "text": "Clonal deletion (apoptosis) of the self-reactive B cell"
+        },
+        {
+          "label": "E",
+          "text": "Receptor editing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
+        "whyCorrect": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-004_11_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-005",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "Both panels show antibodies directed against cell-surface receptors: one blocks the acetylcholine receptor at the neuromuscular junction, the other stimulates the TSH receptor. These disorders are examples of which hypersensitivity type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type III (immune complex)"
+        },
+        {
+          "label": "B",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type I with immune-complex deposition"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (delayed, T-cell mediated)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
+        "whyCorrect": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-005_12_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-006",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "Circulating antigen-antibody complexes deposit in the vessel wall, fix complement, and recruit neutrophils (Phase II). Which hypersensitivity type is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type II (antibody against cell-surface antigen)"
+        },
+        {
+          "label": "B",
+          "text": "Type III (immune-complex) hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "D",
+          "text": "Type II with receptor-blocking antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (T-cell mediated)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
+        "whyCorrect": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-006_12_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-007",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This linear array of vesicles appeared on the skin after contact with a plant. What is the underlying immunologic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type II antibody-mediated hypersensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Type III immune-complex hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type IV (delayed-type, T-cell mediated) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type I IgE-mediated hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated urticaria"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
+        "whyCorrect": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-007_12_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-008",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "These four panels show dendritic cells presenting allergen, Th2-driven IgE class switching, IgE binding FcepsilonRI on mast cells, and (only on re-exposure) mast-cell degranulation. The events in panels 1-3, which occur before any symptoms, are collectively termed:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy induction"
+        },
+        {
+          "label": "B",
+          "text": "Immune tolerance"
+        },
+        {
+          "label": "C",
+          "text": "Desensitization"
+        },
+        {
+          "label": "D",
+          "text": "Sensitization"
+        },
+        {
+          "label": "E",
+          "text": "The effector (challenge) phase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
+        "whyCorrect": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-008_12_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-009",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "Among the mediators released by the activated mast cell shown, which is MOST responsible for the immediate vasodilation and increased vascular permeability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "B",
+          "text": "Perforin"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "TNF"
+        },
+        {
+          "label": "E",
+          "text": "Tryptase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
+        "whyCorrect": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-009_12_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-010",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "Intradermal antigen in a sensitized person produces the wheal-and-flare reaction shown within minutes. This immediate reaction is mediated primarily by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-triggered mast cell degranulation releasing histamine"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of immune complexes"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil-derived proteases"
+        },
+        {
+          "label": "D",
+          "text": "T-cell cytokines (delayed hypersensitivity)"
+        },
+        {
+          "label": "E",
+          "text": "Complement-fixing IgG antibodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
+        "whyCorrect": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-010_12_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-011",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this asthma pathway, mast-cell mediators produce an early response of bronchoconstriction and a late response of inflammation and bronchial hyperreactivity. Which mediators chiefly drive the sustained bronchoconstriction of the late response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Cysteinyl leukotrienes (LTC4/D4/E4)"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Histamine acting alone"
+        },
+        {
+          "label": "E",
+          "text": "Complement fragment C3a"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
+        "whyCorrect": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-011_13_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-012",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows simultaneous multi-organ involvement after allergen exposure: airway swelling, bronchospasm, hypotension/tachycardia, urticaria, and GI symptoms. What is this life-threatening reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Localized urticaria"
+        },
+        {
+          "label": "B",
+          "text": "Serum sickness"
+        },
+        {
+          "label": "C",
+          "text": "Arthus reaction"
+        },
+        {
+          "label": "D",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Anaphylaxis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
+        "whyCorrect": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-012_13_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-013",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "These transient, raised, erythematous, blanching wheals appeared after allergen exposure and are intensely pruritic. What is this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "B",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Petechial rash"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Urticaria (hives)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyCorrect": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-013_13_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-014",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In the procedure shown, drops of allergen extract are placed on the forearm, the skin is pricked, and a wheal is measured. This test diagnoses which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type IV (delayed, T-cell mediated)"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type I (IgE-mediated) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type II (antibody-mediated)"
+        },
+        {
+          "label": "E",
+          "text": "Type III (immune complex)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
+        "whyCorrect": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-014_13_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-015",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This normal neonatal chest radiograph shows a prominent anterior-mediastinal structure (the 'sail sign'). Congenital absence of this structure would MOST likely cause which immunologic problem?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated antibody deficiency with normal T cells"
+        },
+        {
+          "label": "B",
+          "text": "A neutrophil killing defect"
+        },
+        {
+          "label": "C",
+          "text": "Terminal complement deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Functional asplenia"
+        },
+        {
+          "label": "E",
+          "text": "T-cell deficiency (as in thymic aplasia/DiGeorge)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The labeled structure is the thymus, the site of T-cell maturation. Failure of thymic development (e.g., DiGeorge/22q11.2 deletion) produces T-cell deficiency with susceptibility to viral, fungal, and opportunistic infections.",
+        "whyCorrect": "The labeled structure is the thymus, the site of T-cell maturation. Failure of thymic development (e.g., DiGeorge/22q11.2 deletion) produces T-cell deficiency with susceptibility to viral, fungal, and opportunistic infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-015_14_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-016",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This diagram adds AIRE deficiency affecting late thymic T-cell development. What is the normal function of AIRE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It mediates V(D)J recombination in precursors"
+        },
+        {
+          "label": "B",
+          "text": "It drives thymic expression of peripheral-tissue self-antigens for negative selection (central tolerance)"
+        },
+        {
+          "label": "C",
+          "text": "It drives immunoglobulin class switching in B cells"
+        },
+        {
+          "label": "D",
+          "text": "It encodes the common gamma chain of cytokine receptors"
+        },
+        {
+          "label": "E",
+          "text": "It transmits signaling downstream of BTK"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AIRE (autoimmune regulator) promotes ectopic expression of tissue-restricted self-antigens by thymic medullary epithelial cells, enabling deletion of autoreactive thymocytes. AIRE loss causes APECED/APS-1 with multi-organ autoimmunity and chronic mucocutaneous candidiasis.",
+        "whyCorrect": "AIRE (autoimmune regulator) promotes ectopic expression of tissue-restricted self-antigens by thymic medullary epithelial cells, enabling deletion of autoreactive thymocytes. AIRE loss causes APECED/APS-1 with multi-organ autoimmunity and chronic mucocutaneous candidiasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-016_14_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-017",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "DiGeorge syndrome blocks the earliest step of T-cell development shown, preventing thymic maturation. What is the embryologic basis of this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mutation in the BTK gene"
+        },
+        {
+          "label": "B",
+          "text": "A mutation in the RAG recombinase genes"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of adenosine deaminase (ADA)"
+        },
+        {
+          "label": "D",
+          "text": "A mutation in the common gamma chain"
+        },
+        {
+          "label": "E",
+          "text": "Failed development of the third and fourth pharyngeal pouches, causing thymic (and parathyroid) aplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "DiGeorge (22q11.2 deletion) disrupts third/fourth pharyngeal pouch development, so the thymus fails to form and T cells cannot mature. Associated features include hypocalcemia (absent parathyroids) and conotruncal cardiac defects.",
+        "whyCorrect": "DiGeorge (22q11.2 deletion) disrupts third/fourth pharyngeal pouch development, so the thymus fails to form and T cells cannot mature. Associated features include hypocalcemia (absent parathyroids) and conotruncal cardiac defects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-017_14_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-018",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "An infant has these facial features (low-set ears, hypertelorism, cleft palate, micrognathia) along with recurrent viral/fungal infections, cardiac defects, and hypocalcemic tetany. This presentation is MOST associated with which genetic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "22q11.2 microdeletion (DiGeorge syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "WAS gene mutation"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 21"
+        },
+        {
+          "label": "D",
+          "text": "X-linked BTK mutation"
+        },
+        {
+          "label": "E",
+          "text": "Deletion at 15q11 (imprinting region)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The dysmorphic facies plus thymic hypoplasia (T-cell deficiency), parathyroid hypoplasia (hypocalcemia), and conotruncal heart defects constitute DiGeorge syndrome from a 22q11.2 deletion (CATCH-22).",
+        "whyCorrect": "The dysmorphic facies plus thymic hypoplasia (T-cell deficiency), parathyroid hypoplasia (hypocalcemia), and conotruncal heart defects constitute DiGeorge syndrome from a 22q11.2 deletion (CATCH-22).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-018_14_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-019",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this figure, X-linked hyper-IgM syndrome disrupts CD40L-CD40 signaling between helper T cells and B cells (and T cells and macrophages). What antibody profile results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated IgM with low IgG, IgA, and IgE due to failed class switching"
+        },
+        {
+          "label": "B",
+          "text": "Absence of all immunoglobulin classes"
+        },
+        {
+          "label": "C",
+          "text": "Isolated IgA deficiency with normal IgM and IgG"
+        },
+        {
+          "label": "D",
+          "text": "Low IgM with high IgG"
+        },
+        {
+          "label": "E",
+          "text": "Elevated IgE as the only abnormality"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CD40L (CD154) on activated T cells engages CD40 on B cells to license immunoglobulin class switching and germinal-center reactions. Its loss leaves B cells stuck making IgM: high IgM, low IgG/IgA/IgE, with susceptibility to pyogenic and opportunistic (e.g., Pneumocystis) infections.",
+        "whyCorrect": "CD40L (CD154) on activated T cells engages CD40 on B cells to license immunoglobulin class switching and germinal-center reactions. Its loss leaves B cells stuck making IgM: high IgM, low IgG/IgA/IgE, with susceptibility to pyogenic and opportunistic (e.g., Pneumocystis) infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-019_15_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-020",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This diagram shows hyper-IgE (Job) syndrome impairing generation of the T-cell subset that drives neutrophilic inflammation. This disorder classically presents with which triad?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Telangiectasia with cerebellar ataxia"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent cold staphylococcal abscesses, eczema, and markedly elevated serum IgE"
+        },
+        {
+          "label": "C",
+          "text": "Absent B cells with panhypogammaglobulinemia"
+        },
+        {
+          "label": "D",
+          "text": "Tetany, cleft palate, and absent thymus"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent Neisseria infections"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyper-IgE syndrome (impaired Th17 responses, often STAT3 mutations) causes the classic triad of recurrent 'cold' staph skin abscesses, eczema, and high IgE. Other features include retained primary teeth, coarse facies, and recurrent pneumonias with pneumatoceles.",
+        "whyCorrect": "Hyper-IgE syndrome (impaired Th17 responses, often STAT3 mutations) causes the classic triad of recurrent 'cold' staph skin abscesses, eczema, and high IgE. Other features include retained primary teeth, coarse facies, and recurrent pneumonias with pneumatoceles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-020_15_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-021",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure highlights selective IgA deficiency at the helper T-cell/B-cell/plasma-cell axis. What is the MOST characteristic clinical feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypocalcemic tetany and cardiac defects"
+        },
+        {
+          "label": "B",
+          "text": "Severe disseminated viral infection from birth"
+        },
+        {
+          "label": "C",
+          "text": "Complete absence of all antibody classes"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent Neisseria meningitis"
+        },
+        {
+          "label": "E",
+          "text": "Often asymptomatic, but may have recurrent sinopulmonary/GI infections and anaphylaxis to IgA-containing blood products"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Selective IgA deficiency is the most common primary immunodeficiency and is frequently asymptomatic. Some patients have recurrent mucosal infections, atopy, or autoimmunity, and anti-IgA antibodies can cause anaphylactic transfusion reactions to IgA-containing products.",
+        "whyCorrect": "Selective IgA deficiency is the most common primary immunodeficiency and is frequently asymptomatic. Some patients have recurrent mucosal infections, atopy, or autoimmunity, and anti-IgA antibodies can cause anaphylactic transfusion reactions to IgA-containing products.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-021_15_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-022",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "Panel A shows nuclear staining patterns produced by patient serum on substrate cells; panel B depicts how the signal is generated, with a fluorophore-labeled secondary antibody binding a patient (primary) antibody that is bound to antigen. What laboratory technique is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct Coombs test"
+        },
+        {
+          "label": "B",
+          "text": "Western blot"
+        },
+        {
+          "label": "C",
+          "text": "Sandwich ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "E",
+          "text": "Indirect immunofluorescence"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antinuclear antibody testing uses indirect immunofluorescence: patient antibodies bind nuclear antigens on fixed cells, then a fluorescently labeled anti-human antibody detects them, producing characteristic patterns (homogeneous, speckled, nucleolar, centromere).",
+        "whyCorrect": "Antinuclear antibody testing uses indirect immunofluorescence: patient antibodies bind nuclear antigens on fixed cells, then a fluorescently labeled anti-human antibody detects them, producing characteristic patterns (homogeneous, speckled, nucleolar, centromere).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-022_17_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-023",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this microplate assay, antigen is immobilized in the well, an enzyme-conjugated antibody binds it, and after washing a substrate is added that produces a measurable color proportional to the amount bound. What technique is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Southern blot"
+        },
+        {
+          "label": "B",
+          "text": "ELISA (enzyme-linked immunosorbent assay)"
+        },
+        {
+          "label": "C",
+          "text": "Immunofluorescence microscopy"
+        },
+        {
+          "label": "D",
+          "text": "Agglutination assay"
+        },
+        {
+          "label": "E",
+          "text": "Polymerase chain reaction (PCR)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ELISA uses an enzyme-linked antibody and a chromogenic substrate to quantify antigen or antibody. The enzyme converts substrate into a colored product whose intensity is proportional to the amount of target, read by a spectrophotometer.",
+        "whyCorrect": "ELISA uses an enzyme-linked antibody and a chromogenic substrate to quantify antigen or antibody. The enzyme converts substrate into a colored product whose intensity is proportional to the amount of target, read by a spectrophotometer.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-023_17_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-024",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "Three ELISA configurations are shown. In the third, an antibody is first immobilized to capture antigen from the sample, and a second labeled antibody then binds a different epitope of that antigen. What is this configuration called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Western blot"
+        },
+        {
+          "label": "B",
+          "text": "Indirect ELISA"
+        },
+        {
+          "label": "C",
+          "text": "Competitive ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Sandwich ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Direct ELISA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In a sandwich ELISA the target antigen is trapped between two antibodies, an immobilized capture antibody and a labeled detection antibody binding a separate epitope, giving high specificity and sensitivity for measuring antigen.",
+        "whyCorrect": "In a sandwich ELISA the target antigen is trapped between two antibodies, an immobilized capture antibody and a labeled detection antibody binding a separate epitope, giving high specificity and sensitivity for measuring antigen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-024_17_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-025",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In an mRNA vaccine, host cells take up the mRNA and their ribosomes translate it into antigen that is then displayed. Because the antigen is synthesized inside the host cell (endogenous), this pathway is especially effective at generating which response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An IgE-mediated allergic response"
+        },
+        {
+          "label": "B",
+          "text": "A purely innate neutrophil response"
+        },
+        {
+          "label": "C",
+          "text": "A cytotoxic CD8+ T-cell response via MHC class I presentation"
+        },
+        {
+          "label": "D",
+          "text": "Complement-mediated lysis without T cells"
+        },
+        {
+          "label": "E",
+          "text": "A T-independent B-cell response"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endogenously synthesized proteins are processed and presented on MHC class I, priming CD8+ cytotoxic T cells, while the expressed antigen also drives antibody responses. This intracellular antigen production is an advantage of mRNA and viral-vector vaccines over inert subunit vaccines.",
+        "whyCorrect": "Endogenously synthesized proteins are processed and presented on MHC class I, priming CD8+ cytotoxic T cells, while the expressed antigen also drives antibody responses. This intracellular antigen production is an advantage of mRNA and viral-vector vaccines over inert subunit vaccines.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-025_20_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-026",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In a protein subunit vaccine the antigen is injected preformed and taken up by antigen-presenting cells from outside the cell. This exogenous antigen is presented predominantly on which molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MHC class I, activating CD8+ T cells"
+        },
+        {
+          "label": "B",
+          "text": "MHC class II, activating CD4+ helper T cells"
+        },
+        {
+          "label": "C",
+          "text": "Fc receptors"
+        },
+        {
+          "label": "D",
+          "text": "CD1, presenting lipids"
+        },
+        {
+          "label": "E",
+          "text": "Toll-like receptor 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Exogenous antigens taken up by endocytosis are processed in endosomes and loaded onto MHC class II for presentation to CD4+ helper T cells, which support antibody production. Subunit vaccines therefore favor CD4/antibody responses and often need adjuvants or boosters.",
+        "whyCorrect": "Exogenous antigens taken up by endocytosis are processed in endosomes and loaded onto MHC class II for presentation to CD4+ helper T cells, which support antibody production. Subunit vaccines therefore favor CD4/antibody responses and often need adjuvants or boosters.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-026_20_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-027",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this adenoviral vector vaccine, the adenovirus enters a host cell, its genetic material reaches the nucleus, and the target antigen is then produced. What is the role of the adenovirus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It serves as a delivery vehicle carrying the gene that encodes the target antigen into host cells"
+        },
+        {
+          "label": "B",
+          "text": "It provides preformed antibodies against the target"
+        },
+        {
+          "label": "C",
+          "text": "It directly lyses infected cells"
+        },
+        {
+          "label": "D",
+          "text": "It acts only as an adjuvant with no genetic payload"
+        },
+        {
+          "label": "E",
+          "text": "It is the disease-causing pathogen the vaccine protects against"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Viral-vector vaccines use a replication-deficient virus (e.g., adenovirus) as a carrier to deliver DNA encoding the target antigen. Host cells then transcribe and translate the antigen, which is presented to the immune system, generating antibody and T-cell responses.",
+        "whyCorrect": "Viral-vector vaccines use a replication-deficient virus (e.g., adenovirus) as a carrier to deliver DNA encoding the target antigen. Host cells then transcribe and translate the antigen, which is presented to the immune system, generating antibody and T-cell responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-027_20_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-028",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this graph a second injection contains antigen 1 plus a new antigen 2. The response to antigen 1 is rapid and large (secondary), but the simultaneous response to antigen 2 looks like a slow, small primary response. Why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells can respond to only one antigen per lifetime"
+        },
+        {
+          "label": "B",
+          "text": "The antibodies to antigen 1 neutralize antigen 2"
+        },
+        {
+          "label": "C",
+          "text": "Immunologic memory is antigen-specific; memory cells exist for antigen 1 but not for the newly encountered antigen 2"
+        },
+        {
+          "label": "D",
+          "text": "Antigen 2 is a weaker immunogen at all times"
+        },
+        {
+          "label": "E",
+          "text": "Antigen 2 suppresses B-cell activation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The heightened, faster secondary response reflects memory B and T cells generated during the first exposure, and this memory is specific to that antigen. Because antigen 2 is encountered for the first time, it elicits a primary response despite being given at the same time as the antigen-1 boost.",
+        "whyCorrect": "The heightened, faster secondary response reflects memory B and T cells generated during the first exposure, and this memory is specific to that antigen. Because antigen 2 is encountered for the first time, it elicits a primary response despite being given at the same time as the antigen-1 boost.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-028_20_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-029",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "The left panel illustrates molecular mimicry, in which a T-cell receptor reacts with a self-peptide that shares structural homology with a microbial antigen. Cross-reactivity between streptococcal M protein and cardiac tissue by this mechanism causes which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wilson disease"
+        },
+        {
+          "label": "B",
+          "text": "Rheumatic fever"
+        },
+        {
+          "label": "C",
+          "text": "Sickle cell disease"
+        },
+        {
+          "label": "D",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Hemochromatosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In molecular mimicry, antibodies or T cells raised against a pathogen cross-react with structurally similar self-antigens. Antibodies against group A streptococcal M protein cross-react with cardiac myosin and valve tissue, producing rheumatic fever.",
+        "whyCorrect": "In molecular mimicry, antibodies or T cells raised against a pathogen cross-react with structurally similar self-antigens. Antibodies against group A streptococcal M protein cross-react with cardiac myosin and valve tissue, producing rheumatic fever.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-029_21_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-030",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "In this sequence an infected cell is damaged and leaks self-antigens, which antigen-presenting cells then present to autoreactive T cells, ultimately driving immune responses against uninfected cells. What best explains why the response broadens to target uninfected host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tissue damage releases previously sequestered self-antigens that activate autoreactive T cells"
+        },
+        {
+          "label": "B",
+          "text": "The pathogen directly infects all host cells simultaneously"
+        },
+        {
+          "label": "C",
+          "text": "Complement nonspecifically lyses every cell"
+        },
+        {
+          "label": "D",
+          "text": "The thymus begins producing new self-reactive clones on demand"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibodies are transferred from the mother"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is epitope spreading: cell injury during infection releases hidden self-antigens that are taken up and presented, activating autoreactive lymphocytes. The immune response then expands beyond the original microbial target to self-tissues, contributing to autoimmune disease.",
+        "whyCorrect": "This is epitope spreading: cell injury during infection releases hidden self-antigens that are taken up and presented, activating autoreactive lymphocytes. The immune response then expands beyond the original microbial target to self-tissues, contributing to autoimmune disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-030_21_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-031",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This crystal structure shows an antigenic peptide bound in the groove of an HLA-DR molecule and contacted by a T-cell receptor. HLA-DR is a class II MHC molecule; it presents peptides to which cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B cells via their B-cell receptor"
+        },
+        {
+          "label": "B",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "CD4+ helper T cells"
+        },
+        {
+          "label": "E",
+          "text": "CD8+ cytotoxic T cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HLA-DR, -DP, and -DQ are MHC class II molecules expressed on professional antigen-presenting cells. They present exogenously derived peptides to CD4+ helper T cells, whose TCR, together with the CD4 co-receptor binding MHC II, recognizes the peptide-MHC complex.",
+        "whyCorrect": "HLA-DR, -DP, and -DQ are MHC class II molecules expressed on professional antigen-presenting cells. They present exogenously derived peptides to CD4+ helper T cells, whose TCR, together with the CD4 co-receptor binding MHC II, recognizes the peptide-MHC complex.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-031_21_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-032",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "The left panel shows a CD8+ T cell killing a cancer cell; the right shows the same tumor cell (now poorly presenting antigen on MHC I) killed by a different lymphocyte. Why can the right-hand lymphocyte kill the tumor when the CD8+ T cell cannot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NK cells must first be primed by dendritic cells in lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "NK cells preferentially lyse cells that overexpress MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "NK cells recognize peptide-MHC through a rearranged T-cell receptor"
+        },
+        {
+          "label": "D",
+          "text": "NK cells are activated by loss of inhibitory MHC class I ('missing self')"
+        },
+        {
+          "label": "E",
+          "text": "NK cells kill only after antibody opsonization via CD16"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tumor or viral downregulation of MHC I lets cells evade CD8+ T cells but simultaneously removes the inhibitory signal to NK cells. Reduced 'self' MHC together with activating-ligand engagement and cytokines triggers NK-mediated perforin/granzyme killing (the missing-self hypothesis).",
+        "whyCorrect": "Tumor or viral downregulation of MHC I lets cells evade CD8+ T cells but simultaneously removes the inhibitory signal to NK cells. Reduced 'self' MHC together with activating-ligand engagement and cytokines triggers NK-mediated perforin/granzyme killing (the missing-self hypothesis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-032_22_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-033",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This stellate cell bearing numerous spiny membrane processes specializes in capturing antigen and priming naive T cells. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Megakaryocyte"
+        },
+        {
+          "label": "B",
+          "text": "Basophil"
+        },
+        {
+          "label": "C",
+          "text": "Red blood cell"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Dendritic cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The characteristic star-shaped morphology with many long processes marks a dendritic cell, the most effective professional antigen-presenting cell for activating naive T cells.",
+        "whyCorrect": "The characteristic star-shaped morphology with many long processes marks a dendritic cell, the most effective professional antigen-presenting cell for activating naive T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-033_3_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-034",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "The diagram follows a dendritic cell capturing antigen in skin and presenting it to a naive T cell in the lymph node. Besides peptide-MHC recognition, what second signal must the dendritic cell deliver to fully activate the naive T cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine release"
+        },
+        {
+          "label": "B",
+          "text": "Complement C3b deposition"
+        },
+        {
+          "label": "C",
+          "text": "Perforin and granzyme delivery"
+        },
+        {
+          "label": "D",
+          "text": "Fc receptor cross-linking"
+        },
+        {
+          "label": "E",
+          "text": "Costimulation via B7 (CD80/86) binding CD28"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naive T-cell activation requires signal 1 (peptide-MHC engaging the TCR) plus signal 2, costimulation through B7 (CD80/86) on the mature dendritic cell binding CD28 on the T cell. CCR7 guides the DC to the T-cell zone; without costimulation the T cell becomes anergic.",
+        "whyCorrect": "Naive T-cell activation requires signal 1 (peptide-MHC engaging the TCR) plus signal 2, costimulation through B7 (CD80/86) on the mature dendritic cell binding CD28 on the T cell. CCR7 guides the DC to the T-cell zone; without costimulation the T cell becomes anergic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-034_3_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-035",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "The figure contrasts antigen capture in lymph nodes (tissue antigens) with capture in the organ that filters blood-borne antigens. Loss of that blood-filtering organ leaves patients especially vulnerable to which pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous dermatophyte fungi"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular mycobacteria"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated bacteria (e.g., S. pneumoniae, H. influenzae, N. meningitidis)"
+        },
+        {
+          "label": "D",
+          "text": "Helminth parasites"
+        },
+        {
+          "label": "E",
+          "text": "Non-enveloped gastrointestinal viruses"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spleen captures and clears blood-borne antigens and opsonized encapsulated organisms via its marginal zone. Asplenic or hyposplenic patients are at high risk of overwhelming infection by encapsulated bacteria and require vaccination and prophylaxis.",
+        "whyCorrect": "The spleen captures and clears blood-borne antigens and opsonized encapsulated organisms via its marginal zone. Asplenic or hyposplenic patients are at high risk of overwhelming infection by encapsulated bacteria and require vaccination and prophylaxis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-035_3_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-036",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "The classical complement pathway shown begins when C1 binds antibody. Which region of the antibody does C1q actually attach to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The variable light chain only"
+        },
+        {
+          "label": "B",
+          "text": "Free mannose residues on the antibody"
+        },
+        {
+          "label": "C",
+          "text": "The Fc region of antigen-bound IgM or IgG"
+        },
+        {
+          "label": "D",
+          "text": "The J chain of secretory IgA"
+        },
+        {
+          "label": "E",
+          "text": "The antigen-binding Fab region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C1q binds the Fc portions of antibody (IgM or IgG) that is already bound to antigen, activating C1r/C1s to cleave C4 and C2 and assemble the classical C3 convertase (C4b2b).",
+        "whyCorrect": "C1q binds the Fc portions of antibody (IgM or IgG) that is already bound to antigen, activating C1r/C1s to cleave C4 and C2 and assemble the classical C3 convertase (C4b2b).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-036_4_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-037",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This patient has recurrent episodes of non-pitting facial and lip swelling (angioedema) without urticaria or itching. Deficiency of which regulatory protein classically causes this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE overproduction"
+        },
+        {
+          "label": "B",
+          "text": "Myeloperoxidase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "C3 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "C1 esterase inhibitor (C1-INH) deficiency - hereditary angioedema"
+        },
+        {
+          "label": "E",
+          "text": "Factor VIII deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hereditary angioedema results from C1-inhibitor deficiency, leading to unchecked bradykinin generation and episodic angioedema without urticaria. Because it is bradykinin-mediated (not histamine-mediated), antihistamines are ineffective and ACE inhibitors can precipitate attacks.",
+        "whyCorrect": "Hereditary angioedema results from C1-inhibitor deficiency, leading to unchecked bradykinin generation and episodic angioedema without urticaria. Because it is bradykinin-mediated (not histamine-mediated), antihistamines are ineffective and ACE inhibitors can precipitate attacks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-037_4_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-038",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure traces how extracellular protein antigens are taken into vesicles of an antigen-presenting cell, processed, and loaded onto MHC molecules for surface display to CD4+ helper T cells. In the vesicular compartment, HLA-DM performs which essential function before peptide presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It ubiquitinates the antigen to target it to the proteasome"
+        },
+        {
+          "label": "B",
+          "text": "It transports peptides from the cytosol into the endoplasmic reticulum"
+        },
+        {
+          "label": "C",
+          "text": "It stabilizes beta-2 microglobulin association with the class II chains"
+        },
+        {
+          "label": "D",
+          "text": "It catalyzes removal of the CLIP fragment so antigenic peptides can bind the class II groove"
+        },
+        {
+          "label": "E",
+          "text": "It cleaves the invariant chain to generate the peptide-binding cleft de novo"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is the MHC class II (exogenous) processing pathway. After the invariant chain is degraded, a residual CLIP fragment occupies the class II groove. HLA-DM catalyzes exchange of CLIP for higher-affinity antigenic peptides, enabling display to CD4+ T cells. TAP-mediated cytosol-to-ER transport belongs to the class I pathway, and beta-2 microglobulin associates with class I, not class II.",
+        "whyCorrect": "This is the MHC class II (exogenous) processing pathway. After the invariant chain is degraded, a residual CLIP fragment occupies the class II groove. HLA-DM catalyzes exchange of CLIP for higher-affinity antigenic peptides, enabling display to CD4+ T cells. TAP-mediated cytosol-to-ER transport belongs to the class I pathway, and beta-2 microglobulin associates with class I, not class II.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-038_6_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-039",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows how endogenously synthesized (e.g., viral) proteins in the cytosol are processed and loaded onto MHC molecules for display to CD8+ cytotoxic T cells. What is the function of the transporter labeled TAP in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It adds ubiquitin to viral proteins targeting them for degradation"
+        },
+        {
+          "label": "B",
+          "text": "It removes CLIP from the peptide-binding groove"
+        },
+        {
+          "label": "C",
+          "text": "It transports proteasome-generated peptides from the cytosol into the endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "It degrades ubiquitinated proteins into short peptides"
+        },
+        {
+          "label": "E",
+          "text": "It exports assembled peptide-MHC complexes to the cell surface"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the MHC class I (endogenous) pathway. Cytosolic proteins are ubiquitinated and degraded by the proteasome; the transporter associated with antigen processing (TAP) then pumps these peptides into the ER, where they are loaded (with tapasin's help) onto newly assembled class I/beta-2 microglobulin molecules for display to CD8+ T cells. The proteasome, not TAP, performs the degradation.",
+        "whyCorrect": "This is the MHC class I (endogenous) pathway. Cytosolic proteins are ubiquitinated and degraded by the proteasome; the transporter associated with antigen processing (TAP) then pumps these peptides into the ER, where they are loaded (with tapasin's help) onto newly assembled class I/beta-2 microglobulin molecules for display to CD8+ T cells. The proteasome, not TAP, performs the degradation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-039_6_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-040",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows a dendritic cell engulfing fragments of a virally infected cell, then routing the internalized viral antigen so that it appears on MHC class I to activate a virus-specific CD8+ T cell. This ability of a dendritic cell to prime CD8+ T cells against a virus that never infected the dendritic cell itself depends on which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superantigen-mediated activation independent of peptide"
+        },
+        {
+          "label": "B",
+          "text": "Cross-presentation of exogenous antigen on MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "Direct endogenous class I presentation of self-synthesized viral protein"
+        },
+        {
+          "label": "D",
+          "text": "NK-mediated recognition of missing self"
+        },
+        {
+          "label": "E",
+          "text": "Class II presentation of exogenous antigen to the same CD8+ cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normally exogenous (engulfed) antigens are displayed on MHC class II to CD4 cells, while class I displays endogenously synthesized proteins. Cross-presentation is the specialized dendritic-cell pathway that diverts internalized exogenous antigen onto MHC class I, allowing priming of naive CD8+ cytotoxic T cells against pathogens (and tumors) that do not directly infect the APC. Costimulation is also provided, as shown.",
+        "whyCorrect": "Normally exogenous (engulfed) antigens are displayed on MHC class II to CD4 cells, while class I displays endogenously synthesized proteins. Cross-presentation is the specialized dendritic-cell pathway that diverts internalized exogenous antigen onto MHC class I, allowing priming of naive CD8+ cytotoxic T cells against pathogens (and tumors) that do not directly infect the APC. Costimulation is also provided, as shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-040_6_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-041",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure contrasts a CD8+ T cell engaging a target cell (left) and a CD4+ T cell engaging an antigen-presenting cell (right), each showing the TCR-MHC-peptide interaction plus an additional receptor-ligand pair. Besides TCR recognition of peptide-MHC (signal 1), what is the essential costimulatory interaction (signal 2) required for full naive T-cell activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 binding MHC class II"
+        },
+        {
+          "label": "B",
+          "text": "PD-1 binding PD-L1"
+        },
+        {
+          "label": "C",
+          "text": "CD40L on the APC binding CD40 on the T cell"
+        },
+        {
+          "label": "D",
+          "text": "CD8 binding MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "CD28 on the T cell binding B7 (CD80/CD86) on the APC"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the immunological synapse with the TCR-MHC-peptide complex plus a costimulatory pair. Signal 1 is TCR recognition of peptide-MHC (with CD4/CD8 as coreceptors); signal 2 is delivered by T-cell CD28 binding B7 (CD80/CD86) on the APC. Without this costimulation, a naive T cell becomes anergic. CD40L-CD40 signaling runs from the T cell to the APC/B cell, licensing the APC, and is not the CD28 costimulatory signal itself.",
+        "whyCorrect": "The figure shows the immunological synapse with the TCR-MHC-peptide complex plus a costimulatory pair. Signal 1 is TCR recognition of peptide-MHC (with CD4/CD8 as coreceptors); signal 2 is delivered by T-cell CD28 binding B7 (CD80/CD86) on the APC. Without this costimulation, a naive T cell becomes anergic. CD40L-CD40 signaling runs from the T cell to the APC/B cell, licensing the APC, and is not the CD28 costimulatory signal itself.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-041_6_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-042",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows a repertoire of lymphocytes each bearing a distinct antigen receptor (a, b, c, x, y, z). Antigen X appears and engages only the lymphocyte bearing receptor x, which then proliferates into a clone secreting anti-X antibody. According to the principle this illustrates, when is a lymphocyte's antigen specificity determined?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "After antigen exposure, when the antigen instructs the receptor to fold around it"
+        },
+        {
+          "label": "B",
+          "text": "Randomly re-assigned each time the cell divides"
+        },
+        {
+          "label": "C",
+          "text": "Only after the lymphocyte fuses with the antigen"
+        },
+        {
+          "label": "D",
+          "text": "By the concentration of antigen present at the time of binding"
+        },
+        {
+          "label": "E",
+          "text": "Before antigen exposure; each lymphocyte's receptor specificity is predetermined and antigen merely selects the matching clone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure illustrates clonal selection. A vast repertoire of lymphocytes, each with a unique pre-formed receptor, exists before any antigen is encountered. Antigen does not instruct receptor shape; it simply selects and activates the pre-existing clone whose receptor already fits, driving that clone's proliferation and antibody production. This refutes the older instructional theory of antibody formation.",
+        "whyCorrect": "The figure illustrates clonal selection. A vast repertoire of lymphocytes, each with a unique pre-formed receptor, exists before any antigen is encountered. Antigen does not instruct receptor shape; it simply selects and activates the pre-existing clone whose receptor already fits, driving that clone's proliferation and antibody production. This refutes the older instructional theory of antibody formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-042_7_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-043",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows antigen-bound B cells being sorted by the strength of antigen binding: those with lower-affinity receptors die, while those with higher-affinity receptors preferentially survive and proliferate, progressively improving the average affinity of the response. Which molecular process generates the receptor variants that are then selected in this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V(D)J recombination in the bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Isotype (class) switching of the heavy-chain constant region"
+        },
+        {
+          "label": "C",
+          "text": "Somatic hypermutation of immunoglobulin variable-region genes"
+        },
+        {
+          "label": "D",
+          "text": "Allelic exclusion of the light-chain locus"
+        },
+        {
+          "label": "E",
+          "text": "Gene conversion of MHC class II alleles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts affinity maturation. In the germinal center, activation-induced cytidine deaminase drives somatic hypermutation, introducing point mutations into the immunoglobulin variable regions. B cells whose mutated receptors bind antigen with higher affinity are preferentially selected to survive and proliferate, while lower-affinity clones undergo apoptosis. Class switching changes isotype/effector function but not affinity; V(D)J recombination creates the initial repertoire, not the fine-tuned variants.",
+        "whyCorrect": "The figure depicts affinity maturation. In the germinal center, activation-induced cytidine deaminase drives somatic hypermutation, introducing point mutations into the immunoglobulin variable regions. B cells whose mutated receptors bind antigen with higher affinity are preferentially selected to survive and proliferate, while lower-affinity clones undergo apoptosis. Class switching changes isotype/effector function but not affinity; V(D)J recombination creates the initial repertoire, not the fine-tuned variants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-043_7_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-044",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This diagram labels the regions of an immunoglobulin monomer, including the antigen-binding (Fab) arms, the hinge, and the crystallizable (Fc) region. The protease papain cleaves the antibody at the hinge. What fragments result from papain digestion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two Fab fragments and one Fc fragment"
+        },
+        {
+          "label": "B",
+          "text": "One Fab fragment and two Fc fragments"
+        },
+        {
+          "label": "C",
+          "text": "Two separate heavy chains and two light chains"
+        },
+        {
+          "label": "D",
+          "text": "One F(ab')2 fragment and one Fc fragment"
+        },
+        {
+          "label": "E",
+          "text": "Two Fc fragments only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Papain cleaves the immunoglobulin on the amino-terminal side of the hinge disulfide bonds, yielding two identical monovalent Fab fragments (each with one antigen-binding site) and one Fc fragment (which mediates effector functions and binds complement/Fc receptors). Pepsin, in contrast, cleaves below the hinge to give a single divalent F(ab')2 fragment plus a degraded Fc.",
+        "whyCorrect": "Papain cleaves the immunoglobulin on the amino-terminal side of the hinge disulfide bonds, yielding two identical monovalent Fab fragments (each with one antigen-binding site) and one Fc fragment (which mediates effector functions and binds complement/Fc receptors). Pepsin, in contrast, cleaves below the hinge to give a single divalent F(ab')2 fragment plus a degraded Fc.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-044_7_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-045",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This table lists mechanisms that expand the antigen-receptor repertoire, distinguishing combinatorial diversity from junctional diversity, and shows that adding or removing nucleotides at the segment joins vastly increases the total potential repertoire. Which enzyme adds the non-templated (N-region) nucleotides at these junctions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RAG1/RAG2 recombinase"
+        },
+        {
+          "label": "B",
+          "text": "Activation-induced cytidine deaminase (AID)"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase III"
+        },
+        {
+          "label": "D",
+          "text": "Terminal RNA ligase"
+        },
+        {
+          "label": "E",
+          "text": "Terminal deoxynucleotidyl transferase (TdT)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Junctional diversity arises when segment ends are trimmed and when non-templated nucleotides are inserted at the V(D)J joins. Terminal deoxynucleotidyl transferase (TdT) adds these N-region nucleotides, greatly increasing repertoire diversity (raising Ig from ~10^6 to ~10^11 combinations). RAG1/2 cut the DNA to initiate recombination but do not add N-nucleotides; AID drives somatic hypermutation and class switching later in mature B cells.",
+        "whyCorrect": "Junctional diversity arises when segment ends are trimmed and when non-templated nucleotides are inserted at the V(D)J joins. Terminal deoxynucleotidyl transferase (TdT) adds these N-region nucleotides, greatly increasing repertoire diversity (raising Ig from ~10^6 to ~10^11 combinations). RAG1/2 cut the DNA to initiate recombination but do not add N-nucleotides; AID drives somatic hypermutation and class switching later in mature B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-045_7_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-046",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows both a schematic (A) and a ribbon structure (B) of a heterodimeric antigen receptor composed of two disulfide-linked chains, each with a membrane-distal variable (V) domain and a membrane-proximal constant (C) domain anchored in the membrane. This receptor is found on the surface of which cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophage (this is a Toll-like receptor)"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell (this is the high-affinity IgE receptor)"
+        },
+        {
+          "label": "C",
+          "text": "T cell (this is the alpha-beta T-cell receptor)"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cell (this is KIR)"
+        },
+        {
+          "label": "E",
+          "text": "B cell (this is membrane immunoglobulin)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The two disulfide-linked chains each contain one variable and one constant immunoglobulin-like domain, identifying the alpha-beta T-cell receptor. The variable domains (Valpha/Vbeta) form the antigen-binding site that recognizes peptide presented on MHC. Unlike membrane immunoglobulin on B cells, the TCR is not secreted and recognizes only processed peptide-MHC, not soluble native antigen.",
+        "whyCorrect": "The two disulfide-linked chains each contain one variable and one constant immunoglobulin-like domain, identifying the alpha-beta T-cell receptor. The variable domains (Valpha/Vbeta) form the antigen-binding site that recognizes peptide presented on MHC. Unlike membrane immunoglobulin on B cells, the TCR is not secreted and recognizes only processed peptide-MHC, not soluble native antigen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-046_7_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-047",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows a follicular helper T cell interacting with an activated B cell that has already bound antigen through its B-cell receptor. In addition to TCR recognition of peptide on the B cell's MHC class II, the B cell receives a critical second signal from the T cell. Which receptor-ligand interaction provides this second signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD-L1 on the B cell binding PD-1 on the T cell"
+        },
+        {
+          "label": "B",
+          "text": "ICAM-1 on the B cell binding LFA-1 on the T cell"
+        },
+        {
+          "label": "C",
+          "text": "B7 on the B cell binding CD28 on the T cell"
+        },
+        {
+          "label": "D",
+          "text": "CD40 on the B cell binding CD40 ligand (CD40L) on the T cell"
+        },
+        {
+          "label": "E",
+          "text": "Fas on the B cell binding Fas ligand on the T cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In T-dependent B-cell activation, the B cell presents antigen on MHC class II to a helper (Tfh) cell; the licensed T cell then delivers CD40L, which engages CD40 on the B cell, and secretes cytokines. CD40-CD40L signaling is essential for B-cell proliferation, germinal center formation, isotype switching, and affinity maturation. Loss of CD40L causes hyper-IgM syndrome. Fas-FasL signaling promotes apoptosis, the opposite outcome.",
+        "whyCorrect": "In T-dependent B-cell activation, the B cell presents antigen on MHC class II to a helper (Tfh) cell; the licensed T cell then delivers CD40L, which engages CD40 on the B cell, and secretes cytokines. CD40-CD40L signaling is essential for B-cell proliferation, germinal center formation, isotype switching, and affinity maturation. Loss of CD40L causes hyper-IgM syndrome. Fas-FasL signaling promotes apoptosis, the opposite outcome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-047_8_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-048",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows a naive B cell responding to a repetitive polysaccharide antigen (with help from other signals such as complement) and differentiating into short-lived plasma cells that secrete mainly low-affinity IgM, without a germinal center. What type of humoral response does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T-cell response"
+        },
+        {
+          "label": "B",
+          "text": "Affinity-matured secondary response"
+        },
+        {
+          "label": "C",
+          "text": "Delayed-type hypersensitivity response"
+        },
+        {
+          "label": "D",
+          "text": "T-independent antibody response"
+        },
+        {
+          "label": "E",
+          "text": "T-dependent antibody response"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Repetitive polysaccharide antigens can crosslink many B-cell receptors and, with second signals like complement C3d, activate B cells without T-cell help. This T-independent response yields predominantly low-affinity IgM from short-lived plasma cells, with little class switching, affinity maturation, or memory. Because young children mount T-independent responses poorly, encapsulated-organism polysaccharide vaccines are conjugated to protein to recruit T-cell help.",
+        "whyCorrect": "Repetitive polysaccharide antigens can crosslink many B-cell receptors and, with second signals like complement C3d, activate B cells without T-cell help. This T-independent response yields predominantly low-affinity IgM from short-lived plasma cells, with little class switching, affinity maturation, or memory. Because young children mount T-independent responses poorly, encapsulated-organism polysaccharide vaccines are conjugated to protein to recruit T-cell help.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-048_8_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-049",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This graph plots two antibody classes over time after a primary immunization and a later secondary immunization with the same antigen. Compared with the primary response, the secondary response is faster, larger, and dominated by the isotype that peaks highest after re-exposure. Which cells are chiefly responsible for this more rapid and robust secondary response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "B",
+          "text": "Short-lived IgM-secreting plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "Naive B cells newly emerging from the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Follicular dendritic cells"
+        },
+        {
+          "label": "E",
+          "text": "Memory B cells generated during the primary response"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The graph shows IgM dominating the slower primary response, while the secondary response rises faster and higher and is dominated by IgG. This anamnestic response is mediated by long-lived memory B cells (and memory T cells) generated during the primary exposure; upon re-encounter they rapidly proliferate and differentiate into class-switched, high-affinity IgG-secreting plasma cells. This principle underlies vaccine booster dosing.",
+        "whyCorrect": "The graph shows IgM dominating the slower primary response, while the secondary response rises faster and higher and is dominated by IgG. This anamnestic response is mediated by long-lived memory B cells (and memory T cells) generated during the primary exposure; upon re-encounter they rapidly proliferate and differentiate into class-switched, high-affinity IgG-secreting plasma cells. This principle underlies vaccine booster dosing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-049_8_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-050",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows immature B cells, which express complete antigen receptors, undergoing one of two fates in the bone marrow depending on how strongly their receptor binds self-antigen. An immature B cell whose receptor strongly recognizes a self-antigen follows the left-hand pathway. What is its principal fate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class switching to IgG and export to lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Proliferation into a high-affinity memory clone"
+        },
+        {
+          "label": "C",
+          "text": "Apoptosis (clonal deletion), with receptor editing as an alternative"
+        },
+        {
+          "label": "D",
+          "text": "Immediate differentiation into an antibody-secreting plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Conversion into a follicular dendritic cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts B-cell central tolerance. Immature B cells whose receptors bind self-antigen strongly undergo negative selection, primarily clonal deletion by apoptosis (some instead undergo receptor editing to change specificity). B cells that bind self weakly or not at all are positively selected and mature into the periphery. This screening prevents autoreactive B cells from entering the repertoire.",
+        "whyCorrect": "The figure depicts B-cell central tolerance. Immature B cells whose receptors bind self-antigen strongly undergo negative selection, primarily clonal deletion by apoptosis (some instead undergo receptor editing to change specificity). B cells that bind self weakly or not at all are positively selected and mature into the periphery. This screening prevents autoreactive B cells from entering the repertoire.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-050_8_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-051",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure shows the structure and histology of the lymph node and spleen, mapping where different lymphocytes localize. A patient with a hereditary defect in T-cell development (e.g., DiGeorge/thymic aplasia) would show marked depletion of lymphocytes in which lymph node region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The germinal centers of secondary follicles"
+        },
+        {
+          "label": "B",
+          "text": "The paracortex"
+        },
+        {
+          "label": "C",
+          "text": "The primary follicles of the cortex"
+        },
+        {
+          "label": "D",
+          "text": "The medullary cords"
+        },
+        {
+          "label": "E",
+          "text": "The subcapsular sinus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lymph node paracortex is the T-cell zone (analogous to the periarteriolar lymphoid sheath in the spleen), while follicles/germinal centers in the cortex are B-cell zones and medullary cords contain plasma cells and macrophages. A defect in T-cell production, as in DiGeorge syndrome, selectively depletes the paracortex, whereas B-cell follicles remain relatively preserved. Knowing zone-specific residence lets you predict which region is affected by a given cellular deficiency.",
+        "whyCorrect": "The lymph node paracortex is the T-cell zone (analogous to the periarteriolar lymphoid sheath in the spleen), while follicles/germinal centers in the cortex are B-cell zones and medullary cords contain plasma cells and macrophages. A defect in T-cell production, as in DiGeorge syndrome, selectively depletes the paracortex, whereas B-cell follicles remain relatively preserved. Knowing zone-specific residence lets you predict which region is affected by a given cellular deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-051_8_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-052",
+      "topicId": "hypersensitivity-allergy",
+      "topicName": "Hypersensitivity & Allergy",
+      "stem": "This figure follows T-cell development from lymphoid progenitors entering the thymus, progressing through double-negative and double-positive stages with V(D)J recombination of the TCR, and emerging as mature single-positive CD4+ or CD8+ T cells that enter the circulation. In which organ does this antigen-independent development and selection of T cells occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Thymus"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Lymph node"
+        },
+        {
+          "label": "E",
+          "text": "Bone marrow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Although T-cell progenitors arise in the bone marrow, they migrate to the thymus, where they undergo TCR gene rearrangement and progress from double-negative to double-positive (CD4+CD8+) thymocytes and then to single-positive CD4+ or CD8+ cells. Positive selection occurs in the thymic cortex and negative selection in the medulla. Failure of thymic development (e.g., DiGeorge syndrome) results in absent mature T cells.",
+        "whyCorrect": "Although T-cell progenitors arise in the bone marrow, they migrate to the thymus, where they undergo TCR gene rearrangement and progress from double-negative to double-positive (CD4+CD8+) thymocytes and then to single-positive CD4+ or CD8+ cells. Positive selection occurs in the thymic cortex and negative selection in the medulla. Failure of thymic development (e.g., DiGeorge syndrome) results in absent mature T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-052_9_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
