@@ -1,14 +1,74 @@
 {
   "categories": [
     {
-      "id": "allergic-diseases-and-anaphylaxis",
-      "name": "Allergic Diseases and Anaphylaxis",
+      "id": "introduction-to-the-immune-system",
+      "name": "Introduction to the Immune System",
       "topics": [
         {
-          "id": "allergic-diseases-and-anaphylaxis",
-          "name": "Allergic Diseases and Anaphylaxis",
+          "id": "introduction-to-the-immune-system",
+          "name": "Introduction to the Immune System",
           "sourceFile": "brick",
-          "questionCount": 4
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "innate-receptors-and-cytokines",
+      "name": "Innate Receptors and Cytokines",
+      "topics": [
+        {
+          "id": "innate-receptors-and-cytokines",
+          "name": "Innate Receptors and Cytokines",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "phagocyte-function",
+      "name": "Phagocyte Function",
+      "topics": [
+        {
+          "id": "phagocyte-function",
+          "name": "Phagocyte Function",
+          "sourceFile": "brick",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "id": "complement-system",
+      "name": "Complement System",
+      "topics": [
+        {
+          "id": "complement-system",
+          "name": "Complement System",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "inborn-errors-of-innate-immunity",
+      "name": "Inborn Errors of Innate Immunity",
+      "topics": [
+        {
+          "id": "inborn-errors-of-innate-immunity",
+          "name": "Inborn Errors of Innate Immunity",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "major-histocompatibility-complex",
+      "name": "Major Histocompatibility Complex",
+      "topics": [
+        {
+          "id": "major-histocompatibility-complex",
+          "name": "Major Histocompatibility Complex",
+          "sourceFile": "brick",
+          "questionCount": 7
         }
       ]
     },
@@ -37,14 +97,14 @@
       ]
     },
     {
-      "id": "biologic-agents",
-      "name": "Biologic Agents",
+      "id": "t-cell-development-activation-and-differentiation",
+      "name": "T Cell Development, Activation, and Differentiation",
       "topics": [
         {
-          "id": "biologic-agents",
-          "name": "Biologic Agents",
+          "id": "t-cell-development-activation-and-differentiation",
+          "name": "T Cell Development, Activation, and Differentiation",
           "sourceFile": "brick",
-          "questionCount": 4
+          "questionCount": 5
         }
       ]
     },
@@ -61,36 +121,12 @@
       ]
     },
     {
-      "id": "complement-system",
-      "name": "Complement System",
+      "id": "immunologic-tolerance",
+      "name": "Immunologic Tolerance",
       "topics": [
         {
-          "id": "complement-system",
-          "name": "Complement System",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "diagnostic-laboratory-immunology",
-      "name": "Diagnostic Laboratory Immunology",
-      "topics": [
-        {
-          "id": "diagnostic-laboratory-immunology",
-          "name": "Diagnostic Laboratory Immunology",
-          "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "effect-of-age-on-the-immune-system",
-      "name": "Effect of Age on the Immune System",
-      "topics": [
-        {
-          "id": "effect-of-age-on-the-immune-system",
-          "name": "Effect of Age on the Immune System",
+          "id": "immunologic-tolerance",
+          "name": "Immunologic Tolerance",
           "sourceFile": "brick",
           "questionCount": 7
         }
@@ -109,26 +145,14 @@
       ]
     },
     {
-      "id": "immunologic-tolerance",
-      "name": "Immunologic Tolerance",
+      "id": "allergic-diseases-and-anaphylaxis",
+      "name": "Allergic Diseases and Anaphylaxis",
       "topics": [
         {
-          "id": "immunologic-tolerance",
-          "name": "Immunologic Tolerance",
+          "id": "allergic-diseases-and-anaphylaxis",
+          "name": "Allergic Diseases and Anaphylaxis",
           "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "immunosuppressants",
-      "name": "Immunosuppressants",
-      "topics": [
-        {
-          "id": "immunosuppressants",
-          "name": "Immunosuppressants",
-          "sourceFile": "brick",
-          "questionCount": 5
+          "questionCount": 4
         }
       ]
     },
@@ -145,26 +169,50 @@
       ]
     },
     {
-      "id": "inborn-errors-of-innate-immunity",
-      "name": "Inborn Errors of Innate Immunity",
+      "id": "diagnostic-laboratory-immunology",
+      "name": "Diagnostic Laboratory Immunology",
       "topics": [
         {
-          "id": "inborn-errors-of-innate-immunity",
-          "name": "Inborn Errors of Innate Immunity",
+          "id": "diagnostic-laboratory-immunology",
+          "name": "Diagnostic Laboratory Immunology",
           "sourceFile": "brick",
-          "questionCount": 8
+          "questionCount": 10
         }
       ]
     },
     {
-      "id": "innate-receptors-and-cytokines",
-      "name": "Innate Receptors and Cytokines",
+      "id": "immunosuppressants",
+      "name": "Immunosuppressants",
       "topics": [
         {
-          "id": "innate-receptors-and-cytokines",
-          "name": "Innate Receptors and Cytokines",
+          "id": "immunosuppressants",
+          "name": "Immunosuppressants",
           "sourceFile": "brick",
-          "questionCount": 6
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "biologic-agents",
+      "name": "Biologic Agents",
+      "topics": [
+        {
+          "id": "biologic-agents",
+          "name": "Biologic Agents",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "vaccines",
+      "name": "Vaccines",
+      "topics": [
+        {
+          "id": "vaccines",
+          "name": "Vaccines",
+          "sourceFile": "brick",
+          "questionCount": 8
         }
       ]
     },
@@ -175,54 +223,6 @@
         {
           "id": "introduction-to-autoinflammatory-and-autoimmune-diseases",
           "name": "Introduction to Autoinflammatory and Autoimmune Diseases",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "introduction-to-the-immune-system",
-      "name": "Introduction to the Immune System",
-      "topics": [
-        {
-          "id": "introduction-to-the-immune-system",
-          "name": "Introduction to the Immune System",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "major-histocompatibility-complex",
-      "name": "Major Histocompatibility Complex",
-      "topics": [
-        {
-          "id": "major-histocompatibility-complex",
-          "name": "Major Histocompatibility Complex",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "phagocyte-function",
-      "name": "Phagocyte Function",
-      "topics": [
-        {
-          "id": "phagocyte-function",
-          "name": "Phagocyte Function",
-          "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "t-cell-development-activation-and-differentiation",
-      "name": "T Cell Development, Activation, and Differentiation",
-      "topics": [
-        {
-          "id": "t-cell-development-activation-and-differentiation",
-          "name": "T Cell Development, Activation, and Differentiation",
           "sourceFile": "brick",
           "questionCount": 5
         }
@@ -241,14 +241,14 @@
       ]
     },
     {
-      "id": "vaccines",
-      "name": "Vaccines",
+      "id": "effect-of-age-on-the-immune-system",
+      "name": "Effect of Age on the Immune System",
       "topics": [
         {
-          "id": "vaccines",
-          "name": "Vaccines",
+          "id": "effect-of-age-on-the-immune-system",
+          "name": "Effect of Age on the Immune System",
           "sourceFile": "brick",
-          "questionCount": 8
+          "questionCount": 7
         }
       ]
     }
