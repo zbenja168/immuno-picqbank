@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "It drives thymic expression of peripheral-tissue self-antigens for negative selection (central tolerance)"
+          "text": "It drives thymic expression of peripheral-tissue self-antigens for negative selection"
         },
         {
           "label": "C",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Failed development of the third and fourth pharyngeal pouches, causing thymic (and parathyroid) aplasia"
+          "text": "Failed development of the third and fourth pharyngeal pouches"
         }
       ],
       "correctAnswer": "E",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "22q11.2 microdeletion (DiGeorge syndrome)"
+          "text": "22q11.2 microdeletion"
         },
         {
           "label": "B",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Elevated IgM with low IgG, IgA, and IgE due to failed class switching"
+          "text": "Elevated IgM with low IgG, IgA, and IgE"
         },
         {
           "label": "B",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Recurrent cold staphylococcal abscesses, eczema, and markedly elevated serum IgE"
+          "text": "Recurrent cold staphylococcal abscesses, eczema, and elevated IgE"
         },
         {
           "label": "C",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Often asymptomatic, but may have recurrent sinopulmonary/GI infections and anaphylaxis to IgA-containing blood products"
+          "text": "Often asymptomatic, but may have recurrent sinopulmonary/GI infections"
         }
       ],
       "correctAnswer": "E",
@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "V(D)J recombination and early lymphoid precursors are shared by both B and T cells, so a defect there halts both"
+          "text": "V(D)J recombination and early lymphoid precursors are shared by both B and T cells"
         },
         {
           "label": "B",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Absent/very low immunoglobulins of all classes with absent circulating B cells"
+          "text": "Absent/very low immunoglobulins of all classes"
         }
       ],
       "correctAnswer": "E",
@@ -443,7 +443,7 @@
         },
         {
           "label": "B",
-          "text": "Low IgG plus low IgA and/or IgM with poor antibody responses, often presenting in later childhood or adulthood"
+          "text": "Low IgG plus low IgA and/or IgM with poor antibody responses"
         },
         {
           "label": "C",

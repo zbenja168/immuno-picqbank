@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Helminth (parasitic worm) infections"
+          "text": "Helminth infections"
         }
       ],
       "correctAnswer": "E",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Enhanced killing of phagocytosed intracellular microbes via reactive oxygen species and nitric oxide"
+          "text": "Enhanced killing of phagocytosed intracellular microbes"
         }
       ],
       "correctAnswer": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "A perforin-independent (death-receptor) pathway of cytotoxic killing"
+          "text": "A perforin-independent (death-receptor) pathway"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It forms pores in the target-cell membrane, allowing granzymes to enter"
+          "text": "It forms pores in the target-cell membrane"
         },
         {
           "label": "B",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Antibody-dependent cell-mediated cytotoxicity (ADCC)"
+          "text": "Antibody-dependent cell-mediated cytotoxicity"
         }
       ],
       "correctAnswer": "E",

@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Calcineurin normally dephosphorylates NFAT, allowing it to enter the nucleus; inhibition keeps NFAT phosphorylated in the cytoplasm"
+          "text": "Calcineurin normally dephosphorylates NFAT, allowing it to enter the nucleus"
         },
         {
           "label": "D",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "IL-2-driven T-cell proliferation (cell-cycle progression)"
+          "text": "IL-2-driven T-cell proliferation"
         }
       ],
       "correctAnswer": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Lymphocytes depend on de novo purine synthesis because they lack an effective purine salvage pathway"
+          "text": "Lymphocytes depend on de novo purine synthesis"
         },
         {
           "label": "C",

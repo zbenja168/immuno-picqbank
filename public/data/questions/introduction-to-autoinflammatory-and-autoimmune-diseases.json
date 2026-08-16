@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Tissue damage releases previously sequestered self-antigens that activate autoreactive T cells"
+          "text": "Tissue damage releases previously sequestered self-antigens"
         },
         {
           "label": "B",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autoimmune polyendocrinopathy (APECED/APS-1) affecting multiple organs"
+          "text": "Autoimmune polyendocrinopathy (APECED/APS-1)"
         },
         {
           "label": "B",

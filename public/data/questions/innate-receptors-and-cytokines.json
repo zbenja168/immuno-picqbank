@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Tuberculosis (latent Mycobacterium tuberculosis)"
+          "text": "Tuberculosis"
         },
         {
           "label": "D",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Widespread inflammatory-mediator-induced vasodilation (e.g., nitric oxide) with capillary leak"
+          "text": "Widespread inflammatory-mediator-induced vasodilation"
         },
         {
           "label": "D",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Selectins (E- and P-selectin binding sialyl-Lewis X)"
+          "text": "Selectins"
         },
         {
           "label": "C",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "Antibody-dependent cellular cytotoxicity (ADCC)"
+          "text": "Antibody-dependent cellular cytotoxicity"
         },
         {
           "label": "D",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Microbial and viral nucleic acids (ssRNA, dsRNA, CpG DNA)"
+          "text": "Microbial and viral nucleic acids"
         },
         {
           "label": "E",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "MHC class I (removing the inhibitory signal)"
+          "text": "MHC class I"
         },
         {
           "label": "E",

@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Costimulation via B7 (CD80/86) binding CD28"
+          "text": "Costimulation via B7 binding CD28"
         }
       ],
       "correctAnswer": "E",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Encapsulated bacteria (e.g., S. pneumoniae, H. influenzae, N. meningitidis)"
+          "text": "Encapsulated bacteria"
         },
         {
           "label": "D",
@@ -139,7 +139,7 @@
         },
         {
           "label": "D",
-          "text": "Dihydrorhodamine (DHR) flow cytometry (or the nitroblue tetrazolium, NBT, test)"
+          "text": "Dihydrorhodamine (DHR) flow cytometry"
         },
         {
           "label": "E",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Neutrophil extracellular trap (NET) formation / NETosis"
+          "text": "Neutrophil extracellular trap (NET) formation"
         }
       ],
       "correctAnswer": "E",
@@ -244,7 +244,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Intracellular microbes (e.g., Mycobacterium, Listeria)"
+          "text": "Intracellular microbes"
         },
         {
           "label": "B",

@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "It catalyzes removal of the CLIP fragment so antigenic peptides can bind the class II groove"
+          "text": "It catalyzes removal of the CLIP fragment"
         },
         {
           "label": "E",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "It transports proteasome-generated peptides from the cytosol into the endoplasmic reticulum"
+          "text": "It transports peptides from the cytosol into the endoplasmic reticulum"
         },
         {
           "label": "D",
@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "CD28 on the T cell binding B7 (CD80/CD86) on the APC"
+          "text": "CD28 on the T cell binding B7 on the APC"
         }
       ],
       "correctAnswer": "E",

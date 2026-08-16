@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Type II (antibody-mediated) hypersensitivity"
+          "text": "Type II (antibody-mediated)"
         },
         {
           "label": "D",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Type IV (delayed-type, T-cell mediated) hypersensitivity"
+          "text": "Type IV (delayed-type) hypersensitivity"
         },
         {
           "label": "D",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "IgE-triggered mast cell degranulation releasing histamine"
+          "text": "IgE-triggered mast cell degranulation"
         },
         {
           "label": "B",

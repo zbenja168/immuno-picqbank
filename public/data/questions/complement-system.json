@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "C1 esterase inhibitor (C1-INH) deficiency - hereditary angioedema"
+          "text": "C1 esterase inhibitor deficiency"
         },
         {
           "label": "E",
@@ -139,7 +139,7 @@
         },
         {
           "label": "D",
-          "text": "Systemic lupus erythematosus (SLE)"
+          "text": "Systemic lupus erythematosus"
         },
         {
           "label": "E",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "C1s (the C1-associated protease)"
+          "text": "C1s"
         },
         {
           "label": "C",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Spontaneous low-level hydrolysis of C3 ('C3 tickover') that deposits C3b on the microbe"
+          "text": "Spontaneous low-level hydrolysis of C3 ('C3 tickover')"
         },
         {
           "label": "D",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "The membrane attack complex (C5b-9)"
+          "text": "The membrane attack complex"
         },
         {
           "label": "C",

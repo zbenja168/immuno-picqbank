@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "A cytotoxic CD8+ T-cell response via MHC class I presentation"
+          "text": "A cytotoxic CD8+ T-cell response"
         },
         {
           "label": "D",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It serves as a delivery vehicle carrying the gene that encodes the target antigen into host cells"
+          "text": "It serves as a delivery vehicle carrying the gene that encodes the target antigen"
         },
         {
           "label": "B",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "Immunologic memory is antigen-specific; memory cells exist for antigen 1 but not for the newly encountered antigen 2"
+          "text": "Immunologic memory is antigen-specific"
         },
         {
           "label": "D",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Pure polysaccharides elicit a T-independent B-cell response, which lacks class switching, affinity maturation, and memory"
+          "text": "Pure polysaccharides elicit a T-independent B-cell response"
         },
         {
           "label": "C",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Passive immunity: maternal antibodies and administered monoclonal antibodies"
+          "text": "Passive immunity"
         },
         {
           "label": "C",

@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "CD40 on the B cell binding CD40 ligand (CD40L) on the T cell"
+          "text": "CD40 on the B cell binding CD40 ligand on the T cell"
         },
         {
           "label": "E",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "Apoptosis (clonal deletion), with receptor editing as an alternative"
+          "text": "Apoptosis (clonal deletion)"
         },
         {
           "label": "D",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "Somatic hypermutation and class (isotype) switching"
+          "text": "Somatic hypermutation and class switching"
         },
         {
           "label": "E",

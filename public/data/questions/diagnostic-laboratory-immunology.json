@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "ELISA (enzyme-linked immunosorbent assay)"
+          "text": "ELISA"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "T-cell production is very low or absent, and TRECs are byproducts of T-cell receptor gene rearrangement in the thymus"
+          "text": "T-cell production is very low or absent"
         },
         {
           "label": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Their abundant cytoplasmic granules (high internal complexity)"
+          "text": "Their abundant cytoplasmic granules"
         },
         {
           "label": "D",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Cell proliferation (each division halves the dye per cell)"
+          "text": "Cell proliferation"
         },
         {
           "label": "E",
@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A defective lymphocyte proliferative response to mitogen"
+          "text": "A defective lymphocyte proliferative response"
         },
         {
           "label": "B",

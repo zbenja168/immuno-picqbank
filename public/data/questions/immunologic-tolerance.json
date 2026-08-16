@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "It enforces self-tolerance, preventing B cells from responding to self-antigen without T-cell help"
+          "text": "It enforces self-tolerance"
         }
       ],
       "correctAnswer": "E",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Autoimmunity, because self-reactive T cells escape deletion"
+          "text": "Autoimmunity"
         },
         {
           "label": "D",
@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "Clonal deletion (apoptosis) of the self-reactive B cell"
+          "text": "Clonal deletion (apoptosis)"
         },
         {
           "label": "E",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A secretory dimer joined by a J chain and bearing secretory component"
+          "text": "A secretory dimer joined by a J chain"
         },
         {
           "label": "B",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "It consumes IL-2, depriving effector T cells of the growth factor they need to proliferate and survive"
+          "text": "It consumes IL-2, depriving effector T cells of the growth factor they need"
         },
         {
           "label": "C",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Induce T-cell anergy and dampen the immune response"
+          "text": "Induce T-cell anergy"
         },
         {
           "label": "D",
@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "Kill virus-infected and tumor cells via CD8+ T cells and NK cells"
+          "text": "Kill virus-infected and tumor cells"
         },
         {
           "label": "D",
