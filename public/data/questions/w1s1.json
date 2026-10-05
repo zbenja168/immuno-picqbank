@@ -1,0 +1,747 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "impic-090",
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System",
+      "stem": "In this hematopoiesis scheme, natural killer cells arise from a progenitor they share with which other cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophils and basophils"
+        },
+        {
+          "label": "B",
+          "text": "Erythrocytes and platelets"
+        },
+        {
+          "label": "C",
+          "text": "Macrophages and dendritic cells"
+        },
+        {
+          "label": "D",
+          "text": "T cells and B cells"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils and monocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hematopoietic stem cell gives rise to myeloid and lymphoid progenitors. The lymphoid progenitor produces T cells, B cells, and NK cells, whereas granulocytes, monocytes, erythrocytes, and platelets derive from the myeloid progenitor.",
+        "whyCorrect": "The hematopoietic stem cell gives rise to myeloid and lymphoid progenitors. The lymphoid progenitor produces T cells, B cells, and NK cells, whereas granulocytes, monocytes, erythrocytes, and platelets derive from the myeloid progenitor.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-090_1_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-091",
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System",
+      "stem": "This figure shows ciliated respiratory epithelium propelling material, including a trapped pathogen, upward toward the pharynx. A congenital defect in this ciliary function (e.g., primary ciliary dyskinesia) would predispose the patient to what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed-type hypersensitivity reactions"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent skin abscesses only"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent respiratory tract infections"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibody-mediated glomerulonephritis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic hemolytic anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mucociliary escalator is an innate physical defense: cilia beat in a coordinated fashion to sweep mucus-trapped microbes out of the airways. Defective cilia (as in primary ciliary dyskinesia/Kartagener syndrome) cause mucus stasis and recurrent sinopulmonary infections.",
+        "whyCorrect": "The mucociliary escalator is an innate physical defense: cilia beat in a coordinated fashion to sweep mucus-trapped microbes out of the airways. Defective cilia (as in primary ciliary dyskinesia/Kartagener syndrome) cause mucus stasis and recurrent sinopulmonary infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-091_1_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-113",
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System",
+      "stem": "This figure contrasts humoral and cell-mediated immunity. A patient with a defect in cytotoxic T lymphocytes would be MOST susceptible to which category of pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extracellular encapsulated bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Extracellular fungi in the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular microbes such as viruses"
+        },
+        {
+          "label": "D",
+          "text": "Large extracellular parasites"
+        },
+        {
+          "label": "E",
+          "text": "Bloodborne bacterial toxins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cytotoxic (CD8+) T lymphocytes kill host cells harboring intracellular pathogens, especially viruses. Humoral immunity (antibodies) handles extracellular microbes and toxins. Thus a CTL defect chiefly impairs defense against intracellular/viral infections.",
+        "whyCorrect": "Cytotoxic (CD8+) T lymphocytes kill host cells harboring intracellular pathogens, especially viruses. Humoral immunity (antibodies) handles extracellular microbes and toxins. Thus a CTL defect chiefly impairs defense against intracellular/viral infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-113_1_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-085",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "The monoclonal antibody shown neutralizes both soluble and membrane-bound TNF-alpha. Before starting this class of biologic, patients must be screened for reactivation of which latent infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus retinitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis A"
+        },
+        {
+          "label": "C",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Latent HIV"
+        },
+        {
+          "label": "E",
+          "text": "Latent Neisseria meningitidis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TNF-alpha is essential for maintaining the granulomas that wall off latent TB. Anti-TNF agents such as infliximab disrupt granulomas and can reactivate latent tuberculosis, so screening (IGRA or PPD) is required before therapy.",
+        "whyCorrect": "TNF-alpha is essential for maintaining the granulomas that wall off latent TB. Anti-TNF agents such as infliximab disrupt granulomas and can reactivate latent tuberculosis, so screening (IGRA or PPD) is required before therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-085_2_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-092",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "In the progression shown, septic shock is defined by hypotension that persists despite adequate IV fluid resuscitation. What is the primary mechanism of this refractory hypotension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated bronchospasm"
+        },
+        {
+          "label": "B",
+          "text": "Massive blood loss from hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Widespread inflammatory-mediator-induced vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax obstructing venous return"
+        },
+        {
+          "label": "E",
+          "text": "Pump failure from a large myocardial infarction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sepsis triggers systemic release of inflammatory mediators (TNF, IL-1, nitric oxide) causing profound vasodilation and increased vascular permeability. The resulting distributive shock does not correct with fluids alone and requires vasopressors.",
+        "whyCorrect": "Sepsis triggers systemic release of inflammatory mediators (TNF, IL-1, nitric oxide) causing profound vasodilation and increased vascular permeability. The resulting distributive shock does not correct with fluids alone and requires vasopressors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-092_2_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-093",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "In this sequence of acute inflammation, step 6 shows leukocytes leaving the vessel and migrating into tissue. Which molecules mediate the initial rolling of leukocytes along the endothelium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perforin and granzymes"
+        },
+        {
+          "label": "B",
+          "text": "Selectins"
+        },
+        {
+          "label": "C",
+          "text": "MHC class II molecules"
+        },
+        {
+          "label": "D",
+          "text": "Rearranged immunoglobulin genes"
+        },
+        {
+          "label": "E",
+          "text": "The membrane attack complex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leukocyte extravasation proceeds through selectin-mediated rolling, chemokine-triggered integrin activation, firm adhesion (integrin-ICAM), and transmigration. Earlier steps show sentinel-cell mediators and increased vascular permeability that set the stage.",
+        "whyCorrect": "Leukocyte extravasation proceeds through selectin-mediated rolling, chemokine-triggered integrin activation, firm adhesion (integrin-ICAM), and transmigration. Earlier steps show sentinel-cell mediators and increased vascular permeability that set the stage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-093_2_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-094",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "An IgG-coated target cell is bound by an NK cell through its CD16 (Fc-gamma) receptor and then killed. What is this killing mechanism called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opsonophagocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Complement-dependent cytotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Antibody-dependent cellular cytotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Classical MHC-restricted CTL killing"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil extracellular trap formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In ADCC, IgG coats a target cell and its Fc region is recognized by CD16 (Fc-gamma-RIII) on NK cells, triggering perforin/granzyme release. This mechanism also contributes to the action of certain therapeutic monoclonal antibodies.",
+        "whyCorrect": "In ADCC, IgG coats a target cell and its Fc region is recognized by CD16 (Fc-gamma-RIII) on NK cells, triggering perforin/granzyme release. This mechanism also contributes to the action of certain therapeutic monoclonal antibodies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-094_2_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-095",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "Several Toll-like receptors in this diagram sit within endosomes rather than on the cell surface. What class of pathogen-associated molecule do these endosomal TLRs primarily detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peptidoglycan of gram-positive walls"
+        },
+        {
+          "label": "B",
+          "text": "Lipopolysaccharide of gram-negative walls"
+        },
+        {
+          "label": "C",
+          "text": "Flagellin from bacterial flagella"
+        },
+        {
+          "label": "D",
+          "text": "Microbial and viral nucleic acids"
+        },
+        {
+          "label": "E",
+          "text": "Mannose-rich surface glycans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Endosomal TLR-3 (dsRNA), TLR-7 (ssRNA), and TLR-9 (unmethylated CpG DNA) sense nucleic acids from ingested microbes and viruses, driving IRF-dependent type I interferon and NF-kB-dependent inflammatory cytokines. Surface TLR-4/2/5 detect LPS, peptidoglycan/lipopeptides, and flagellin.",
+        "whyCorrect": "Endosomal TLR-3 (dsRNA), TLR-7 (ssRNA), and TLR-9 (unmethylated CpG DNA) sense nucleic acids from ingested microbes and viruses, driving IRF-dependent type I interferon and NF-kB-dependent inflammatory cytokines. Surface TLR-4/2/5 detect LPS, peptidoglycan/lipopeptides, and flagellin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-095_2_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-144",
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines",
+      "stem": "The balance of signals shown determines whether an NK cell kills its target. Loss of which surface molecule on a virally infected or tumor cell most strongly tips the balance toward NK-mediated killing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The activating ligand"
+        },
+        {
+          "label": "B",
+          "text": "The IFN-alpha receptor"
+        },
+        {
+          "label": "C",
+          "text": "The CD3/T-cell receptor complex"
+        },
+        {
+          "label": "D",
+          "text": "MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "Fc receptor CD16"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NK cells integrate inhibitory signals delivered by MHC I with activating signals from stress-induced ligands. Downregulation of MHC I ('missing self'), together with activating-ligand engagement and cytokines such as IFN, promotes lytic granule release.",
+        "whyCorrect": "NK cells integrate inhibitory signals delivered by MHC I with activating signals from stress-induced ligands. Downregulation of MHC I ('missing self'), together with activating-ligand engagement and cytokines such as IFN, promotes lytic granule release.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-144_2_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-033",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "This stellate cell bearing numerous spiny membrane processes specializes in capturing antigen and priming naive T cells. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Megakaryocyte"
+        },
+        {
+          "label": "B",
+          "text": "Basophil"
+        },
+        {
+          "label": "C",
+          "text": "Red blood cell"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Dendritic cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The characteristic star-shaped morphology with many long processes marks a dendritic cell, the most effective professional antigen-presenting cell for activating naive T cells.",
+        "whyCorrect": "The characteristic star-shaped morphology with many long processes marks a dendritic cell, the most effective professional antigen-presenting cell for activating naive T cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-033_3_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-034",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The diagram follows a dendritic cell capturing antigen in skin and presenting it to a naive T cell in the lymph node. Besides peptide-MHC recognition, what second signal must the dendritic cell deliver to fully activate the naive T cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine release"
+        },
+        {
+          "label": "B",
+          "text": "Complement C3b deposition"
+        },
+        {
+          "label": "C",
+          "text": "Perforin and granzyme delivery"
+        },
+        {
+          "label": "D",
+          "text": "Fc receptor cross-linking"
+        },
+        {
+          "label": "E",
+          "text": "Costimulation via B7 binding CD28"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naive T-cell activation requires signal 1 (peptide-MHC engaging the TCR) plus signal 2, costimulation through B7 (CD80/86) on the mature dendritic cell binding CD28 on the T cell. CCR7 guides the DC to the T-cell zone; without costimulation the T cell becomes anergic.",
+        "whyCorrect": "Naive T-cell activation requires signal 1 (peptide-MHC engaging the TCR) plus signal 2, costimulation through B7 (CD80/86) on the mature dendritic cell binding CD28 on the T cell. CCR7 guides the DC to the T-cell zone; without costimulation the T cell becomes anergic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-034_3_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-035",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The figure contrasts antigen capture in lymph nodes (tissue antigens) with capture in the organ that filters blood-borne antigens. Loss of that blood-filtering organ leaves patients especially vulnerable to which pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous dermatophyte fungi"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular mycobacteria"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Helminth parasites"
+        },
+        {
+          "label": "E",
+          "text": "Non-enveloped gastrointestinal viruses"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spleen captures and clears blood-borne antigens and opsonized encapsulated organisms via its marginal zone. Asplenic or hyposplenic patients are at high risk of overwhelming infection by encapsulated bacteria and require vaccination and prophylaxis.",
+        "whyCorrect": "The spleen captures and clears blood-borne antigens and opsonized encapsulated organisms via its marginal zone. Asplenic or hyposplenic patients are at high risk of overwhelming infection by encapsulated bacteria and require vaccination and prophylaxis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-035_3_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-061",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The oxidative (respiratory) burst diagrammed here is defective in a phagocyte immunodeficiency causing recurrent catalase-positive infections. Which test confirms that diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin (Coombs) test"
+        },
+        {
+          "label": "B",
+          "text": "Sweat chloride test"
+        },
+        {
+          "label": "C",
+          "text": "Tzanck smear"
+        },
+        {
+          "label": "D",
+          "text": "Dihydrorhodamine (DHR) flow cytometry"
+        },
+        {
+          "label": "E",
+          "text": "CH50 total complement assay"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A defect in the NADPH oxidase that generates superoxide causes chronic granulomatous disease. The DHR and NBT tests measure the phagocyte oxidative burst; failure to oxidize the dye confirms CGD.",
+        "whyCorrect": "A defect in the NADPH oxidase that generates superoxide causes chronic granulomatous disease. The DHR and NBT tests measure the phagocyte oxidative burst; failure to oxidize the dye confirms CGD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-061_3_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-096",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "This cartoon jokes that neutrophils can 'shoot traps' to catch pathogens. What is the actual name of this antimicrobial process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement fixation"
+        },
+        {
+          "label": "B",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "C",
+          "text": "Antigen presentation on MHC II"
+        },
+        {
+          "label": "D",
+          "text": "Antibody-dependent cellular cytotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil extracellular trap (NET) formation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neutrophils extrude webs of decondensed chromatin (DNA) studded with antimicrobial proteins such as myeloperoxidase and elastase that trap and kill extracellular microbes. This process is called NETosis.",
+        "whyCorrect": "Neutrophils extrude webs of decondensed chromatin (DNA) studded with antimicrobial proteins such as myeloperoxidase and elastase that trap and kill extracellular microbes. This process is called NETosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-096_3_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-097",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "These cultured cells display long, thin cytoplasmic veils/processes and are the most potent activators of naive T cells. What cell type are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dendritic cell"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Erythrocyte"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dendritic cells extend numerous membrane processes that increase surface area for antigen capture and presentation. They are the principal professional antigen-presenting cells that prime naive T lymphocytes.",
+        "whyCorrect": "Dendritic cells extend numerous membrane processes that increase surface area for antigen capture and presentation. They are the principal professional antigen-presenting cells that prime naive T lymphocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-097_3_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-098",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "The IL-12 / IFN-gamma feedback loop shown between a T cell and a macrophage is essential for eliminating which type of pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intracellular microbes"
+        },
+        {
+          "label": "B",
+          "text": "Blood-group-incompatible red cells"
+        },
+        {
+          "label": "C",
+          "text": "Free-floating extracellular toxins"
+        },
+        {
+          "label": "D",
+          "text": "Large extracellular parasites (helminths)"
+        },
+        {
+          "label": "E",
+          "text": "Non-infectious pollen allergens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Macrophage-derived IL-12 drives Th1 (and NK) cells to secrete IFN-gamma, which classically activates macrophages to kill phagocytosed intracellular organisms. Defects in this axis (e.g., IL-12 or IFN-gamma receptor mutations) cause susceptibility to mycobacteria.",
+        "whyCorrect": "Macrophage-derived IL-12 drives Th1 (and NK) cells to secrete IFN-gamma, which classically activates macrophages to kill phagocytosed intracellular organisms. Defects in this axis (e.g., IL-12 or IFN-gamma receptor mutations) cause susceptibility to mycobacteria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-098_3_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-099",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "Identify the predominant white blood cells in this smear: cells with a multilobed (3-5 lobe) nucleus and pale, finely granular cytoplasm.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophil"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "C",
+          "text": "Monocyte"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Segmented neutrophils have a nucleus of 3-5 lobes joined by thin strands and neutral (pale) cytoplasmic granules. They are the most abundant circulating leukocyte and the first responders in acute bacterial infection.",
+        "whyCorrect": "Segmented neutrophils have a nucleus of 3-5 lobes joined by thin strands and neutral (pale) cytoplasmic granules. They are the most abundant circulating leukocyte and the first responders in acute bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-099_3_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-117",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "In this peripheral blood smear, identify the largest leukocyte, which has abundant blue-gray cytoplasm and a folded, kidney-shaped (indented) nucleus.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Segmented neutrophil"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "C",
+          "text": "Small lymphocyte"
+        },
+        {
+          "label": "D",
+          "text": "Basophil"
+        },
+        {
+          "label": "E",
+          "text": "Monocyte"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Monocytes are the largest circulating leukocytes, with a folded reniform nucleus and abundant gray-blue cytoplasm. They migrate into tissues to become macrophages. The smaller multilobed cells present are neutrophils.",
+        "whyCorrect": "Monocytes are the largest circulating leukocytes, with a folded reniform nucleus and abundant gray-blue cytoplasm. They migrate into tissues to become macrophages. The smaller multilobed cells present are neutrophils.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-117_3_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-118",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "In this blood smear, identify the granulocyte with a bilobed nucleus packed with coarse red-orange (eosinophilic) granules.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monocyte"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "E",
+          "text": "Basophil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Eosinophils have a bilobed nucleus and large red-orange granules. They defend against helminths and participate in allergic (type I hypersensitivity) reactions; their granules contain major basic protein.",
+        "whyCorrect": "Eosinophils have a bilobed nucleus and large red-orange granules. They defend against helminths and participate in allergic (type I hypersensitivity) reactions; their granules contain major basic protein.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-118_3_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "categoryId": "w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "impic-002",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The upper B cell receives antigen (Signal 1) plus T-cell help through CD40L-CD40 (Signal 2) and secretes antibody, whereas the lower B cell receives only Signal 1 and becomes unresponsive. Why is this two-signal requirement immunologically important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly increases antibody affinity"
+        },
+        {
+          "label": "B",
+          "text": "It is required for the B cell to fix complement"
+        },
+        {
+          "label": "C",
+          "text": "It accelerates antigen phagocytosis"
+        },
+        {
+          "label": "D",
+          "text": "It restricts class switching exclusively to IgE"
+        },
+        {
+          "label": "E",
+          "text": "It enforces self-tolerance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
+        "whyCorrect": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-002_11_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-003",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "This figure shows developing thymocytes selected by how strongly their TCR binds self-peptide-MHC. Failure of the top pathway (strong self-antigen binding) would MOST likely result in:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overproduction of regulatory T cells"
+        },
+        {
+          "label": "B",
+          "text": "Failure of MHC restriction"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmunity"
+        },
+        {
+          "label": "D",
+          "text": "Immunodeficiency with recurrent infections"
+        },
+        {
+          "label": "E",
+          "text": "Inability to recognize any MHC molecule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
+        "whyCorrect": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-003_11_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-004",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "In this bone-marrow figure, a self-reactive immature B cell that strongly binds self-antigen follows pathway A. Which tolerance mechanism does pathway A represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive selection"
+        },
+        {
+          "label": "B",
+          "text": "Anergy"
+        },
+        {
+          "label": "C",
+          "text": "Clonal ignorance"
+        },
+        {
+          "label": "D",
+          "text": "Clonal deletion (apoptosis)"
+        },
+        {
+          "label": "E",
+          "text": "Receptor editing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
+        "whyCorrect": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-004_11_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-070",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The antibody shown being transported across the intestinal epithelium into the lumen neutralizes microbes without provoking inflammation. In what form is it secreted to resist luminal proteolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A secretory dimer joined by a J chain"
+        },
+        {
+          "label": "B",
+          "text": "A complement-fixing IgG dimer"
+        },
+        {
+          "label": "C",
+          "text": "A single membrane-bound monomer"
+        },
+        {
+          "label": "D",
+          "text": "A pentamer, like circulating IgM"
+        },
+        {
+          "label": "E",
+          "text": "A free light-chain fragment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
+        "whyCorrect": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-070_11_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-129",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The central cell suppresses effector T cells partly by expressing high levels of CD25 to capture IL-2 (in addition to IL-10/TGF-beta, CTLA-4/B7, and cytolysis). How does high CD25 expression inhibit effector T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It delivers costimulation to effector T cells"
+        },
+        {
+          "label": "B",
+          "text": "It consumes IL-2, depriving effector T cells of the growth factor they need"
+        },
+        {
+          "label": "C",
+          "text": "It upregulates B7 on dendritic cells"
+        },
+        {
+          "label": "D",
+          "text": "It activates the complement cascade"
+        },
+        {
+          "label": "E",
+          "text": "It induces IgE class switching"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "whyCorrect": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-129_11_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-130",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The upper T cell receives TCR-MHC (signal 1) plus B7-CD28 costimulation (signal 2) and proliferates, whereas the lower T cell gets signal 1 only and becomes unresponsive. Blocking B7-CD28 costimulation (e.g., with CTLA-4-Ig) would therefore:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhance T-cell proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Increase MHC class I expression"
+        },
+        {
+          "label": "C",
+          "text": "Induce T-cell anergy"
+        },
+        {
+          "label": "D",
+          "text": "Trigger antibody class switching"
+        },
+        {
+          "label": "E",
+          "text": "Activate the complement cascade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "whyCorrect": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-130_11_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-135",
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance",
+      "stem": "The cell on the right kills its target using granules containing perforin and granzymes (as well as Fas-FasL). A patient with a mutation causing nonfunctional perforin would have MOST impaired ability to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activate the classical complement pathway"
+        },
+        {
+          "label": "B",
+          "text": "Degranulate mast cells in allergic responses"
+        },
+        {
+          "label": "C",
+          "text": "Kill virus-infected and tumor cells"
+        },
+        {
+          "label": "D",
+          "text": "Produce antibodies against extracellular bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Recruit neutrophils by chemotaxis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Perforin lets granzymes enter target cells to trigger apoptosis, the core cytotoxic mechanism of CD8+ CTLs and NK cells. Loss-of-function causes impaired cytotoxicity (e.g., familial hemophagocytic lymphohistiocytosis).",
+        "whyCorrect": "Perforin lets granzymes enter target cells to trigger apoptosis, the core cytotoxic mechanism of CD8+ CTLs and NK cells. Loss-of-function causes impaired cytotoxicity (e.g., familial hemophagocytic lymphohistiocytosis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-135_11_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-005",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Both panels show antibodies directed against cell-surface receptors: one blocks the acetylcholine receptor at the neuromuscular junction, the other stimulates the TSH receptor. These disorders are examples of which hypersensitivity type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type III (immune complex)"
+        },
+        {
+          "label": "B",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated)"
+        },
+        {
+          "label": "D",
+          "text": "Type I with immune-complex deposition"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (delayed, T-cell mediated)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
+        "whyCorrect": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-005_12_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-006",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Circulating antigen-antibody complexes deposit in the vessel wall, fix complement, and recruit neutrophils (Phase II). Which hypersensitivity type is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type II (antibody against cell-surface antigen)"
+        },
+        {
+          "label": "B",
+          "text": "Type III (immune-complex) hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "D",
+          "text": "Type II with receptor-blocking antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (T-cell mediated)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
+        "whyCorrect": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-006_12_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-007",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "This linear array of vesicles appeared on the skin after contact with a plant. What is the underlying immunologic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type II antibody-mediated hypersensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Type III immune-complex hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type IV (delayed-type) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type I IgE-mediated hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated urticaria"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
+        "whyCorrect": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-007_12_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-008",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "These four panels show dendritic cells presenting allergen, Th2-driven IgE class switching, IgE binding FcepsilonRI on mast cells, and (only on re-exposure) mast-cell degranulation. The events in panels 1-3, which occur before any symptoms, are collectively termed:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy induction"
+        },
+        {
+          "label": "B",
+          "text": "Immune tolerance"
+        },
+        {
+          "label": "C",
+          "text": "Desensitization"
+        },
+        {
+          "label": "D",
+          "text": "Sensitization"
+        },
+        {
+          "label": "E",
+          "text": "The effector (challenge) phase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
+        "whyCorrect": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-008_12_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-009",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Among the mediators released by the activated mast cell shown, which is MOST responsible for the immediate vasodilation and increased vascular permeability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "B",
+          "text": "Perforin"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "TNF"
+        },
+        {
+          "label": "E",
+          "text": "Tryptase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
+        "whyCorrect": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-009_12_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-010",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "Intradermal antigen in a sensitized person produces the wheal-and-flare reaction shown within minutes. This immediate reaction is mediated primarily by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-triggered mast cell degranulation"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of immune complexes"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil-derived proteases"
+        },
+        {
+          "label": "D",
+          "text": "T-cell cytokines (delayed hypersensitivity)"
+        },
+        {
+          "label": "E",
+          "text": "Complement-fixing IgG antibodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
+        "whyCorrect": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-010_12_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-011",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "In this asthma pathway, mast-cell mediators produce an early response of bronchoconstriction and a late response of inflammation and bronchial hyperreactivity. Which mediators chiefly drive the sustained bronchoconstriction of the late response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Cysteinyl leukotrienes"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Histamine acting alone"
+        },
+        {
+          "label": "E",
+          "text": "Complement fragment C3a"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
+        "whyCorrect": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-011_13_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-012",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "This figure shows simultaneous multi-organ involvement after allergen exposure: airway swelling, bronchospasm, hypotension/tachycardia, urticaria, and GI symptoms. What is this life-threatening reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Localized urticaria"
+        },
+        {
+          "label": "B",
+          "text": "Serum sickness"
+        },
+        {
+          "label": "C",
+          "text": "Arthus reaction"
+        },
+        {
+          "label": "D",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Anaphylaxis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
+        "whyCorrect": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-012_13_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-013",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "These transient, raised, erythematous, blanching wheals appeared after allergen exposure and are intensely pruritic. What is this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "B",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Petechial rash"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Urticaria (hives)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyCorrect": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-013_13_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-014",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "In the procedure shown, drops of allergen extract are placed on the forearm, the skin is pricked, and a wheal is measured. This test diagnoses which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type IV (delayed, T-cell mediated)"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type I (IgE-mediated)"
+        },
+        {
+          "label": "D",
+          "text": "Type II (antibody-mediated)"
+        },
+        {
+          "label": "E",
+          "text": "Type III (immune complex)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
+        "whyCorrect": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-014_13_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

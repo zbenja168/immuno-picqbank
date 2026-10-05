@@ -1,0 +1,864 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "impic-036",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "The classical complement pathway shown begins when C1 binds antibody. Which region of the antibody does C1q actually attach to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The variable light chain only"
+        },
+        {
+          "label": "B",
+          "text": "Free mannose residues on the antibody"
+        },
+        {
+          "label": "C",
+          "text": "The Fc region of antigen-bound IgM or IgG"
+        },
+        {
+          "label": "D",
+          "text": "The J chain of secretory IgA"
+        },
+        {
+          "label": "E",
+          "text": "The antigen-binding Fab region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C1q binds the Fc portions of antibody (IgM or IgG) that is already bound to antigen, activating C1r/C1s to cleave C4 and C2 and assemble the classical C3 convertase (C4b2b).",
+        "whyCorrect": "C1q binds the Fc portions of antibody (IgM or IgG) that is already bound to antigen, activating C1r/C1s to cleave C4 and C2 and assemble the classical C3 convertase (C4b2b).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-036_4_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-037",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "This patient has recurrent episodes of non-pitting facial and lip swelling (angioedema) without urticaria or itching. Deficiency of which regulatory protein classically causes this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE overproduction"
+        },
+        {
+          "label": "B",
+          "text": "Myeloperoxidase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "C3 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "C1 esterase inhibitor deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Factor VIII deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hereditary angioedema results from C1-inhibitor deficiency, leading to unchecked bradykinin generation and episodic angioedema without urticaria. Because it is bradykinin-mediated (not histamine-mediated), antihistamines are ineffective and ACE inhibitors can precipitate attacks.",
+        "whyCorrect": "Hereditary angioedema results from C1-inhibitor deficiency, leading to unchecked bradykinin generation and episodic angioedema without urticaria. Because it is bradykinin-mediated (not histamine-mediated), antihistamines are ineffective and ACE inhibitors can precipitate attacks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-037_4_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-062",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "The middle panel shows the membrane attack complex lysing a microbe. Deficiency of the terminal components that form this complex (C5-C9) predisposes to infection with which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria species"
+        },
+        {
+          "label": "C",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "D",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "E",
+          "text": "Mycobacterium tuberculosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The membrane attack complex (C5b-9) is critical for lysing Neisseria, so terminal-complement (C5-C9) deficiencies cause recurrent Neisseria (meningococcal/gonococcal) infections. Other panels show C3b opsonization and C3a/C5a leukocyte recruitment.",
+        "whyCorrect": "The membrane attack complex (C5b-9) is critical for lysing Neisseria, so terminal-complement (C5-C9) deficiencies cause recurrent Neisseria (meningococcal/gonococcal) infections. Other panels show C3b opsonization and C3a/C5a leukocyte recruitment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-062_4_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-063",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "Red cells shuttle C3b-tagged immune complexes to phagocytes via CR1, as shown. Deficiency of early classical complement components (C1q, C4, C2) impairs this clearance and predisposes to which autoimmune disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pernicious anemia"
+        },
+        {
+          "label": "B",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "C",
+          "text": "Type 1 diabetes mellitus"
+        },
+        {
+          "label": "D",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "E",
+          "text": "Hashimoto thyroiditis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Early classical-pathway components opsonize immune complexes with C3b for erythrocyte CR1-mediated transport to the liver and spleen. Their deficiency leads to immune-complex accumulation and is strongly associated with SLE.",
+        "whyCorrect": "Early classical-pathway components opsonize immune complexes with C3b for erythrocyte CR1-mediated transport to the liver and spleen. Their deficiency leads to immune-complex accumulation and is strongly associated with SLE.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-063_4_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-100",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "In the lectin pathway shown, mannose-binding lectin uses MASP-2 to cleave C4 and C2. MASP-2 is functionally analogous to which component of the classical pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C9"
+        },
+        {
+          "label": "B",
+          "text": "C1s"
+        },
+        {
+          "label": "C",
+          "text": "Factor D"
+        },
+        {
+          "label": "D",
+          "text": "Properdin"
+        },
+        {
+          "label": "E",
+          "text": "C3b"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lectin pathway mirrors the classical pathway: MBL replaces C1q, and MASP-2 performs the C4/C2-cleaving protease role of C1r/C1s, generating the same C3 convertase (C4b2b) without requiring antibody.",
+        "whyCorrect": "The lectin pathway mirrors the classical pathway: MBL replaces C1q, and MASP-2 performs the C4/C2-cleaving protease role of C1r/C1s, generating the same C3 convertase (C4b2b) without requiring antibody.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-100_4_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-101",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "Unlike the other complement pathways, the alternative pathway shown does not require antibody or lectin binding. How is it initiated on a microbial surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody Fc binding to CD16"
+        },
+        {
+          "label": "B",
+          "text": "C1q binding to antigen-antibody complexes"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous low-level hydrolysis of C3 ('C3 tickover')"
+        },
+        {
+          "label": "D",
+          "text": "MBL binding surface mannose"
+        },
+        {
+          "label": "E",
+          "text": "Perforin pore formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C3 continuously undergoes spontaneous hydrolysis ('tickover'). C3b deposited on a foreign surface binds factor B, which factor D cleaves to form C3bBb, stabilized by properdin. Host surfaces are protected by regulatory proteins.",
+        "whyCorrect": "C3 continuously undergoes spontaneous hydrolysis ('tickover'). C3b deposited on a foreign surface binds factor B, which factor D cleaves to form C3bBb, stabilized by properdin. Host surfaces are protected by regulatory proteins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-101_4_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-102",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "All three complement pathways in this schematic converge on C3 convertase and then a shared terminal pathway (C5-C9). What lytic structure does this terminal pathway assemble?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The C3 convertase"
+        },
+        {
+          "label": "B",
+          "text": "The membrane attack complex"
+        },
+        {
+          "label": "C",
+          "text": "Anaphylatoxin C5a"
+        },
+        {
+          "label": "D",
+          "text": "Mannose-binding lectin"
+        },
+        {
+          "label": "E",
+          "text": "Opsonin C3b"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After C5 is cleaved, C5b recruits C6, C7, C8, and multiple C9 molecules to form the membrane attack complex (C5b-9), a pore that osmotically lyses the target cell. This is the shared terminal step of all three pathways.",
+        "whyCorrect": "After C5 is cleaved, C5b recruits C6, C7, C8, and multiple C9 molecules to form the membrane attack complex (C5b-9), a pore that osmotically lyses the target cell. This is the shared terminal step of all three pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-102_4_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-064",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "These children share silvery/light hair, partial oculocutaneous hypopigmentation, and a history of recurrent pyogenic infections; their neutrophils contain giant granules. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oculocutaneous albinism type 1 (tyrosinase deficiency)"
+        },
+        {
+          "label": "B",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "C",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "D",
+          "text": "X-linked (Bruton) agammaglobulinemia"
+        },
+        {
+          "label": "E",
+          "text": "Chediak-Higashi syndrome (LYST mutation)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chediak-Higashi syndrome (autosomal recessive LYST mutation) impairs lysosomal trafficking, producing giant granules, partial albinism, recurrent infections, peripheral neuropathy, and a bleeding tendency. Isolated albinism lacks the immunodeficiency and giant granules.",
+        "whyCorrect": "Chediak-Higashi syndrome (autosomal recessive LYST mutation) impairs lysosomal trafficking, producing giant granules, partial albinism, recurrent infections, peripheral neuropathy, and a bleeding tendency. Isolated albinism lacks the immunodeficiency and giant granules.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-064_5_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-065",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "The right image shows a neutrophil with abnormal giant cytoplasmic granules from a patient with Chediak-Higashi syndrome. What underlying cellular defect produces these giant granules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective lysosomal trafficking/fusion (LYST mutation)"
+        },
+        {
+          "label": "B",
+          "text": "Complement C1-inhibitor deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Deficient leukocyte integrin CD18"
+        },
+        {
+          "label": "D",
+          "text": "Failure of V(D)J recombination"
+        },
+        {
+          "label": "E",
+          "text": "Absent NADPH oxidase activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mutation of the lysosomal trafficking regulator (LYST) causes granules and lysosomes to fuse into giant dysfunctional structures and impairs phagolysosome formation, so ingested microbes are not efficiently killed, resulting in recurrent infections.",
+        "whyCorrect": "Mutation of the lysosomal trafficking regulator (LYST) causes granules and lysosomes to fuse into giant dysfunctional structures and impairs phagolysosome formation, so ingested microbes are not efficiently killed, resulting in recurrent infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-065_5_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-066",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "The neutrophil oxidative burst diagrammed here is absent when NADPH oxidase is deficient (chronic granulomatous disease). Patients are especially prone to infection by which category of organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase-negative streptococci"
+        },
+        {
+          "label": "B",
+          "text": "Non-enveloped viruses"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated organisms only in the setting of asplenia"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria species"
+        },
+        {
+          "label": "E",
+          "text": "Catalase-positive organisms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Catalase-positive microbes degrade their own hydrogen peroxide, so CGD phagocytes lacking NADPH oxidase cannot borrow microbial H2O2 to kill them. Catalase-negative organisms supply peroxide the phagocyte can still use.",
+        "whyCorrect": "Catalase-positive microbes degrade their own hydrogen peroxide, so CGD phagocytes lacking NADPH oxidase cannot borrow microbial H2O2 to kill them. Catalase-negative organisms supply peroxide the phagocyte can still use.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-066_5_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-067",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This lung biopsy shows granulomatous inflammation; the inset silver stain reveals septate hyphae branching at acute (~45-degree) angles. What organism is this, a classic cause of infection in chronic granulomatous disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucor (Rhizopus)"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "C",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "D",
+          "text": "Aspergillus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Septate hyphae with acute-angle (~45-degree) dichotomous branching are characteristic of Aspergillus, and invasive aspergillosis is a hallmark infection in chronic granulomatous disease. Mucormycosis instead shows broad, ribbon-like, nonseptate hyphae with wide-angle branching.",
+        "whyCorrect": "Septate hyphae with acute-angle (~45-degree) dichotomous branching are characteristic of Aspergillus, and invasive aspergillosis is a hallmark infection in chronic granulomatous disease. Mucormycosis instead shows broad, ribbon-like, nonseptate hyphae with wide-angle branching.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-067_5_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-068",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This assay compares oxidative burst (measured by flow cytometry and a colorimetric slide reaction) in resting versus PMA-stimulated neutrophils from a normal subject, an affected patient, and a carrier. The affected patient's neutrophils fail to show the stimulation-induced signal shift. A defect in which enzyme complex best explains this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lysosomal trafficking regulator (LYST)"
+        },
+        {
+          "label": "B",
+          "text": "Superoxide dismutase"
+        },
+        {
+          "label": "C",
+          "text": "Myeloperoxidase"
+        },
+        {
+          "label": "D",
+          "text": "NADPH oxidase"
+        },
+        {
+          "label": "E",
+          "text": "Glucose-6-phosphate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure shows a dihydrorhodamine (DHR)/flow-cytometry respiratory burst assay. Normal neutrophils shift dramatically with PMA (SI ~139), while the affected patient (XL-CGD) shows almost no shift (SI ~1.2) and the X-linked carrier shows a bimodal population. Failure to generate the oxidative burst reflects a defective phagocyte NADPH oxidase, the hallmark of chronic granulomatous disease. Myeloperoxidase deficiency still permits the burst; LYST defects cause Chediak-Higashi; the others are unrelated to this assay.",
+        "whyCorrect": "The figure shows a dihydrorhodamine (DHR)/flow-cytometry respiratory burst assay. Normal neutrophils shift dramatically with PMA (SI ~139), while the affected patient (XL-CGD) shows almost no shift (SI ~1.2) and the X-linked carrier shows a bimodal population. Failure to generate the oxidative burst reflects a defective phagocyte NADPH oxidase, the hallmark of chronic granulomatous disease. Myeloperoxidase deficiency still permits the burst; LYST defects cause Chediak-Higashi; the others are unrelated to this assay.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-068_5_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-069",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This flow-cytometry histogram measures cell-surface expression of a leukocyte molecule. The patient's cells (compared to negative control and to both parents) show markedly reduced expression, while both parents express it normally. Given the near-absent expression demonstrated here, which condition does this patient most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wiskott-Aldrich syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hyper-IgM syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "D",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "E",
+          "text": "Chediak-Higashi syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The histogram measures CD18, the beta-2 integrin subunit. The patient's leukocytes essentially lack CD18 expression while both heterozygous parents express it normally, consistent with autosomal recessive leukocyte adhesion deficiency type 1. Without CD18, neutrophils cannot firmly adhere to and cross the endothelium, producing recurrent infections without pus. CGD is a defect of the oxidative burst, not CD18 expression.",
+        "whyCorrect": "The histogram measures CD18, the beta-2 integrin subunit. The patient's leukocytes essentially lack CD18 expression while both heterozygous parents express it normally, consistent with autosomal recessive leukocyte adhesion deficiency type 1. Without CD18, neutrophils cannot firmly adhere to and cross the endothelium, producing recurrent infections without pus. CGD is a defect of the oxidative burst, not CD18 expression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-069_5_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-103",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This figure depicts a numbered sequence beginning with a barrier break and microbial entry, followed by sentinel-cell activation, secretion of mediators, increased vascular permeability, and leukocyte recruitment. Which vascular change occurring at step 4 is directly responsible for the local swelling (edema) seen clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction reducing blood flow to the site"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular permeability"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial apoptosis causing vessel thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Platelet plug formation sealing the capillary"
+        },
+        {
+          "label": "E",
+          "text": "Decreased hydrostatic pressure within the venule"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure illustrates the acute inflammatory response. Mediators released by sentinel cells (step 3) act on the capillary-venule to increase vascular permeability (step 4), letting fluid, complement, and antibodies exit into tissue, which produces edema and delivers plasma proteins to the infection. Vasodilation (not vasoconstriction) increases flow, and the endothelium remains viable.",
+        "whyCorrect": "The figure illustrates the acute inflammatory response. Mediators released by sentinel cells (step 3) act on the capillary-venule to increase vascular permeability (step 4), letting fluid, complement, and antibodies exit into tissue, which produces edema and delivers plasma proteins to the infection. Vasodilation (not vasoconstriction) increases flow, and the endothelium remains viable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-103_5_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-104",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "This figure shows the three sequential steps by which a neutrophil leaves the bloodstream at a site of tissue injury: rolling, firm binding, and transmigration between endothelial cells. A child with recurrent bacterial infections without pus, delayed umbilical cord separation, and markedly elevated blood neutrophils has a defect in the molecule mediating the firm-binding step. Which molecule is defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sialyl-Lewis X glycoprotein on the leukocyte"
+        },
+        {
+          "label": "B",
+          "text": "P-selectin on the endothelium"
+        },
+        {
+          "label": "C",
+          "text": "PECAM-1 (CD31) at endothelial junctions"
+        },
+        {
+          "label": "D",
+          "text": "E-selectin on the endothelium"
+        },
+        {
+          "label": "E",
+          "text": "CD11/CD18 (beta-2) integrin on the leukocyte"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the leukocyte adhesion cascade: selectins mediate rolling, leukocyte CD11/CD18 integrins binding endothelial ICAM-1 mediate firm arrest, and PECAM-1 mediates diapedesis. Defective CD18 (beta-2 integrin) causes leukocyte adhesion deficiency type 1, characterized by recurrent infections without pus, delayed cord separation, and neutrophilia because neutrophils cannot firmly adhere and exit vessels. A Sialyl-Lewis X defect causes LAD type 2, which lacks the cord-separation delay severity and neutrophilia is less pronounced.",
+        "whyCorrect": "The figure shows the leukocyte adhesion cascade: selectins mediate rolling, leukocyte CD11/CD18 integrins binding endothelial ICAM-1 mediate firm arrest, and PECAM-1 mediates diapedesis. Defective CD18 (beta-2 integrin) causes leukocyte adhesion deficiency type 1, characterized by recurrent infections without pus, delayed cord separation, and neutrophilia because neutrophils cannot firmly adhere and exit vessels. A Sialyl-Lewis X defect causes LAD type 2, which lacks the cord-separation delay severity and neutrophilia is less pronounced.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-104_5_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-038",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure traces how extracellular protein antigens are taken into vesicles of an antigen-presenting cell, processed, and loaded onto MHC molecules for surface display to CD4+ helper T cells. In the vesicular compartment, HLA-DM performs which essential function before peptide presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It ubiquitinates the antigen to target it to the proteasome"
+        },
+        {
+          "label": "B",
+          "text": "It transports peptides from the cytosol into the endoplasmic reticulum"
+        },
+        {
+          "label": "C",
+          "text": "It stabilizes beta-2 microglobulin association with the class II chains"
+        },
+        {
+          "label": "D",
+          "text": "It catalyzes removal of the CLIP fragment"
+        },
+        {
+          "label": "E",
+          "text": "It cleaves the invariant chain to generate the peptide-binding cleft de novo"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is the MHC class II (exogenous) processing pathway. After the invariant chain is degraded, a residual CLIP fragment occupies the class II groove. HLA-DM catalyzes exchange of CLIP for higher-affinity antigenic peptides, enabling display to CD4+ T cells. TAP-mediated cytosol-to-ER transport belongs to the class I pathway, and beta-2 microglobulin associates with class I, not class II.",
+        "whyCorrect": "This is the MHC class II (exogenous) processing pathway. After the invariant chain is degraded, a residual CLIP fragment occupies the class II groove. HLA-DM catalyzes exchange of CLIP for higher-affinity antigenic peptides, enabling display to CD4+ T cells. TAP-mediated cytosol-to-ER transport belongs to the class I pathway, and beta-2 microglobulin associates with class I, not class II.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-038_6_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-039",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure shows how endogenously synthesized (e.g., viral) proteins in the cytosol are processed and loaded onto MHC molecules for display to CD8+ cytotoxic T cells. What is the function of the transporter labeled TAP in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It adds ubiquitin to viral proteins targeting them for degradation"
+        },
+        {
+          "label": "B",
+          "text": "It removes CLIP from the peptide-binding groove"
+        },
+        {
+          "label": "C",
+          "text": "It transports peptides from the cytosol into the endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "It degrades ubiquitinated proteins into short peptides"
+        },
+        {
+          "label": "E",
+          "text": "It exports assembled peptide-MHC complexes to the cell surface"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the MHC class I (endogenous) pathway. Cytosolic proteins are ubiquitinated and degraded by the proteasome; the transporter associated with antigen processing (TAP) then pumps these peptides into the ER, where they are loaded (with tapasin's help) onto newly assembled class I/beta-2 microglobulin molecules for display to CD8+ T cells. The proteasome, not TAP, performs the degradation.",
+        "whyCorrect": "This is the MHC class I (endogenous) pathway. Cytosolic proteins are ubiquitinated and degraded by the proteasome; the transporter associated with antigen processing (TAP) then pumps these peptides into the ER, where they are loaded (with tapasin's help) onto newly assembled class I/beta-2 microglobulin molecules for display to CD8+ T cells. The proteasome, not TAP, performs the degradation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-039_6_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-040",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure shows a dendritic cell engulfing fragments of a virally infected cell, then routing the internalized viral antigen so that it appears on MHC class I to activate a virus-specific CD8+ T cell. This ability of a dendritic cell to prime CD8+ T cells against a virus that never infected the dendritic cell itself depends on which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superantigen-mediated activation independent of peptide"
+        },
+        {
+          "label": "B",
+          "text": "Cross-presentation of exogenous antigen on MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "Direct endogenous class I presentation of self-synthesized viral protein"
+        },
+        {
+          "label": "D",
+          "text": "NK-mediated recognition of missing self"
+        },
+        {
+          "label": "E",
+          "text": "Class II presentation of exogenous antigen to the same CD8+ cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normally exogenous (engulfed) antigens are displayed on MHC class II to CD4 cells, while class I displays endogenously synthesized proteins. Cross-presentation is the specialized dendritic-cell pathway that diverts internalized exogenous antigen onto MHC class I, allowing priming of naive CD8+ cytotoxic T cells against pathogens (and tumors) that do not directly infect the APC. Costimulation is also provided, as shown.",
+        "whyCorrect": "Normally exogenous (engulfed) antigens are displayed on MHC class II to CD4 cells, while class I displays endogenously synthesized proteins. Cross-presentation is the specialized dendritic-cell pathway that diverts internalized exogenous antigen onto MHC class I, allowing priming of naive CD8+ cytotoxic T cells against pathogens (and tumors) that do not directly infect the APC. Costimulation is also provided, as shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-040_6_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-041",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This figure contrasts a CD8+ T cell engaging a target cell (left) and a CD4+ T cell engaging an antigen-presenting cell (right), each showing the TCR-MHC-peptide interaction plus an additional receptor-ligand pair. Besides TCR recognition of peptide-MHC (signal 1), what is the essential costimulatory interaction (signal 2) required for full naive T-cell activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 binding MHC class II"
+        },
+        {
+          "label": "B",
+          "text": "PD-1 binding PD-L1"
+        },
+        {
+          "label": "C",
+          "text": "CD40L on the APC binding CD40 on the T cell"
+        },
+        {
+          "label": "D",
+          "text": "CD8 binding MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "CD28 on the T cell binding B7 on the APC"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the immunological synapse with the TCR-MHC-peptide complex plus a costimulatory pair. Signal 1 is TCR recognition of peptide-MHC (with CD4/CD8 as coreceptors); signal 2 is delivered by T-cell CD28 binding B7 (CD80/CD86) on the APC. Without this costimulation, a naive T cell becomes anergic. CD40L-CD40 signaling runs from the T cell to the APC/B cell, licensing the APC, and is not the CD28 costimulatory signal itself.",
+        "whyCorrect": "The figure shows the immunological synapse with the TCR-MHC-peptide complex plus a costimulatory pair. Signal 1 is TCR recognition of peptide-MHC (with CD4/CD8 as coreceptors); signal 2 is delivered by T-cell CD28 binding B7 (CD80/CD86) on the APC. Without this costimulation, a naive T cell becomes anergic. CD40L-CD40 signaling runs from the T cell to the APC/B cell, licensing the APC, and is not the CD28 costimulatory signal itself.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-041_6_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-105",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This map shows the organization of the human MHC (HLA) gene complex, including the class I loci, class II loci, and intervening genes encoding complement components and TNF. On which chromosome is this gene complex located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromosome 15"
+        },
+        {
+          "label": "B",
+          "text": "Chromosome 7"
+        },
+        {
+          "label": "C",
+          "text": "Chromosome 6"
+        },
+        {
+          "label": "D",
+          "text": "Chromosome 14"
+        },
+        {
+          "label": "E",
+          "text": "Chromosome 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The human HLA complex resides on the short arm of chromosome 6. The map shows class I genes (HLA-A, -B, -C), class II genes (HLA-DP, -DQ, -DR) along with DM and the antigen-processing TAP/proteasome genes, and the class III region encoding complement proteins (C4, C2, factor B) and cytokines (TNF, lymphotoxin). Chromosome 14 carries the Ig heavy chain and TCR alpha loci, not the MHC.",
+        "whyCorrect": "The human HLA complex resides on the short arm of chromosome 6. The map shows class I genes (HLA-A, -B, -C), class II genes (HLA-DP, -DQ, -DR) along with DM and the antigen-processing TAP/proteasome genes, and the class III region encoding complement proteins (C4, C2, factor B) and cytokines (TNF, lymphotoxin). Chromosome 14 carries the Ig heavy chain and TCR alpha loci, not the MHC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-105_6_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-124",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This table summarizes properties of MHC molecules, including which cell types express each class. A virus infects a skin fibroblast (a non-hematopoietic mesenchymal cell). Based on the expression pattern shown, viral peptides displayed on this infected fibroblast will be recognized by which T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gamma-delta T cells via MHC class I"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T lymphocytes via MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "CD4+ helper T cells via MHC class II"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer T cells via CD1"
+        },
+        {
+          "label": "E",
+          "text": "Regulatory T cells via MHC class II"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The table shows MHC class I is expressed on all nucleated cells (including mesenchymal cells like fibroblasts), whereas class II is restricted to professional APCs (dendritic cells, macrophages, B cells). Because a fibroblast expresses class I but not class II, it presents endogenous viral peptides on MHC class I to CD8+ cytotoxic T cells, which can then kill the infected cell. Class II-restricted CD4 responses require professional APCs.",
+        "whyCorrect": "The table shows MHC class I is expressed on all nucleated cells (including mesenchymal cells like fibroblasts), whereas class II is restricted to professional APCs (dendritic cells, macrophages, B cells). Because a fibroblast expresses class I but not class II, it presents endogenous viral peptides on MHC class I to CD8+ cytotoxic T cells, which can then kill the infected cell. Class II-restricted CD4 responses require professional APCs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-124_6_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-125",
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "stem": "This diagram compares the domain architecture of the two classes of MHC molecule anchored in the cell membrane. One class is built from a single polymorphic heavy chain paired with an invariant small subunit, while the other is built from two membrane-anchored polymorphic chains of similar size. Which feature is unique to the class shown on the left (MHC class I)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-covalently associated beta-2 microglobulin subunit"
+        },
+        {
+          "label": "B",
+          "text": "Two transmembrane-anchored polymorphic chains of equal size"
+        },
+        {
+          "label": "C",
+          "text": "Expression restricted to professional antigen-presenting cells"
+        },
+        {
+          "label": "D",
+          "text": "A peptide-binding groove formed by two separate polymorphic chains"
+        },
+        {
+          "label": "E",
+          "text": "An invariant chain occupying the groove during assembly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MHC class I consists of a single polymorphic heavy chain (alpha-1, alpha-2, alpha-3) non-covalently bound to the invariant beta-2 microglobulin; its peptide-binding cleft is formed by alpha-1 and alpha-2 of that single chain. MHC class II is a heterodimer of two membrane-anchored chains (alpha and beta), with the groove formed by alpha-1 and beta-1. Beta-2 microglobulin is therefore the distinguishing subunit of class I.",
+        "whyCorrect": "MHC class I consists of a single polymorphic heavy chain (alpha-1, alpha-2, alpha-3) non-covalently bound to the invariant beta-2 microglobulin; its peptide-binding cleft is formed by alpha-1 and alpha-2 of that single chain. MHC class II is a heterodimer of two membrane-anchored chains (alpha and beta), with the groove formed by alpha-1 and beta-1. Beta-2 microglobulin is therefore the distinguishing subunit of class I.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-125_6_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

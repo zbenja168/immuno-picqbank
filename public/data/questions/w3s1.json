@@ -1,0 +1,669 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "impic-075",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "Cyclosporine (via cyclophilin) and tacrolimus (via FKBP) both inhibit calcineurin in T cells. Why does calcineurin inhibition reduce IL-2 transcription?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It degrades IL-2 messenger RNA directly"
+        },
+        {
+          "label": "B",
+          "text": "It prevents CD4 from associating with MHC"
+        },
+        {
+          "label": "C",
+          "text": "Calcineurin normally dephosphorylates NFAT, allowing it to enter the nucleus"
+        },
+        {
+          "label": "D",
+          "text": "It blocks the T-cell receptor from binding antigen"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits ribosomal translation of IL-2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calcineurin is a phosphatase that dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2. By inhibiting calcineurin, cyclosporine and tacrolimus keep NFAT phosphorylated and cytoplasmic, blocking IL-2 production and T-cell activation.",
+        "whyCorrect": "Calcineurin is a phosphatase that dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2. By inhibiting calcineurin, cyclosporine and tacrolimus keep NFAT phosphorylated and cytoplasmic, blocking IL-2 production and T-cell activation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-075_18_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-076",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "Sirolimus (rapamycin) binds FKBP, the same immunophilin bound by tacrolimus, but instead inhibits mTOR downstream of the IL-2 receptor. What does this selectively block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody class switching in B cells"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil chemotaxis"
+        },
+        {
+          "label": "C",
+          "text": "IL-2 gene transcription"
+        },
+        {
+          "label": "D",
+          "text": "T-cell receptor signal transduction"
+        },
+        {
+          "label": "E",
+          "text": "IL-2-driven T-cell proliferation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Although sirolimus and tacrolimus share FKBP binding, tacrolimus inhibits calcineurin (blocking IL-2 production) whereas sirolimus inhibits mTOR, which acts downstream of the IL-2 receptor to drive cell-cycle progression. Sirolimus therefore blocks the proliferative response to IL-2 rather than its synthesis.",
+        "whyCorrect": "Although sirolimus and tacrolimus share FKBP binding, tacrolimus inhibits calcineurin (blocking IL-2 production) whereas sirolimus inhibits mTOR, which acts downstream of the IL-2 receptor to drive cell-cycle progression. Sirolimus therefore blocks the proliferative response to IL-2 rather than its synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-076_18_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-077",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "This diagram shows sites of action of cytotoxic immunosuppressants on nucleotide synthesis. Mycophenolate inhibits inosine monophosphate dehydrogenase. Why are lymphocytes especially sensitive to this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes cannot perform pyrimidine synthesis at all"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes depend on de novo purine synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytes rely solely on the salvage pathway for purines"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocytes cannot replicate DNA without dietary folate"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocytes uniquely express dihydrofolate reductase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IMP dehydrogenase is required for de novo guanine nucleotide synthesis. Unlike most cells, activated lymphocytes rely heavily on the de novo purine pathway rather than salvage, so mycophenolate preferentially suppresses lymphocyte proliferation.",
+        "whyCorrect": "IMP dehydrogenase is required for de novo guanine nucleotide synthesis. Unlike most cells, activated lymphocytes rely heavily on the de novo purine pathway rather than salvage, so mycophenolate preferentially suppresses lymphocyte proliferation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-077_18_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-089",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "This diagram shows glucocorticoids inhibiting NF-kB. What is the principal immunologic consequence of blocking this transcription factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased antibody affinity maturation"
+        },
+        {
+          "label": "B",
+          "text": "Accelerated B-cell class switching"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced complement synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Decreased production of inflammatory cytokines"
+        },
+        {
+          "label": "E",
+          "text": "Increased mast-cell degranulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NF-kB drives transcription of many pro-inflammatory genes (cytokines, adhesion molecules, enzymes). By inhibiting NF-kB, glucocorticoids reduce inflammatory cytokine production, which accounts for much of their anti-inflammatory and immunosuppressive effect.",
+        "whyCorrect": "NF-kB drives transcription of many pro-inflammatory genes (cytokines, adhesion molecules, enzymes). By inhibiting NF-kB, glucocorticoids reduce inflammatory cytokine production, which accounts for much of their anti-inflammatory and immunosuppressive effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-089_18_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-136",
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants",
+      "stem": "A transplant patient on chronic prednisone develops thin skin that bruises easily and pink-purple abdominal striae. These skin changes result from glucocorticoid inhibition of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sebum secretion by sebaceous glands"
+        },
+        {
+          "label": "B",
+          "text": "Melanin production by melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Keratin cross-linking in the epidermis"
+        },
+        {
+          "label": "D",
+          "text": "Elastin degradation by elastase"
+        },
+        {
+          "label": "E",
+          "text": "Collagen synthesis by fibroblasts"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucocorticoids suppress fibroblast proliferation and collagen synthesis, thinning the dermis. The weakened dermal connective tissue tears to reveal underlying vessels, producing wide pink-purple striae and easy bruising characteristic of Cushingoid skin.",
+        "whyCorrect": "Glucocorticoids suppress fibroblast proliferation and collagen synthesis, thinning the dermis. The weakened dermal connective tissue tears to reveal underlying vessels, producing wide pink-purple striae and easy bruising characteristic of Cushingoid skin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-136_18_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-078",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "Anakinra blocks inflammatory signaling at the IL-1 receptor, as shown. Anakinra is a recombinant form of which naturally occurring molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1 receptor antagonist"
+        },
+        {
+          "label": "B",
+          "text": "IL-10"
+        },
+        {
+          "label": "C",
+          "text": "Soluble TNF receptor"
+        },
+        {
+          "label": "D",
+          "text": "A monoclonal anti-IL-1 antibody"
+        },
+        {
+          "label": "E",
+          "text": "IL-6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anakinra is recombinant IL-1 receptor antagonist; it occupies the IL-1 receptor without triggering signaling, competitively blocking IL-1alpha and IL-1beta. It is used in rheumatoid arthritis and autoinflammatory syndromes.",
+        "whyCorrect": "Anakinra is recombinant IL-1 receptor antagonist; it occupies the IL-1 receptor without triggering signaling, competitively blocking IL-1alpha and IL-1beta. It is used in rheumatoid arthritis and autoinflammatory syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-078_19_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-079",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "Infliximab is a monoclonal antibody that binds both soluble and membrane-bound TNF-alpha, preventing it from engaging its receptor. Before starting this drug, patients must be screened for reactivation of which latent infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malaria"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis A"
+        },
+        {
+          "label": "C",
+          "text": "Herpes zoster"
+        },
+        {
+          "label": "D",
+          "text": "Group A streptococcus"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TNF-alpha is essential for forming and maintaining granulomas that contain Mycobacterium tuberculosis. TNF blockade with infliximab can allow reactivation of latent TB, so latent TB screening is required before initiating therapy.",
+        "whyCorrect": "TNF-alpha is essential for forming and maintaining granulomas that contain Mycobacterium tuberculosis. TNF blockade with infliximab can allow reactivation of latent TB, so latent TB screening is required before initiating therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-079_19_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-112",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "Etanercept neutralizes TNF-alpha, as shown, but structurally it is not an antibody. What is etanercept?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A soluble TNF-receptor-IgG Fc fusion protein"
+        },
+        {
+          "label": "B",
+          "text": "An antisense oligonucleotide against TNF mRNA"
+        },
+        {
+          "label": "C",
+          "text": "A small-molecule TNF synthesis inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "A humanized monoclonal antibody against TNF-alpha"
+        },
+        {
+          "label": "E",
+          "text": "A recombinant IL-1 receptor antagonist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Etanercept is a fusion protein linking the extracellular ligand-binding portion of the p75 TNF receptor to the Fc region of human IgG1. It acts as a soluble decoy that binds circulating TNF-alpha, preventing it from activating cell-surface TNF receptors.",
+        "whyCorrect": "Etanercept is a fusion protein linking the extracellular ligand-binding portion of the p75 TNF receptor to the Fc region of human IgG1. It acts as a soluble decoy that binds circulating TNF-alpha, preventing it from activating cell-surface TNF receptors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-112_19_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-131",
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents",
+      "stem": "This figure arranges therapeutic antibodies from fully murine to fully human, with tolerance increasing as murine content falls. What is the main clinical advantage of a fully human monoclonal antibody over a murine one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher antigen-binding affinity in all cases"
+        },
+        {
+          "label": "B",
+          "text": "Ability to cross the blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "Longer shelf life of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Greater complement activation"
+        },
+        {
+          "label": "E",
+          "text": "Reduced immunogenicity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "whyCorrect": "Murine antibodies are recognized as foreign and provoke human anti-mouse antibody responses that reduce efficacy and cause reactions. Chimerization, humanization, and fully human engineering progressively lower murine content and thus immunogenicity, improving tolerability and half-life.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-131_19_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-025",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "In an mRNA vaccine, host cells take up the mRNA and their ribosomes translate it into antigen that is then displayed. Because the antigen is synthesized inside the host cell (endogenous), this pathway is especially effective at generating which response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An IgE-mediated allergic response"
+        },
+        {
+          "label": "B",
+          "text": "A purely innate neutrophil response"
+        },
+        {
+          "label": "C",
+          "text": "A cytotoxic CD8+ T-cell response"
+        },
+        {
+          "label": "D",
+          "text": "Complement-mediated lysis without T cells"
+        },
+        {
+          "label": "E",
+          "text": "A T-independent B-cell response"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endogenously synthesized proteins are processed and presented on MHC class I, priming CD8+ cytotoxic T cells, while the expressed antigen also drives antibody responses. This intracellular antigen production is an advantage of mRNA and viral-vector vaccines over inert subunit vaccines.",
+        "whyCorrect": "Endogenously synthesized proteins are processed and presented on MHC class I, priming CD8+ cytotoxic T cells, while the expressed antigen also drives antibody responses. This intracellular antigen production is an advantage of mRNA and viral-vector vaccines over inert subunit vaccines.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-025_20_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-026",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "In a protein subunit vaccine the antigen is injected preformed and taken up by antigen-presenting cells from outside the cell. This exogenous antigen is presented predominantly on which molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MHC class I, activating CD8+ T cells"
+        },
+        {
+          "label": "B",
+          "text": "MHC class II, activating CD4+ helper T cells"
+        },
+        {
+          "label": "C",
+          "text": "Fc receptors"
+        },
+        {
+          "label": "D",
+          "text": "CD1, presenting lipids"
+        },
+        {
+          "label": "E",
+          "text": "Toll-like receptor 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Exogenous antigens taken up by endocytosis are processed in endosomes and loaded onto MHC class II for presentation to CD4+ helper T cells, which support antibody production. Subunit vaccines therefore favor CD4/antibody responses and often need adjuvants or boosters.",
+        "whyCorrect": "Exogenous antigens taken up by endocytosis are processed in endosomes and loaded onto MHC class II for presentation to CD4+ helper T cells, which support antibody production. Subunit vaccines therefore favor CD4/antibody responses and often need adjuvants or boosters.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-026_20_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-027",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "In this adenoviral vector vaccine, the adenovirus enters a host cell, its genetic material reaches the nucleus, and the target antigen is then produced. What is the role of the adenovirus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It serves as a delivery vehicle carrying the gene that encodes the target antigen"
+        },
+        {
+          "label": "B",
+          "text": "It provides preformed antibodies against the target"
+        },
+        {
+          "label": "C",
+          "text": "It directly lyses infected cells"
+        },
+        {
+          "label": "D",
+          "text": "It acts only as an adjuvant with no genetic payload"
+        },
+        {
+          "label": "E",
+          "text": "It is the disease-causing pathogen the vaccine protects against"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Viral-vector vaccines use a replication-deficient virus (e.g., adenovirus) as a carrier to deliver DNA encoding the target antigen. Host cells then transcribe and translate the antigen, which is presented to the immune system, generating antibody and T-cell responses.",
+        "whyCorrect": "Viral-vector vaccines use a replication-deficient virus (e.g., adenovirus) as a carrier to deliver DNA encoding the target antigen. Host cells then transcribe and translate the antigen, which is presented to the immune system, generating antibody and T-cell responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-027_20_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-028",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "In this graph a second injection contains antigen 1 plus a new antigen 2. The response to antigen 1 is rapid and large (secondary), but the simultaneous response to antigen 2 looks like a slow, small primary response. Why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells can respond to only one antigen per lifetime"
+        },
+        {
+          "label": "B",
+          "text": "The antibodies to antigen 1 neutralize antigen 2"
+        },
+        {
+          "label": "C",
+          "text": "Immunologic memory is antigen-specific"
+        },
+        {
+          "label": "D",
+          "text": "Antigen 2 is a weaker immunogen at all times"
+        },
+        {
+          "label": "E",
+          "text": "Antigen 2 suppresses B-cell activation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The heightened, faster secondary response reflects memory B and T cells generated during the first exposure, and this memory is specific to that antigen. Because antigen 2 is encountered for the first time, it elicits a primary response despite being given at the same time as the antigen-1 boost.",
+        "whyCorrect": "The heightened, faster secondary response reflects memory B and T cells generated during the first exposure, and this memory is specific to that antigen. Because antigen 2 is encountered for the first time, it elicits a primary response despite being given at the same time as the antigen-1 boost.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-028_20_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-080",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "Several vaccine platforms are shown around a central virus. Which type generally produces the strongest, most durable immunity but is contraindicated in immunocompromised patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein subunit vaccine"
+        },
+        {
+          "label": "B",
+          "text": "Live attenuated vaccine"
+        },
+        {
+          "label": "C",
+          "text": "Virus-like particle vaccine"
+        },
+        {
+          "label": "D",
+          "text": "mRNA vaccine"
+        },
+        {
+          "label": "E",
+          "text": "Inactivated (killed) vaccine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Live attenuated vaccines use weakened replicating organisms that closely mimic natural infection, generating robust humoral and cell-mediated memory. Because the organism replicates, it can cause disease in immunocompromised hosts, in whom such vaccines are generally contraindicated.",
+        "whyCorrect": "Live attenuated vaccines use weakened replicating organisms that closely mimic natural infection, generating robust humoral and cell-mediated memory. Because the organism replicates, it can cause disease in immunocompromised hosts, in whom such vaccines are generally contraindicated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-080_20_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-081",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "This figure compares a plain polysaccharide vaccine with a protein-polysaccharide conjugate vaccine. Why does the plain polysaccharide vaccine fail to protect infants under 2 years and produce no memory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infants lack B cells until age 2"
+        },
+        {
+          "label": "B",
+          "text": "Pure polysaccharides elicit a T-independent B-cell response"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharides are destroyed by infant stomach acid"
+        },
+        {
+          "label": "D",
+          "text": "The vaccine antigen is presented on MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "Polysaccharides only stimulate cytotoxic T cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Polysaccharide antigens cross-link B-cell receptors without engaging T-cell help (T-independent response), producing short-lived IgM/IgG2 and no memory; infant B cells respond poorly. Conjugating the polysaccharide to a carrier protein recruits helper T cells, enabling class switching, affinity maturation, and memory, and it works in young children.",
+        "whyCorrect": "Polysaccharide antigens cross-link B-cell receptors without engaging T-cell help (T-independent response), producing short-lived IgM/IgG2 and no memory; infant B cells respond poorly. Conjugating the polysaccharide to a carrier protein recruits helper T cells, enabling class switching, affinity maturation, and memory, and it works in young children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-081_20_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-082",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "This 2x2 figure classifies immunity as active/passive and natural/artificial. Which forms shown provide immediate but short-lived protection because the recipient does not generate their own antibodies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active natural immunity (infection)"
+        },
+        {
+          "label": "B",
+          "text": "Passive immunity"
+        },
+        {
+          "label": "C",
+          "text": "None provide immediate protection"
+        },
+        {
+          "label": "D",
+          "text": "Active artificial immunity (vaccination)"
+        },
+        {
+          "label": "E",
+          "text": "Both forms of active immunity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Passive immunity transfers preformed antibodies (transplacental maternal IgG or therapeutic/monoclonal antibodies), giving immediate protection that wanes as the antibodies are catabolized, with no immunologic memory. Active immunity (infection or vaccination) is slower to develop but long-lasting.",
+        "whyCorrect": "Passive immunity transfers preformed antibodies (transplacental maternal IgG or therapeutic/monoclonal antibodies), giving immediate protection that wanes as the antibodies are catabolized, with no immunologic memory. Active immunity (infection or vaccination) is slower to develop but long-lasting.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-082_20_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "impic-083",
+      "topicId": "vaccines",
+      "topicName": "Vaccines",
+      "stem": "This figure shows that when most of a population is immunized, spread of a contagious disease is contained and even unimmunized individuals are largely protected. What is this phenomenon called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herd immunity"
+        },
+        {
+          "label": "B",
+          "text": "Cross-reactivity"
+        },
+        {
+          "label": "C",
+          "text": "Original antigenic sin"
+        },
+        {
+          "label": "D",
+          "text": "Passive immunity"
+        },
+        {
+          "label": "E",
+          "text": "Immunologic tolerance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Herd (community) immunity occurs when a high proportion of a population is immune, reducing transmission so that susceptible individuals are indirectly protected. The threshold coverage needed rises with the pathogen's contagiousness.",
+        "whyCorrect": "Herd (community) immunity occurs when a high proportion of a population is immune, reducing transmission so that susceptible individuals are indirectly protected. The threshold coverage needed rises with the pathogen's contagiousness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "impic-083_20_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

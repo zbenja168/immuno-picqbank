@@ -1,164 +1,122 @@
 {
   "categories": [
     {
-      "id": "introduction-to-the-immune-system",
-      "name": "Introduction to the Immune System",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-to-the-immune-system",
           "name": "Introduction to the Immune System",
           "sourceFile": "brick",
           "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "innate-receptors-and-cytokines",
-      "name": "Innate Receptors and Cytokines",
-      "topics": [
+        },
         {
           "id": "innate-receptors-and-cytokines",
           "name": "Innate Receptors and Cytokines",
           "sourceFile": "brick",
           "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "phagocyte-function",
-      "name": "Phagocyte Function",
-      "topics": [
+        },
         {
           "id": "phagocyte-function",
           "name": "Phagocyte Function",
           "sourceFile": "brick",
           "questionCount": 10
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "complement-system",
-      "name": "Complement System",
+      "id": "w1s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "complement-system",
           "name": "Complement System",
           "sourceFile": "brick",
           "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "inborn-errors-of-innate-immunity",
-      "name": "Inborn Errors of Innate Immunity",
-      "topics": [
+        },
         {
           "id": "inborn-errors-of-innate-immunity",
           "name": "Inborn Errors of Innate Immunity",
           "sourceFile": "brick",
           "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "major-histocompatibility-complex",
-      "name": "Major Histocompatibility Complex",
-      "topics": [
+        },
         {
           "id": "major-histocompatibility-complex",
           "name": "Major Histocompatibility Complex",
           "sourceFile": "brick",
           "questionCount": 7
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "antigen-receptor-generation-and-structure",
-      "name": "Antigen Receptor Generation and Structure",
+      "id": "w1s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "antigen-receptor-generation-and-structure",
           "name": "Antigen Receptor Generation and Structure",
           "sourceFile": "brick",
           "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "b-cell-development-and-activation",
-      "name": "B Cell Development and Activation",
-      "topics": [
+        },
         {
           "id": "b-cell-development-and-activation",
           "name": "B Cell Development and Activation",
           "sourceFile": "brick",
           "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "t-cell-development-activation-and-differentiation",
-      "name": "T Cell Development, Activation, and Differentiation",
-      "topics": [
+        },
         {
           "id": "t-cell-development-activation-and-differentiation",
           "name": "T Cell Development, Activation, and Differentiation",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "cell-mediated-immunity",
-      "name": "Cell-Mediated Immunity",
-      "topics": [
+        },
         {
           "id": "cell-mediated-immunity",
           "name": "Cell-Mediated Immunity",
           "sourceFile": "brick",
           "questionCount": 5
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "immunologic-tolerance",
-      "name": "Immunologic Tolerance",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "immunologic-tolerance",
           "name": "Immunologic Tolerance",
           "sourceFile": "brick",
           "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "hypersensitivity-reactions",
-      "name": "Hypersensitivity Reactions",
-      "topics": [
+        },
         {
           "id": "hypersensitivity-reactions",
           "name": "Hypersensitivity Reactions",
           "sourceFile": "brick",
           "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "allergic-diseases-and-anaphylaxis",
-      "name": "Allergic Diseases and Anaphylaxis",
-      "topics": [
+        },
         {
           "id": "allergic-diseases-and-anaphylaxis",
           "name": "Allergic Diseases and Anaphylaxis",
           "sourceFile": "brick",
           "questionCount": 4
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "inborn-errors-of-adaptive-immunity",
-      "name": "Inborn Errors of Adaptive Immunity",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "inborn-errors-of-adaptive-immunity",
@@ -166,11 +124,14 @@
           "sourceFile": "brick",
           "questionCount": 13
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "diagnostic-laboratory-immunology",
-      "name": "Diagnostic Laboratory Immunology",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "diagnostic-laboratory-immunology",
@@ -178,71 +139,62 @@
           "sourceFile": "brick",
           "questionCount": 10
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "immunosuppressants",
-      "name": "Immunosuppressants",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "immunosuppressants",
           "name": "Immunosuppressants",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "biologic-agents",
-      "name": "Biologic Agents",
-      "topics": [
+        },
         {
           "id": "biologic-agents",
           "name": "Biologic Agents",
           "sourceFile": "brick",
           "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "vaccines",
-      "name": "Vaccines",
-      "topics": [
+        },
         {
           "id": "vaccines",
           "name": "Vaccines",
           "sourceFile": "brick",
           "questionCount": 8
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "introduction-to-autoinflammatory-and-autoimmune-diseases",
-      "name": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "id": "w3s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "introduction-to-autoinflammatory-and-autoimmune-diseases",
           "name": "Introduction to Autoinflammatory and Autoimmune Diseases",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "tumors-and-transplants",
-      "name": "Tumors and Transplants",
-      "topics": [
+        },
         {
           "id": "tumors-and-transplants",
           "name": "Tumors and Transplants",
           "sourceFile": "brick",
           "questionCount": 7
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "effect-of-age-on-the-immune-system",
-      "name": "Effect of Age on the Immune System",
+      "id": "w3s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "effect-of-age-on-the-immune-system",
@@ -250,7 +202,10 @@
           "sourceFile": "brick",
           "questionCount": 7
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 144
