@@ -669,7 +669,7 @@
       "id": "impic-052",
       "topicId": "t-cell-development-activation-and-differentiation",
       "topicName": "T Cell Development, Activation, and Differentiation",
-      "stem": "This figure follows T-cell development from lymphoid progenitors entering the thymus, progressing through double-negative and double-positive stages with V(D)J recombination of the TCR, and emerging as mature single-positive CD4+ or CD8+ T cells that enter the circulation. In which organ does this antigen-independent development and selection of T cells occur?",
+      "stem": "This figure follows T-cell development from lymphoid progenitors arriving from the blood, progressing through double-negative and double-positive stages with V(D)J recombination of the TCR, and emerging as mature single-positive CD4+ or CD8+ T cells that enter the circulation. In which organ does this antigen-independent development and selection of T cells occur?",
       "choices": [
         {
           "label": "A",
