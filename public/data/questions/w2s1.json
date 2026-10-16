@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
         "whyCorrect": "A B cell engaging antigen without a second signal from a helper T cell becomes anergic. Requiring T-cell help for full activation is a peripheral tolerance checkpoint that limits autoantibody production.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Affinity improves later through somatic hypermutation and germinal-center selection, not as a direct result of the two-signal checkpoint.",
+          "B": "Complement fixation is a property of secreted IgM and IgG Fc regions, not of the B cell's activation requirements.",
+          "C": "Antigen phagocytosis is performed by macrophages and neutrophils; requiring T-cell help does not speed it.",
+          "D": "CD40 signaling permits switching to several isotypes (IgG, IgA, IgE), with cytokines determining which; it does not restrict switching to IgE."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-002_11_p16_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
         "whyCorrect": "Thymocytes binding self strongly undergo negative selection (apoptosis). Loss of this deletion allows autoreactive T cells into the periphery, predisposing to autoimmune disease. Weak binding gives positive selection; intermediate binding can yield Tregs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Overproduction of Tregs is not the consequence of failed deletion; loss of strong-binder deletion releases autoreactive effector T cells.",
+          "B": "MHC restriction is established by positive selection of weak binders, a different pathway from the one that failed.",
+          "D": "Recurrent infections reflect too few functional T cells, whereas failed negative selection leaves the repertoire intact but self-reactive.",
+          "E": "Inability to recognize any MHC describes thymocytes that die by neglect when positive selection fails, not loss of strong-binder deletion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-003_11_p4_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
         "whyCorrect": "Immature B cells strongly engaging self-antigen in the marrow are removed by apoptosis (clonal deletion), a central-tolerance mechanism. Alternatively they may rearrange the light chain (receptor editing) to change specificity, shown by the other pathways.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Positive selection rescues cells with useful, non-self-reactive receptors; strongly self-reactive B cells are not kept.",
+          "B": "Anergy occurs mainly in B cells that bind soluble self-antigen weakly, leaving them alive but unresponsive rather than eliminated.",
+          "C": "Clonal ignorance applies to cells whose self-antigen is sequestered or too scarce to engage, not to strong binders in the marrow.",
+          "E": "Receptor editing re-rearranges the light chain to change specificity, an alternative fate that keeps the cell alive."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-004_11_p7_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
         "whyCorrect": "Secretory IgA is a dimer linked by a J chain; transcytosis adds the secretory component, which protects it from proteases in the gut lumen. It provides noninflammatory mucosal defense against commensal and pathogenic microbes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "IgG circulates as a monomer, is not transported into the gut lumen by the poly-Ig receptor, and fixes complement, which would cause inflammation.",
+          "C": "Membrane-bound monomers act as B-cell receptors on the cell surface and are not secreted into the lumen.",
+          "D": "IgM is a pentamer; although small amounts are secreted at mucosae, it is not the dominant protease-resistant mucosal antibody.",
+          "E": "Free light chains have no Fc or antigen-binding pair and do not provide mucosal protection."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-070_11_p18_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
         "whyCorrect": "Regulatory T cells constitutively express the high-affinity IL-2 receptor (CD25) and act as an IL-2 sink, starving nearby effector T cells of IL-2. They also suppress via IL-10/TGF-beta, CTLA-4 competition for B7, and granzyme/perforin cytolysis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Costimulation would promote, not suppress, effector T-cell activation.",
+          "C": "Tregs reduce B7 on dendritic cells through CTLA-4, so upregulating B7 would enhance effector responses.",
+          "D": "CD25 is a cytokine receptor subunit with no ability to activate complement.",
+          "E": "IgE class switching is driven by IL-4 and IL-13 from Th2 cells, not by IL-2 binding to CD25."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-129_11_p11_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
         "whyCorrect": "Full T-cell activation requires antigen recognition plus B7-CD28 costimulation. Antigen without costimulation induces anergy, a peripheral-tolerance mechanism. CTLA-4-Ig blocks B7, so it suppresses T-cell responses (used therapeutically in autoimmunity/transplant).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Removing costimulation reduces T-cell activation and proliferation rather than enhancing it.",
+          "B": "MHC class I expression is governed by interferons and cell type, not by blocking B7-CD28 interactions.",
+          "D": "Class switching needs activated helper T cells delivering CD40L and cytokines, which costimulation blockade would reduce.",
+          "E": "Blocking B7-CD28 has no effect on complement activation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-130_11_p9_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Perforin lets granzymes enter target cells to trigger apoptosis, the core cytotoxic mechanism of CD8+ CTLs and NK cells. Loss-of-function causes impaired cytotoxicity (e.g., familial hemophagocytic lymphohistiocytosis).",
         "whyCorrect": "Perforin lets granzymes enter target cells to trigger apoptosis, the core cytotoxic mechanism of CD8+ CTLs and NK cells. Loss-of-function causes impaired cytotoxicity (e.g., familial hemophagocytic lymphohistiocytosis).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The classical complement pathway is triggered by C1q binding antibody, independent of perforin.",
+          "B": "Mast cell degranulation depends on IgE cross-linking FcepsilonRI, not on perforin.",
+          "D": "Antibody production against extracellular bacteria depends on B cells and helper T cells, not cytotoxic granules.",
+          "E": "Neutrophil chemotaxis is driven by IL-8, C5a, and leukotriene B4, not by perforin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-135_11_p13_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
         "whyCorrect": "Antibodies against cell-surface receptors define type II hypersensitivity. Anti-AChR antibodies block signaling (myasthenia gravis), while stimulating anti-TSH-receptor antibodies drive hormone release (Graves disease).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type III reactions are caused by soluble immune complexes depositing in tissues, not antibodies binding fixed cell-surface receptors.",
+          "B": "Type I reactions are IgE-mediated mast-cell degranulation causing immediate allergy, not receptor-blocking or stimulating antibodies.",
+          "D": "No hypersensitivity type combines IgE with immune-complex deposition, and neither disease involves IgE.",
+          "E": "Type IV reactions are mediated by T cells and macrophages without antibody, whereas both disorders shown are caused by autoantibodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-005_12_p15_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
         "whyCorrect": "Type III reactions involve soluble antigen-antibody complexes depositing in vessel walls and tissues, where complement activation and neutrophil recruitment cause injury (e.g., serum sickness, Arthus reaction).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type II reactions involve antibody binding to antigens fixed on cell surfaces or matrix, not circulating complexes depositing in vessels.",
+          "C": "Type I reactions are immediate IgE-mediated mast-cell degranulation, not complement-fixing complexes recruiting neutrophils.",
+          "D": "Receptor-blocking antibodies (e.g., in myasthenia gravis) act on cell-surface targets and do not form circulating complexes.",
+          "E": "Type IV reactions are T-cell mediated, take 48-72 hours, and involve no antibody or complement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-006_12_p17_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
         "whyCorrect": "Allergic contact dermatitis (e.g., poison ivy) is a type IV reaction: sensitized CD4+ T cells recognize hapten-modified self-proteins and release cytokines that produce the characteristic linear vesicular rash 48-72 hours after exposure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type II reactions involve antibodies against cell-surface antigens, such as hemolytic anemia, not a plant-induced vesicular dermatitis.",
+          "B": "Type III reactions cause vasculitis, serum sickness, or glomerulonephritis from immune complexes, not linear vesicles at contact sites.",
+          "D": "Type I reactions appear within minutes as wheals or anaphylaxis, not as delayed vesicles following the line of contact.",
+          "E": "IgE-mediated urticaria produces transient, itchy wheals within minutes, not delayed linear vesicles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-007_12_p22_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
         "whyCorrect": "First allergen exposure primes Th2 cells and IgE production, arming mast cells (sensitization) without symptoms. Symptoms occur only on re-exposure, when allergen cross-links mast-cell-bound IgE and triggers degranulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anergy is functional unresponsiveness of lymphocytes, whereas these steps actively generate IgE and arm mast cells.",
+          "B": "Tolerance prevents a response to antigen; here a Th2 and IgE response is being mounted.",
+          "C": "Desensitization is a therapy that gradually reduces allergic responsiveness, the opposite of priming IgE.",
+          "E": "The effector (challenge) phase is the re-exposure step with degranulation and symptoms, which is the fourth panel, not the first three."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-008_12_p4_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
         "whyCorrect": "Preformed histamine (a biogenic amine) is released immediately on degranulation and causes vasodilation, vascular leak, and bronchoconstriction. Enzymes (tryptase) cause tissue damage, cytokines (TNF) drive later inflammation, and lipid mediators sustain the response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Leukotriene B4 is a newly synthesized chemoattractant for neutrophils, not the main mediator of immediate vasodilation.",
+          "B": "Perforin is a cytotoxic granule protein of CTLs and NK cells, not a mast cell mediator.",
+          "D": "TNF is a cytokine that drives later inflammation and leukocyte recruitment rather than the immediate vascular response.",
+          "E": "Tryptase is a preformed protease used as a marker of mast cell activation, not the main cause of vasodilation and vascular leak."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-009_12_p6_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
         "whyCorrect": "The immediate wheal (edema from vascular leak) and flare (vasodilation) result from mast-cell degranulation and histamine release in a type I reaction. A late-phase reaction with eosinophils can follow hours later.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Immune complex deposition causes an Arthus reaction that peaks after 4-12 hours with hemorrhage and necrosis, not within minutes.",
+          "C": "Neutrophil proteases contribute to later tissue injury, not to an immediate wheal and flare.",
+          "D": "T-cell cytokines produce induration at 48-72 hours, as in the tuberculin test, not a reaction within minutes.",
+          "E": "Complement-fixing IgG mediates type II and III injury, not the immediate histamine-driven wheal of type I hypersensitivity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-010_12_p8_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
         "whyCorrect": "Histamine drives the rapid early bronchoconstriction, but newly synthesized cysteinyl leukotrienes are potent, long-acting bronchoconstrictors and pro-inflammatory mediators that dominate the late asthmatic response, which is why leukotriene-modifying drugs are useful.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgE arms mast cells but is not itself a bronchoconstrictor; mediators released after cross-linking cause the airway response.",
+          "C": "Prostacyclin is a vasodilator and platelet inhibitor, not a major bronchoconstrictor in asthma.",
+          "D": "Histamine is short-acting and drives the early bronchoconstriction, not the sustained late-phase response.",
+          "E": "C3a is an anaphylatoxin with minor smooth-muscle effects and is not the principal driver of late asthmatic bronchoconstriction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-011_13_p11_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
         "whyCorrect": "Systemic mast-cell/basophil degranulation causes anaphylaxis, with airway edema, bronchospasm, and distributive shock from widespread vasodilation and vascular leak. It requires immediate epinephrine.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Localized urticaria is limited to the skin and does not cause airway swelling, bronchospasm, or hypotension.",
+          "B": "Serum sickness is a type III reaction appearing 1-2 weeks after exposure, with fever, rash, and arthralgia rather than immediate multi-organ collapse.",
+          "C": "An Arthus reaction is a localized type III reaction at an injection site, developing over hours.",
+          "D": "Allergic contact dermatitis is a delayed, T-cell-mediated skin reaction without systemic shock or bronchospasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-012_13_p15_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
         "whyCorrect": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Erythema multiforme produces fixed target lesions with dusky centers, often after HSV infection or drugs, not fleeting blanching wheals.",
+          "B": "Allergic contact dermatitis is a delayed eczematous or vesicular eruption at the contact site, not transient raised wheals.",
+          "C": "Petechiae are flat, pinpoint hemorrhages that do not blanch with pressure.",
+          "D": "Cellulitis is a warm, tender, spreading bacterial skin infection, not intensely itchy wheals that come and go."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-013_13_p4_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
         "whyCorrect": "Skin-prick testing detects allergen-specific IgE bound to cutaneous mast cells: a positive result is an immediate wheal-and-flare within ~15-20 minutes, characteristic of type I hypersensitivity. (Patch testing, read at 48-72 h, assesses type IV.)",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type IV hypersensitivity is tested with patch tests read at 48-72 hours, not an immediate prick-test wheal.",
+          "B": "Autoimmunity is evaluated with autoantibody serology, not skin pricks with allergen extracts.",
+          "D": "Type II reactions are assessed with tests such as the direct Coombs test, not skin pricks.",
+          "E": "Type III reactions are evaluated with complement levels, immune complex assays, or biopsy, not skin-prick testing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-014_13_p8_1.png",

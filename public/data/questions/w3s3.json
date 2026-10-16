@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Epiblast cells migrate through the primitive streak to generate endoderm, mesoderm, and ectoderm during gastrulation. The primitive node organizes the body axis; neural tube closure (neurulation) occurs afterward.",
         "whyCorrect": "Epiblast cells migrate through the primitive streak to generate endoderm, mesoderm, and ectoderm during gastrulation. The primitive node organizes the body axis; neural tube closure (neurulation) occurs afterward.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fertilization occurs in the ampulla before cleavage, days before a bilaminar disc or primitive streak exists.",
+          "B": "Neurulation follows gastrulation; the notochord induces the overlying ectoderm to form the neural plate after the streak has generated three germ layers.",
+          "C": "Placental villi form from trophoblast (syncytio- and cytotrophoblast) with extraembryonic mesoderm; the primitive streak is an embryonic disc structure that makes germ layers.",
+          "E": "Implantation of the blastocyst occurs in the second week, before the bilaminar disc develops a primitive streak in the third week."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-114_23_p2_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The third pharyngeal pouch forms the thymus and inferior parathyroid glands. Failure of third/fourth pouch development causes DiGeorge syndrome (thymic aplasia with T-cell deficiency and hypocalcemia).",
         "whyCorrect": "The third pharyngeal pouch forms the thymus and inferior parathyroid glands. Failure of third/fourth pouch development causes DiGeorge syndrome (thymic aplasia with T-cell deficiency and hypocalcemia).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The bursa of Fabricius is the avian B-cell organ derived from the cloaca; humans have no bursa, and the third pouch forms the thymus.",
+          "B": "The spleen develops from mesenchyme in the dorsal mesogastrium, not from a pharyngeal pouch, and it is a secondary lymphoid organ.",
+          "C": "Bone marrow is a primary lymphoid organ, but it arises within developing bones from mesoderm, not from pharyngeal pouch endoderm.",
+          "E": "The palatine tonsil derives from the second pharyngeal pouch and is a secondary lymphoid organ, not the third-pouch derivative."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-115_23_p3_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The whorled eosinophilic Hassall's corpuscles in the medulla are characteristic of the thymus, where developing T cells undergo positive selection (cortex) and negative selection (medulla). The left diagram shows its pharyngeal arch/pouch origin.",
         "whyCorrect": "The whorled eosinophilic Hassall's corpuscles in the medulla are characteristic of the thymus, where developing T cells undergo positive selection (cortex) and negative selection (medulla). The left diagram shows its pharyngeal arch/pouch origin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A lymph node has a cortex with follicles, a paracortex and medullary cords and sinuses, but no Hassall's corpuscles.",
+          "C": "The spleen is organized into white pulp (periarteriolar sheaths and follicles) and red pulp with sinusoids, not cortex and medulla with keratinized whorls.",
+          "D": "The parathyroid gland consists of chief and oxyphil cells in cords with fat; it lacks lymphoid cortex and medulla and has no Hassall's corpuscles.",
+          "E": "The palatine tonsil is covered by stratified squamous epithelium with deep crypts and lymphoid follicles; it lacks a cortex-medulla arrangement with Hassall's corpuscles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-116_23_p8_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Maternal IgG crosses the placenta and protects the newborn, then declines over the first months of life. Because the infant's own IgG synthesis ramps up more slowly, a transient physiologic hypogammaglobulinemia appears around 3-6 months.",
         "whyCorrect": "Maternal IgG crosses the placenta and protects the newborn, then declines over the first months of life. Because the infant's own IgG synthesis ramps up more slowly, a transient physiologic hypogammaglobulinemia appears around 3-6 months.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "BTK mutation (X-linked agammaglobulinemia) causes persistent absence of B cells and all immunoglobulins, not a transient physiologic dip that recovers.",
+          "B": "Breast-milk IgA acts locally in the gut and is not absorbed to raise serum IgG; the dip shown is in serum IgG.",
+          "D": "DiGeorge syndrome is a pathologic thymic defect with hypocalcemia and T-cell deficiency; the 3-6 month IgG nadir occurs in every healthy infant.",
+          "E": "There is no autoantibody destruction of infant plasma cells; the nadir reflects normal catabolism of maternal IgG before the infant's own production rises."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-140_23_p10_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Secretory IgA in breast milk and colostrum coats the neonatal gut mucosa, providing passive mucosal immunity. M cells overlying Peyer's patches sample luminal antigen, but the infant's own robust secretory IgA production develops only over the first months.",
         "whyCorrect": "Secretory IgA in breast milk and colostrum coats the neonatal gut mucosa, providing passive mucosal immunity. M cells overlying Peyer's patches sample luminal antigen, but the infant's own robust secretory IgA production develops only over the first months.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transplacental transfer carries maternal IgG via FcRn, not IgA; secretory IgA does not cross the placenta.",
+          "C": "Fetal plasma cells produce little immunoglobulin, and mucosal secretory IgA comes from plasma cells in the lamina propria, which matures only over the first months.",
+          "D": "Complement-derived opsonins such as C3b are not antibodies and are not secreted onto the gut lumen as secretory IgA.",
+          "E": "Paneth cells secrete defensins, lysozyme and phospholipase A2, not IgA; IgA is made by lamina propria plasma cells and transported by epithelial poly-Ig receptor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-141_23_p13_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Hematopoiesis begins in the yolk sac, shifts to the fetal liver (with a brief splenic contribution) in mid-gestation, then moves to the bone marrow, which becomes the definitive site by birth and remains so in adults.",
         "whyCorrect": "Hematopoiesis begins in the yolk sac, shifts to the fetal liver (with a brief splenic contribution) in mid-gestation, then moves to the bone marrow, which becomes the definitive site by birth and remains so in adults.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bone marrow becomes dominant only in the last trimester and after birth; at months 4-6 the liver is the main site.",
+          "B": "Lymph nodes are not a significant site of fetal hematopoiesis; they host lymphocyte responses rather than producing the full range of blood cells.",
+          "D": "The yolk sac is the earliest site, in roughly the first 2 months, and has largely ceded production to the liver by mid-gestation.",
+          "E": "The thymus is where T cells mature, not a general site of blood-cell production during fetal life."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-142_23_p4_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Many tissue-resident macrophages arise from yolk-sac and fetal-liver progenitors during embryogenesis and maintain themselves by local self-renewal, largely independent of adult bone-marrow-derived monocytes.",
         "whyCorrect": "Many tissue-resident macrophages arise from yolk-sac and fetal-liver progenitors during embryogenesis and maintain themselves by local self-renewal, largely independent of adult bone-marrow-derived monocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Adult bone-marrow monocytes replenish some macrophage populations (e.g., gut, dermis) and inflammatory macrophages, but long-lived microglia and alveolar macrophages self-renew from embryonic precursors.",
+          "B": "Thymic epithelial cells derive from third-pouch endoderm and support T-cell selection; they are not hematopoietic and do not give rise to macrophages.",
+          "D": "Neural crest gives rise to melanocytes, peripheral neurons, Schwann cells and craniofacial structures; macrophages are hematopoietic, including microglia from yolk-sac progenitors.",
+          "E": "Marginal-zone B cells are lymphocytes that make rapid antibody against blood-borne antigens; they do not differentiate into tissue macrophages."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-143_23_p6_1.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "In molecular mimicry, antibodies or T cells raised against a pathogen cross-react with structurally similar self-antigens. Antibodies against group A streptococcal M protein cross-react with cardiac myosin and valve tissue, producing rheumatic fever.",
         "whyCorrect": "In molecular mimicry, antibodies or T cells raised against a pathogen cross-react with structurally similar self-antigens. Antibodies against group A streptococcal M protein cross-react with cardiac myosin and valve tissue, producing rheumatic fever.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wilson disease is an autosomal recessive defect in ATP7B copper excretion causing hepatic and basal ganglia copper deposition; it has no link to streptococcal infection or molecular mimicry.",
+          "C": "Sickle cell disease is a hemoglobin beta-chain point mutation (Glu6Val) causing red-cell sickling; it is a genetic hemoglobinopathy, not a post-streptococcal autoimmune process.",
+          "D": "Cystic fibrosis results from CFTR chloride-channel mutations producing thick secretions; it is inherited and unrelated to antibodies against streptococcal M protein.",
+          "E": "Hemochromatosis is iron overload, usually from HFE mutations, damaging liver, pancreas and heart; any cardiomyopathy is from iron deposition, not cross-reacting anti-streptococcal immunity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-029_21_p11_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "This is epitope spreading: cell injury during infection releases hidden self-antigens that are taken up and presented, activating autoreactive lymphocytes. The immune response then expands beyond the original microbial target to self-tissues, contributing to autoimmune disease.",
         "whyCorrect": "This is epitope spreading: cell injury during infection releases hidden self-antigens that are taken up and presented, activating autoreactive lymphocytes. The immune response then expands beyond the original microbial target to self-tissues, contributing to autoimmune disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The defining feature here is that uninfected cells are attacked; no pathogen infects every host cell at once, and the broadening comes from newly presented self-antigens.",
+          "C": "Complement does not lyse every cell indiscriminately; host cells carry regulators such as CD59 and DAF, and the sequence shown depends on antigen presentation to autoreactive T cells.",
+          "D": "The thymus does not generate self-reactive clones on demand; autoreactive T cells already exist in the periphery and are activated when sequestered self-antigens are released and presented.",
+          "E": "Maternal autoantibody transfer causes transient neonatal disease (e.g., neonatal lupus) and plays no role in an infection-triggered response that spreads to the host's own uninfected cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-030_21_p13_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "HLA-DR, -DP, and -DQ are MHC class II molecules expressed on professional antigen-presenting cells. They present exogenously derived peptides to CD4+ helper T cells, whose TCR, together with the CD4 co-receptor binding MHC II, recognizes the peptide-MHC complex.",
         "whyCorrect": "HLA-DR, -DP, and -DQ are MHC class II molecules expressed on professional antigen-presenting cells. They present exogenously derived peptides to CD4+ helper T cells, whose TCR, together with the CD4 co-receptor binding MHC II, recognizes the peptide-MHC complex.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "B cells recognize native, unprocessed antigen through the B-cell receptor; they do not read peptide in an MHC groove, though they themselves present peptide on MHC II to helper T cells.",
+          "B": "NK cells use inhibitory receptors (KIRs, CD94/NKG2A) that sense MHC class I levels; they do not recognize peptides presented by class II HLA-DR.",
+          "C": "Neutrophils are innate phagocytes that recognize microbes via pattern-recognition and Fc/complement receptors; they lack a T-cell receptor and are not targets of MHC II presentation.",
+          "E": "CD8+ cytotoxic T cells recognize peptide on MHC class I (HLA-A, -B, -C), with CD8 binding the class I alpha-3 domain; HLA-DR is class II and engages CD4."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-031_21_p8_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Autoinflammatory disorders arise from dysregulated innate immunity (e.g., inflammasome/IL-1 overactivation) without autoantibodies or antigen-specific T cells, causing recurrent unprovoked inflammation. Autoimmune disorders at the other end involve the adaptive system, with autoreactive T cells and autoantibodies against specific self-antigens.",
         "whyCorrect": "Autoinflammatory disorders arise from dysregulated innate immunity (e.g., inflammasome/IL-1 overactivation) without autoantibodies or antigen-specific T cells, causing recurrent unprovoked inflammation. Autoimmune disorders at the other end involve the adaptive system, with autoreactive T cells and autoantibodies against specific self-antigens.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Complement can contribute to inflammation, but autoinflammatory syndromes such as FMF and CAPS stem from inflammasome/IL-1 dysregulation, not exclusively from complement.",
+          "B": "IgE-mediated hypersensitivity is antigen-specific type I allergy via mast cells; autoinflammatory fevers occur without allergen exposure or IgE involvement.",
+          "D": "Autoantibodies and autoreactive T cells define the autoimmune end of this spectrum (SLE, myasthenia gravis), not the autoinflammatory end where innate pathways are dysregulated.",
+          "E": "Maternally transferred antibodies cause only transient neonatal disease; familial Mediterranean fever and CAPS are inherited defects in innate inflammatory signaling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-132_21_p2_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "AIRE (autoimmune regulator) drives thymic expression of peripheral self-antigens so self-reactive T cells are deleted (central tolerance). AIRE mutations impair this negative selection, allowing autoreactive T cells to escape and cause autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED).",
         "whyCorrect": "AIRE (autoimmune regulator) drives thymic expression of peripheral self-antigens so self-reactive T cells are deleted (central tolerance). AIRE mutations impair this negative selection, allowing autoreactive T cells to escape and cause autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "SCID results from defective lymphocyte development (e.g., IL2RG, ADA, RAG mutations) causing absent T-cell function and severe infections, not escape of autoreactive T cells.",
+          "C": "Chronic granulomatous disease is a phagocyte NADPH oxidase defect causing catalase-positive infections and granulomas; it involves innate killing, not thymic negative selection.",
+          "D": "Selective IgA deficiency is a failure of IgA class switching/production, often asymptomatic with mucosal infections; it is unrelated to AIRE-driven thymic self-antigen expression.",
+          "E": "Hereditary angioedema is C1-esterase inhibitor deficiency with bradykinin-mediated swelling; it is a complement regulatory defect, not a failure of central T-cell tolerance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-133_21_p4_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Tumor or viral downregulation of MHC I lets cells evade CD8+ T cells but simultaneously removes the inhibitory signal to NK cells. Reduced 'self' MHC together with activating-ligand engagement and cytokines triggers NK-mediated perforin/granzyme killing (the missing-self hypothesis).",
         "whyCorrect": "Tumor or viral downregulation of MHC I lets cells evade CD8+ T cells but simultaneously removes the inhibitory signal to NK cells. Reduced 'self' MHC together with activating-ligand engagement and cytokines triggers NK-mediated perforin/granzyme killing (the missing-self hypothesis).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NK cells are innate lymphocytes that kill without prior priming in lymph nodes; the need for dendritic-cell priming applies to naive T cells.",
+          "B": "The opposite is true: high MHC class I engages NK inhibitory receptors and protects a cell, whereas the tumor here has lost MHC I, which releases NK inhibition.",
+          "C": "NK cells lack a rearranged antigen receptor; they use germline-encoded activating and inhibitory receptors, which is why loss of peptide-MHC does not blind them.",
+          "E": "CD16-mediated antibody-dependent cytotoxicity is one NK pathway, but it is not required; the killing here depends on missing-self recognition of absent MHC I."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-032_22_p4_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Downregulating MHC I evades CTLs but sensitizes the tumor to NK cells, which kill targets lacking inhibitory MHC I. Other escape strategies depicted include tolerization by APCs, antigen modulation, secretion of TGF-beta/IL-10, and creation of an immune-privileged barrier.",
         "whyCorrect": "Downregulating MHC I evades CTLs but sensitizes the tumor to NK cells, which kill targets lacking inhibitory MHC I. Other escape strategies depicted include tolerization by APCs, antigen modulation, secretion of TGF-beta/IL-10, and creation of an immune-privileged barrier.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Naive B cells recognize antigen via surface immunoglobulin and need activation and differentiation to act; they are not cytotoxic and cannot directly lyse tumor cells.",
+          "B": "CD8+ CTLs require peptide presented on MHC class I, so a tumor that has lost MHC I is precisely the target they can no longer recognize.",
+          "C": "Plasma cells are terminally differentiated antibody factories; they do not kill cells directly and have no mechanism to detect absent MHC I.",
+          "E": "Eosinophils mainly target helminths through major basic protein and ADCC via IgE; they are not the effector that senses missing MHC class I on tumors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-060_22_p5_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Hyperacute rejection is mediated by preformed recipient antibodies against donor HLA or ABO antigens, causing immediate complement activation, thrombosis, and endothelial injury. A pre-transplant crossmatch (mixing recipient serum with donor lymphocytes) detects such antibodies so incompatible grafts are avoided.",
         "whyCorrect": "Hyperacute rejection is mediated by preformed recipient antibodies against donor HLA or ABO antigens, causing immediate complement activation, thrombosis, and endothelial injury. A pre-transplant crossmatch (mixing recipient serum with donor lymphocytes) detects such antibodies so incompatible grafts are avoided.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The Mantoux (PPD) skin test detects delayed-type hypersensitivity to tuberculin, screening for latent TB; it does not detect anti-HLA antibodies.",
+          "B": "Serum creatinine tracks renal graft function after transplant; it cannot identify preformed recipient antibodies before the organ is placed.",
+          "C": "The ESR is a nonspecific marker of inflammation and gives no information about donor-specific anti-HLA antibodies.",
+          "D": "A complete blood count measures cell numbers; it does not test whether recipient serum reacts against donor lymphocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-084_22_p10_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "MHC polymorphism clusters in the peptide-binding cleft (alpha-1/alpha-2 for class I; alpha-1/beta-1 for class II), diversifying the repertoire of peptides presented across a population. Framework and membrane-proximal domains such as beta-2 microglobulin are conserved.",
         "whyCorrect": "MHC polymorphism clusters in the peptide-binding cleft (alpha-1/alpha-2 for class I; alpha-1/beta-1 for class II), diversifying the repertoire of peptides presented across a population. Framework and membrane-proximal domains such as beta-2 microglobulin are conserved.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The short cytoplasmic tail is relatively conserved; variability there would not alter which peptides are bound and presented.",
+          "C": "The variability plots show sharp peaks, not uniform variation; polymorphism clusters at peptide-contacting residues of the alpha-1/alpha-2 (or alpha-1/beta-1) domains.",
+          "D": "Beta-2 microglobulin is nonpolymorphic and encoded outside the MHC on chromosome 15; it is the invariant light chain of class I.",
+          "E": "The transmembrane anchor is conserved because it only tethers the molecule; it plays no role in peptide selection."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-123_22_p7_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Acute rejection occurs days to weeks after transplantation and is driven chiefly by recipient T cells (notably CD8+ cytotoxic T cells) recognizing donor HLA, with a variable antibody-mediated component (endothelialitis). It is distinct from antibody-driven hyperacute rejection (minutes-hours) and chronic rejection (months-years).",
         "whyCorrect": "Acute rejection occurs days to weeks after transplantation and is driven chiefly by recipient T cells (notably CD8+ cytotoxic T cells) recognizing donor HLA, with a variable antibody-mediated component (endothelialitis). It is distinct from antibody-driven hyperacute rejection (minutes-hours) and chronic rejection (months-years).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "IgE-mediated hypersensitivity drives allergy and anaphylaxis, not graft rejection; acute rejection is driven by alloreactive T cells against donor HLA.",
+          "C": "Intimal fibrosis and vascular narrowing developing over months to years describe chronic rejection, not the days-to-weeks T-cell attack shown.",
+          "D": "Preformed recipient antibodies cause hyperacute rejection within minutes to hours, which a crossmatch is designed to prevent; this process develops over days to weeks.",
+          "E": "Complement deficiency would, if anything, reduce antibody-mediated graft injury; it is not a mechanism of rejection."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-137_22_p12_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Chronic rejection is driven by recipient CD4+ T cells and macrophages responding to graft alloantigens, secreting cytokines that stimulate intimal smooth-muscle proliferation and fibrosis, progressively occluding vessels over months to years. Hyperacute rejection (preformed antibodies) occurs in minutes and acute rejection over days to weeks.",
         "whyCorrect": "Chronic rejection is driven by recipient CD4+ T cells and macrophages responding to graft alloantigens, secreting cytokines that stimulate intimal smooth-muscle proliferation and fibrosis, progressively occluding vessels over months to years. Hyperacute rejection (preformed antibodies) occurs in minutes and acute rejection over days to weeks.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Granulomatous destruction of intrahepatic bile ducts describes primary biliary cholangitis; chronic liver rejection causes ductopenia, but the defining vascular lesion is intimal hyperplasia.",
+          "B": "Fibrinoid necrosis with neutrophils within minutes is the picture of hyperacute rejection, not a process unfolding over months to years.",
+          "C": "Platelet thrombi with hemorrhage reflect hyperacute or acute antibody-mediated injury; chronic rejection produces gradual fibrotic occlusion rather than abrupt hemorrhage.",
+          "D": "Complement-mediated endothelial lysis by preformed antibodies is hyperacute rejection, occurring at reperfusion rather than over years."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-138_22_p14_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Second-set rejection is faster and more vigorous because the first exposure generated antigen-specific memory T lymphocytes against strain A alloantigens. Specificity and memory are defining features of the adaptive immune response.",
         "whyCorrect": "Second-set rejection is faster and more vigorous because the first exposure generated antigen-specific memory T lymphocytes against strain A alloantigens. Specificity and memory are defining features of the adaptive immune response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Complement activation is innate and nonspecific; it would not speed rejection only of a second graft from the same strain, which shows specificity and memory.",
+          "B": "The second strain A graft carries the same MHC as the first; loss of MHC would slow, not accelerate, T-cell recognition and rejection.",
+          "C": "Wound healing does not reject grafts; second-set rejection is an immune response that is faster only for grafts sharing the first donor's antigens.",
+          "E": "The adult mouse received no maternal antibody between grafts; the faster rejection reflects its own memory T cells generated by the first graft."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-139_22_p16_1.png",

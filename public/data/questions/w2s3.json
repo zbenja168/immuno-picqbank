@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Antinuclear antibody testing uses indirect immunofluorescence: patient antibodies bind nuclear antigens on fixed cells, then a fluorescently labeled anti-human antibody detects them, producing characteristic patterns (homogeneous, speckled, nucleolar, centromere).",
         "whyCorrect": "Antinuclear antibody testing uses indirect immunofluorescence: patient antibodies bind nuclear antigens on fixed cells, then a fluorescently labeled anti-human antibody detects them, producing characteristic patterns (homogeneous, speckled, nucleolar, centromere).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The direct Coombs test detects antibody or complement already on a patient's red cells by agglutination, not fluorescent nuclear patterns.",
+          "B": "A Western blot separates proteins by electrophoresis and detects bands on a membrane, not staining patterns on whole cells.",
+          "C": "Sandwich ELISA measures antigen captured between two antibodies in a microplate, read by color change rather than microscopy.",
+          "D": "Flow cytometry measures fluorescence on individual cells in suspension and does not produce nuclear staining patterns on fixed substrate cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-022_17_p5_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "ELISA uses an enzyme-linked antibody and a chromogenic substrate to quantify antigen or antibody. The enzyme converts substrate into a colored product whose intensity is proportional to the amount of target, read by a spectrophotometer.",
         "whyCorrect": "ELISA uses an enzyme-linked antibody and a chromogenic substrate to quantify antigen or antibody. The enzyme converts substrate into a colored product whose intensity is proportional to the amount of target, read by a spectrophotometer.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Southern blot detects DNA sequences by hybridization after electrophoresis, not antigen with an enzyme-linked antibody.",
+          "C": "Immunofluorescence microscopy uses fluorophore-labeled antibodies viewed on cells, not enzyme-generated color in a well.",
+          "D": "An agglutination assay detects visible clumping of particles or cells, not an enzyme-substrate color change.",
+          "E": "PCR amplifies nucleic acids with DNA polymerase and does not use antibodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-023_17_p7_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "In a sandwich ELISA the target antigen is trapped between two antibodies, an immobilized capture antibody and a labeled detection antibody binding a separate epitope, giving high specificity and sensitivity for measuring antigen.",
         "whyCorrect": "In a sandwich ELISA the target antigen is trapped between two antibodies, an immobilized capture antibody and a labeled detection antibody binding a separate epitope, giving high specificity and sensitivity for measuring antigen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Western blot detects proteins separated by gel electrophoresis on a membrane, not antigen captured in a microplate well.",
+          "B": "Indirect ELISA immobilizes antigen and detects bound primary antibody with a labeled secondary antibody, with no capture antibody.",
+          "C": "Competitive ELISA measures signal that falls as sample antigen competes with labeled antigen for limited antibody.",
+          "E": "Direct ELISA immobilizes antigen and detects it with a single labeled antibody, without a capture antibody."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-024_17_p8_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "X-linked SCID results from mutation of IL2RG, encoding the common gamma chain shared by receptors for IL-2, -4, -7, -9, -15, and -21. Loss of IL-7 signaling blocks T-cell development and loss of IL-15 blocks NK development, while B cells are spared (T-B+NK-).",
         "whyCorrect": "X-linked SCID results from mutation of IL2RG, encoding the common gamma chain shared by receptors for IL-2, -4, -7, -9, -15, and -21. Loss of IL-7 signaling blocks T-cell development and loss of IL-15 blocks NK development, while B cells are spared (T-B+NK-).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "IL-8 and chemokines signal through G-protein-coupled receptors, not the common gamma chain.",
+          "C": "IFN-gamma and IL-12 signal through their own receptors; defects in this axis cause mycobacterial susceptibility, not T-B+NK- SCID.",
+          "D": "IL-1, IL-6, and TNF-alpha use distinct receptors (IL-1R, gp130, TNFR) unrelated to the common gamma chain.",
+          "E": "TGF-beta signals through serine-threonine kinase receptors and IL-10 through its own receptor, not the common gamma chain."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-058_17_p13_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "TRECs (T-cell receptor excision circles) are DNA circles excised during TCR gene rearrangement and serve as a marker of recent thymic T-cell output. In SCID, thymic T-cell development fails, so TRECs are very low or undetectable, the basis for newborn SCID screening.",
         "whyCorrect": "TRECs (T-cell receptor excision circles) are DNA circles excised during TCR gene rearrangement and serve as a marker of recent thymic T-cell output. In SCID, thymic T-cell development fails, so TRECs are very low or undetectable, the basis for newborn SCID screening.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "TRECs are DNA circles inside T cells and do not leak through capillaries.",
+          "B": "Many forms of SCID lack B cells too, and the assay counts TREC copies directly rather than being diluted by other cells.",
+          "C": "TRECs are intracellular DNA and are not targets of complement.",
+          "E": "Infants with SCID cannot mount antibody responses, and autoantibodies do not consume intracellular DNA circles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-059_17_p19_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Forward scatter correlates with cell size, while side scatter reflects internal complexity/granularity. Granulocytes (neutrophils, eosinophils, basophils) are packed with cytoplasmic granules, giving them the highest SSC and separating them from monocytes and lymphocytes.",
         "whyCorrect": "Forward scatter correlates with cell size, while side scatter reflects internal complexity/granularity. Granulocytes (neutrophils, eosinophils, basophils) are packed with cytoplasmic granules, giving them the highest SSC and separating them from monocytes and lymphocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CD3 marks T cells and is measured with fluorescent antibodies, not side scatter; granulocytes do not express it.",
+          "B": "Cell diameter is reflected by forward scatter, not side scatter.",
+          "D": "Membrane cholesterol does not meaningfully change light scatter.",
+          "E": "Granulocytes have normal diploid DNA; nuclear DNA content is measured with DNA dyes, not side scatter."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-071_17_p11_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "CFSE binds intracellular proteins and is divided equally between daughter cells at each division, so fluorescence per cell halves with every round. Successive leftward peaks mark cell generations, making CFSE dilution a readout of proliferation.",
         "whyCorrect": "CFSE binds intracellular proteins and is divided equally between daughter cells at each division, so fluorescence per cell halves with every round. Successive leftward peaks mark cell generations, making CFSE dilution a readout of proliferation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Antibody secretion is measured by ELISA or ELISpot and does not dilute an intracellular dye.",
+          "B": "Apoptosis is assessed with annexin V or viability dyes; dying cells do not produce stepwise halving of CFSE peaks.",
+          "C": "Class switching is detected by staining for surface isotypes, not by loss of CFSE fluorescence.",
+          "E": "Activation markers are measured with specific antibodies such as anti-CD69 or anti-CD25, unrelated to CFSE dilution."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-072_17_p15_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "A lymphocyte proliferation (stimulation index) assay measures the ability of T cells to divide in response to mitogens. A flat response (SI approximately 1) indicates absent T-cell function, as seen in severe combined immunodeficiency and other T-cell defects.",
         "whyCorrect": "A lymphocyte proliferation (stimulation index) assay measures the ability of T cells to divide in response to mitogens. A flat response (SI approximately 1) indicates absent T-cell function, as seen in severe combined immunodeficiency and other T-cell defects.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Excessive polyclonal B-cell activation would increase, not abolish, the proliferative response.",
+          "C": "An acute viral infection may modestly alter responses but does not reduce mitogen-driven proliferation to zero.",
+          "D": "A normal, robust response is what the control shows; the patient's stimulation index of 1 means no proliferation.",
+          "E": "A neutrophil disorder would not affect lymphocyte proliferation to mitogens."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-073_17_p16_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "CD19 is a pan-B-cell marker and CD3 marks T cells. CD19+CD3- events (upper left) are B cells, while CD19-CD3+ events (lower right) are T cells. This gating quantifies B- and T-cell proportions in a sample.",
         "whyCorrect": "CD19 is a pan-B-cell marker and CD3 marks T cells. CD19+CD3- events (upper left) are B cells, while CD19-CD3+ events (lower right) are T cells. This gating quantifies B- and T-cell proportions in a sample.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neutrophils express neither CD19 nor CD3 and are usually gated out by scatter properties.",
+          "B": "T lymphocytes are CD3-positive and CD19-negative, so they fall in the lower-right region.",
+          "C": "Monocytes express CD14 but not CD19 or CD3.",
+          "E": "NK cells are CD3-negative and CD19-negative, identified by CD16 and CD56 instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-074_17_p26_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Agglutination occurs when a reagent antibody binds a matching red-cell antigen. Clumping with anti-A indicates the A antigen; clumping with anti-D (anti-Rh) indicates Rh(D) positivity; no reaction with anti-B excludes the B antigen. The type is therefore A positive.",
         "whyCorrect": "Agglutination occurs when a reagent antibody binds a matching red-cell antigen. Clumping with anti-A indicates the A antigen; clumping with anti-D (anti-Rh) indicates Rh(D) positivity; no reaction with anti-B excludes the B antigen. The type is therefore A positive.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A negative would show no agglutination with anti-D, but this sample clumped with anti-D.",
+          "C": "B positive would agglutinate with anti-B, not anti-A, and this sample stayed smooth with anti-B.",
+          "D": "O negative would show no agglutination with anti-A, anti-B, or anti-D.",
+          "E": "AB positive would clump with anti-B as well as anti-A, but the anti-B well stayed smooth."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-111_17_p3_1.png",

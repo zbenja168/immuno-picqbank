@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The figure illustrates clonal selection. A vast repertoire of lymphocytes, each with a unique pre-formed receptor, exists before any antigen is encountered. Antigen does not instruct receptor shape; it simply selects and activates the pre-existing clone whose receptor already fits, driving that clone's proliferation and antibody production. This refutes the older instructional theory of antibody formation.",
         "whyCorrect": "The figure illustrates clonal selection. A vast repertoire of lymphocytes, each with a unique pre-formed receptor, exists before any antigen is encountered. Antigen does not instruct receptor shape; it simply selects and activates the pre-existing clone whose receptor already fits, driving that clone's proliferation and antibody production. This refutes the older instructional theory of antibody formation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "This describes the discredited instructional theory; antigen does not mold the receptor around itself.",
+          "B": "Specificity is fixed by gene rearrangement and inherited by all daughter cells of a clone, not reassigned at each division.",
+          "C": "Lymphocytes recognize antigen through surface receptors; they do not fuse with antigen to acquire specificity.",
+          "D": "Antigen concentration influences how strongly a clone is activated, but not which specificity the receptor has."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-042_7_p12_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The figure depicts affinity maturation. In the germinal center, activation-induced cytidine deaminase drives somatic hypermutation, introducing point mutations into the immunoglobulin variable regions. B cells whose mutated receptors bind antigen with higher affinity are preferentially selected to survive and proliferate, while lower-affinity clones undergo apoptosis. Class switching changes isotype/effector function but not affinity; V(D)J recombination creates the initial repertoire, not the fine-tuned variants.",
         "whyCorrect": "The figure depicts affinity maturation. In the germinal center, activation-induced cytidine deaminase drives somatic hypermutation, introducing point mutations into the immunoglobulin variable regions. B cells whose mutated receptors bind antigen with higher affinity are preferentially selected to survive and proliferate, while lower-affinity clones undergo apoptosis. Class switching changes isotype/effector function but not affinity; V(D)J recombination creates the initial repertoire, not the fine-tuned variants.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "V(D)J recombination in the bone marrow creates the initial naive repertoire before antigen exposure, not the variants selected in germinal centers.",
+          "B": "Isotype switching changes the constant region and effector function but leaves the variable region and affinity unchanged.",
+          "D": "Allelic exclusion ensures each B cell expresses one receptor specificity; it does not create higher-affinity variants.",
+          "E": "Gene conversion of MHC alleles is unrelated to antibody affinity; it concerns antigen-presenting molecules, not B-cell receptors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-043_7_p13_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Papain cleaves the immunoglobulin on the amino-terminal side of the hinge disulfide bonds, yielding two identical monovalent Fab fragments (each with one antigen-binding site) and one Fc fragment (which mediates effector functions and binds complement/Fc receptors). Pepsin, in contrast, cleaves below the hinge to give a single divalent F(ab')2 fragment plus a degraded Fc.",
         "whyCorrect": "Papain cleaves the immunoglobulin on the amino-terminal side of the hinge disulfide bonds, yielding two identical monovalent Fab fragments (each with one antigen-binding site) and one Fc fragment (which mediates effector functions and binds complement/Fc receptors). Pepsin, in contrast, cleaves below the hinge to give a single divalent F(ab')2 fragment plus a degraded Fc.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Each antibody has only one Fc region but two antigen-binding arms, so papain cannot yield two Fc fragments.",
+          "C": "Separating heavy and light chains requires reducing the interchain disulfide bonds, not proteolytic cleavage at the hinge.",
+          "D": "One F(ab')2 fragment results from pepsin, which cuts below the hinge disulfides and degrades the Fc.",
+          "E": "Papain digestion produces the antigen-binding arms as well; it does not leave only Fc material."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-044_7_p3_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Junctional diversity arises when segment ends are trimmed and when non-templated nucleotides are inserted at the V(D)J joins. Terminal deoxynucleotidyl transferase (TdT) adds these N-region nucleotides, greatly increasing repertoire diversity (raising Ig from ~10^6 to ~10^11 combinations). RAG1/2 cut the DNA to initiate recombination but do not add N-nucleotides; AID drives somatic hypermutation and class switching later in mature B cells.",
         "whyCorrect": "Junctional diversity arises when segment ends are trimmed and when non-templated nucleotides are inserted at the V(D)J joins. Terminal deoxynucleotidyl transferase (TdT) adds these N-region nucleotides, greatly increasing repertoire diversity (raising Ig from ~10^6 to ~10^11 combinations). RAG1/2 cut the DNA to initiate recombination but do not add N-nucleotides; AID drives somatic hypermutation and class switching later in mature B cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "RAG1 and RAG2 cut DNA at recombination signal sequences to start V(D)J joining, but they do not add non-templated nucleotides.",
+          "B": "AID acts later in mature, antigen-activated B cells to drive somatic hypermutation and class switching, not junctional N-additions.",
+          "C": "DNA polymerase III is the main replicative polymerase of bacteria and has no role in lymphocyte receptor recombination.",
+          "D": "RNA ligases join RNA ends during processes such as tRNA splicing; they do not add nucleotides to DNA junctions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-045_7_p7_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The two disulfide-linked chains each contain one variable and one constant immunoglobulin-like domain, identifying the alpha-beta T-cell receptor. The variable domains (Valpha/Vbeta) form the antigen-binding site that recognizes peptide presented on MHC. Unlike membrane immunoglobulin on B cells, the TCR is not secreted and recognizes only processed peptide-MHC, not soluble native antigen.",
         "whyCorrect": "The two disulfide-linked chains each contain one variable and one constant immunoglobulin-like domain, identifying the alpha-beta T-cell receptor. The variable domains (Valpha/Vbeta) form the antigen-binding site that recognizes peptide presented on MHC. Unlike membrane immunoglobulin on B cells, the TCR is not secreted and recognizes only processed peptide-MHC, not soluble native antigen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Toll-like receptors are pattern-recognition receptors with leucine-rich repeat ectodomains, not paired chains with variable and constant domains.",
+          "B": "The high-affinity IgE receptor (FcepsilonRI) is an alpha-beta-gamma2 complex that binds the Fc of IgE and lacks variable domains.",
+          "D": "KIRs are inhibitory NK receptors with invariant Ig-like domains that bind MHC class I; they are not rearranged V-C heterodimers.",
+          "E": "Membrane immunoglobulin is a four-chain molecule (two heavy, two light) with several constant domains on each heavy chain, not a single V-C pair per chain."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-046_7_p9_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The panels show opsonization, neutralization, and complement activation. Antibody-triggered classical complement activation deposits C3b (an opsonin) and assembles the membrane attack complex (C5b-9), which inserts into the microbial membrane forming a pore. The resulting loss of osmotic integrity causes lysis. Neutralization (blocking adhesion) and opsonization are the other, distinct functions shown.",
         "whyCorrect": "The panels show opsonization, neutralization, and complement activation. Antibody-triggered classical complement activation deposits C3b (an opsonin) and assembles the membrane attack complex (C5b-9), which inserts into the microbial membrane forming a pore. The resulting loss of osmotic integrity causes lysis. Neutralization (blocking adhesion) and opsonization are the other, distinct functions shown.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blocking adhesion is neutralization, the middle panel's function, which prevents entry rather than killing through membrane damage.",
+          "B": "Fc receptor cross-linking triggers degranulation of mast cells, basophils, or NK cells, not complement-mediated lysis.",
+          "C": "Bacteria lack the caspase apoptosis machinery; the membrane attack complex kills by physical disruption of the membrane.",
+          "E": "Antigen presentation on MHC class I concerns endogenous peptides shown to CD8+ T cells and is not a direct microbicidal mechanism."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-106_7_p18_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A pentamer of five monomers linked by a J chain is the classic structure of secreted IgM, giving it 10 potential antigen-binding sites and making it a highly efficient complement activator. IgM is the first antibody produced in a primary response. Secretory IgA is a dimer with a secretory component; IgG, IgE, and IgD circulate as monomers.",
         "whyCorrect": "A pentamer of five monomers linked by a J chain is the classic structure of secreted IgM, giving it 10 potential antigen-binding sites and making it a highly efficient complement activator. IgM is the first antibody produced in a primary response. Secretory IgA is a dimer with a secretory component; IgG, IgE, and IgD circulate as monomers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgG circulates as a monomer without a J chain and is the main serum antibody of secondary responses.",
+          "C": "Secretory IgA is a dimer of two monomers joined by a J chain and wrapped by secretory component, not a five-unit structure.",
+          "D": "IgE is a monomer that binds FcepsilonRI on mast cells and basophils.",
+          "E": "IgD is a monomer found mainly on the surface of naive B cells alongside IgM."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-119_7_p16_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The TCR alpha chain is assembled from V and J segments joined to C, whereas the beta chain uses V, D, and J segments joined to C. The additional diversity (D) segment, combined with junctional diversity at the extra join, increases the combinatorial and junctional diversity of the beta chain. This parallels immunoglobulin heavy versus light chain assembly.",
         "whyCorrect": "The TCR alpha chain is assembled from V and J segments joined to C, whereas the beta chain uses V, D, and J segments joined to C. The additional diversity (D) segment, combined with junctional diversity at the extra join, increases the combinatorial and junctional diversity of the beta chain. This parallels immunoglobulin heavy versus light chain assembly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Both TCR chains use a constant segment, which anchors each chain in the membrane.",
+          "C": "Joining segments are used by both the alpha and beta chains.",
+          "D": "Both chains carry a leader (signal) sequence to direct the protein into the ER; it is not unique to beta.",
+          "E": "Both chains contain a variable segment that forms part of the antigen-binding site."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-126_7_p10_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The figure shows secretory IgA: a dimer linked by a J chain and stabilized by the secretory component added as it is transcytosed across mucosal epithelium. Secretory IgA is the dominant antibody at mucosal surfaces and in breast milk, where it neutralizes pathogens and toxins. IgG dominates serum, IgE binds mast cells, and IgM/IgD are the main surface receptors on naive B cells.",
         "whyCorrect": "The figure shows secretory IgA: a dimer linked by a J chain and stabilized by the secretory component added as it is transcytosed across mucosal epithelium. Secretory IgA is the dominant antibody at mucosal surfaces and in breast milk, where it neutralizes pathogens and toxins. IgG dominates serum, IgE binds mast cells, and IgM/IgD are the main surface receptors on naive B cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Naive B cells use monomeric surface IgM and IgD as their antigen receptors, not secretory dimers.",
+          "B": "IgG is the dominant antibody in serum; dimeric IgA with secretory component is found in secretions.",
+          "C": "IgE is the antibody bound to FcepsilonRI on mast cells and basophils.",
+          "E": "Antibodies are secreted or membrane-bound proteins and do not predominate in the cytosol of infected cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-127_7_p19_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In T-dependent B-cell activation, the B cell presents antigen on MHC class II to a helper (Tfh) cell; the licensed T cell then delivers CD40L, which engages CD40 on the B cell, and secretes cytokines. CD40-CD40L signaling is essential for B-cell proliferation, germinal center formation, isotype switching, and affinity maturation. Loss of CD40L causes hyper-IgM syndrome. Fas-FasL signaling promotes apoptosis, the opposite outcome.",
         "whyCorrect": "In T-dependent B-cell activation, the B cell presents antigen on MHC class II to a helper (Tfh) cell; the licensed T cell then delivers CD40L, which engages CD40 on the B cell, and secretes cytokines. CD40-CD40L signaling is essential for B-cell proliferation, germinal center formation, isotype switching, and affinity maturation. Loss of CD40L causes hyper-IgM syndrome. Fas-FasL signaling promotes apoptosis, the opposite outcome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PD-1 binding PD-L1 delivers an inhibitory checkpoint signal that limits activation, not a helper signal to the B cell.",
+          "B": "ICAM-1 binding LFA-1 stabilizes the cell-to-cell contact but does not deliver the key activating signal for switching and proliferation.",
+          "C": "B7 binding CD28 is the costimulatory signal flowing to the T cell, not the signal the B cell needs from its helper.",
+          "E": "Fas binding Fas ligand triggers apoptosis of the B cell, the opposite of activation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-047_8_p12_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Repetitive polysaccharide antigens can crosslink many B-cell receptors and, with second signals like complement C3d, activate B cells without T-cell help. This T-independent response yields predominantly low-affinity IgM from short-lived plasma cells, with little class switching, affinity maturation, or memory. Because young children mount T-independent responses poorly, encapsulated-organism polysaccharide vaccines are conjugated to protein to recruit T-cell help.",
         "whyCorrect": "Repetitive polysaccharide antigens can crosslink many B-cell receptors and, with second signals like complement C3d, activate B cells without T-cell help. This T-independent response yields predominantly low-affinity IgM from short-lived plasma cells, with little class switching, affinity maturation, or memory. Because young children mount T-independent responses poorly, encapsulated-organism polysaccharide vaccines are conjugated to protein to recruit T-cell help.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A cytotoxic T-cell response is cell-mediated killing by CD8+ cells, not B-cell production of IgM.",
+          "B": "An affinity-matured secondary response requires germinal centers and T-cell help, which this response lacks.",
+          "C": "Delayed-type hypersensitivity is a T-cell and macrophage reaction, not antibody production.",
+          "E": "T-dependent responses involve Tfh help, germinal centers, class switching, and memory, all absent here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-048_8_p14_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The graph shows IgM dominating the slower primary response, while the secondary response rises faster and higher and is dominated by IgG. This anamnestic response is mediated by long-lived memory B cells (and memory T cells) generated during the primary exposure; upon re-encounter they rapidly proliferate and differentiate into class-switched, high-affinity IgG-secreting plasma cells. This principle underlies vaccine booster dosing.",
         "whyCorrect": "The graph shows IgM dominating the slower primary response, while the secondary response rises faster and higher and is dominated by IgG. This anamnestic response is mediated by long-lived memory B cells (and memory T cells) generated during the primary exposure; upon re-encounter they rapidly proliferate and differentiate into class-switched, high-affinity IgG-secreting plasma cells. This principle underlies vaccine booster dosing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NK cells are innate lymphocytes without antigen-specific memory B-cell function, and they do not secrete antibody.",
+          "B": "Short-lived IgM plasma cells dominate the primary response; the secondary response is mostly class-switched IgG.",
+          "C": "Naive B cells start the slow primary response and need time for activation, switching, and expansion.",
+          "D": "Follicular dendritic cells display antigen in germinal centers to support B-cell selection, but they do not make antibody or proliferate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-049_8_p20_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The figure depicts B-cell central tolerance. Immature B cells whose receptors bind self-antigen strongly undergo negative selection, primarily clonal deletion by apoptosis (some instead undergo receptor editing to change specificity). B cells that bind self weakly or not at all are positively selected and mature into the periphery. This screening prevents autoreactive B cells from entering the repertoire.",
         "whyCorrect": "The figure depicts B-cell central tolerance. Immature B cells whose receptors bind self-antigen strongly undergo negative selection, primarily clonal deletion by apoptosis (some instead undergo receptor editing to change specificity). B cells that bind self weakly or not at all are positively selected and mature into the periphery. This screening prevents autoreactive B cells from entering the repertoire.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Class switching requires antigen activation and T-cell help in peripheral lymphoid organs, not in bone marrow screening.",
+          "B": "Strongly self-reactive B cells are eliminated, not expanded, to prevent autoimmunity.",
+          "D": "Immature B cells cannot become plasma cells directly, and doing so with a self-reactive receptor would cause autoantibody production.",
+          "E": "Follicular dendritic cells are stromal cells, not of B-cell lineage, so B cells cannot convert into them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-050_8_p4_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The lymph node paracortex is the T-cell zone (analogous to the periarteriolar lymphoid sheath in the spleen), while follicles/germinal centers in the cortex are B-cell zones and medullary cords contain plasma cells and macrophages. A defect in T-cell production, as in DiGeorge syndrome, selectively depletes the paracortex, whereas B-cell follicles remain relatively preserved. Knowing zone-specific residence lets you predict which region is affected by a given cellular deficiency.",
         "whyCorrect": "The lymph node paracortex is the T-cell zone (analogous to the periarteriolar lymphoid sheath in the spleen), while follicles/germinal centers in the cortex are B-cell zones and medullary cords contain plasma cells and macrophages. A defect in T-cell production, as in DiGeorge syndrome, selectively depletes the paracortex, whereas B-cell follicles remain relatively preserved. Knowing zone-specific residence lets you predict which region is affected by a given cellular deficiency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Germinal centers are B-cell zones within follicles; they may be reduced from lack of T-cell help, but the T-cell zone is what empties.",
+          "C": "Primary follicles are collections of naive B cells and are relatively preserved in T-cell deficiency.",
+          "D": "Medullary cords hold plasma cells and macrophages, not the T-cell population lost in thymic aplasia.",
+          "E": "The subcapsular sinus is where afferent lymph enters, lined by macrophages, and is not a lymphocyte-resident zone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-051_8_p8_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The germinal center is where affinity maturation and isotype switching occur. Somatic hypermutation introduces mutations into variable regions; high-affinity clones are selected by competing for antigen on follicular dendritic cells and for Tfh help. Class-switch recombination changes the heavy-chain constant region (e.g., IgM to IgG/IgA/IgE) without altering specificity. Both depend on activation-induced cytidine deaminase and yield plasma cells and memory B cells.",
         "whyCorrect": "The germinal center is where affinity maturation and isotype switching occur. Somatic hypermutation introduces mutations into variable regions; high-affinity clones are selected by competing for antigen on follicular dendritic cells and for Tfh help. Class-switch recombination changes the heavy-chain constant region (e.g., IgM to IgG/IgA/IgE) without altering specificity. Both depend on activation-induced cytidine deaminase and yield plasma cells and memory B cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Opsonization and neutralization are effector functions of secreted antibody, not processes that change antibody genes.",
+          "B": "V(D)J recombination and allelic exclusion occur in the bone marrow during B-cell development, before antigen exposure.",
+          "C": "Central tolerance and receptor editing eliminate or revise self-reactive B cells in the bone marrow; they do not raise affinity or change isotype.",
+          "E": "Positive and negative selection describe thymic T-cell education, not germinal-center modification of antibody."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-107_8_p17_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "During antigen-independent development in the bone marrow, the pre-B cell expresses a heavy chain and the immature B cell expresses a complete surface IgM (BCR). As it matures and enters the periphery, the naive B cell co-expresses surface IgM and IgD (produced by alternative splicing of the same heavy-chain transcript). Switching to IgG, IgA, or IgE occurs only later, after antigen encounter and class-switch recombination.",
         "whyCorrect": "During antigen-independent development in the bone marrow, the pre-B cell expresses a heavy chain and the immature B cell expresses a complete surface IgM (BCR). As it matures and enters the periphery, the naive B cell co-expresses surface IgM and IgD (produced by alternative splicing of the same heavy-chain transcript). Switching to IgG, IgA, or IgE occurs only later, after antigen encounter and class-switch recombination.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgG appears only after antigen-driven class-switch recombination, not on naive mature B cells.",
+          "C": "IgA also requires class switching after activation and is not co-expressed with IgM on naive B cells.",
+          "D": "Secretory IgA is a dimer released at mucosal surfaces and is never a surface receptor on naive B cells.",
+          "E": "IgE results from class switching driven by IL-4 and IL-13 and is not expressed on naive B cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-120_8_p2_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Naive lymphocytes exit the blood into lymph nodes by crossing high endothelial venules, using L-selectin, chemokine, and integrin interactions to home into the node. If they do not encounter antigen, they leave via the efferent lymphatic, which drains toward the thoracic duct and back into the blood, sustaining continuous surveillance. Afferent lymphatics carry antigen and dendritic cells into the node, not blood-borne lymphocytes.",
         "whyCorrect": "Naive lymphocytes exit the blood into lymph nodes by crossing high endothelial venules, using L-selectin, chemokine, and integrin interactions to home into the node. If they do not encounter antigen, they leave via the efferent lymphatic, which drains toward the thoracic duct and back into the blood, sustaining continuous surveillance. Afferent lymphatics carry antigen and dendritic cells into the node, not blood-borne lymphocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The thoracic duct returns lymph and lymphocytes to the blood at the left subclavian vein; it is not an entry point into lymph nodes.",
+          "B": "The efferent lymphatic is the exit route for lymphocytes leaving the node, not how they arrive from blood.",
+          "D": "Afferent lymphatics bring antigen and dendritic cells from tissues, not blood-borne naive lymphocytes.",
+          "E": "The central arteriole of the splenic white pulp lies within the spleen, not the lymph node; splenic entry is via the marginal zone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-121_8_p7_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Although T-cell progenitors arise in the bone marrow, they migrate to the thymus, where they undergo TCR gene rearrangement and progress from double-negative to double-positive (CD4+CD8+) thymocytes and then to single-positive CD4+ or CD8+ cells. Positive selection occurs in the thymic cortex and negative selection in the medulla. Failure of thymic development (e.g., DiGeorge syndrome) results in absent mature T cells.",
         "whyCorrect": "Although T-cell progenitors arise in the bone marrow, they migrate to the thymus, where they undergo TCR gene rearrangement and progress from double-negative to double-positive (CD4+CD8+) thymocytes and then to single-positive CD4+ or CD8+ cells. Positive selection occurs in the thymic cortex and negative selection in the medulla. Failure of thymic development (e.g., DiGeorge syndrome) results in absent mature T cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The liver is a site of fetal hematopoiesis but not of T-cell receptor rearrangement and thymic selection.",
+          "C": "The spleen is a secondary lymphoid organ where mature lymphocytes encounter blood-borne antigens.",
+          "D": "Lymph nodes are secondary lymphoid organs where mature naive T cells meet antigen, not where they develop.",
+          "E": "Bone marrow produces the T-cell progenitors and is the site of B-cell maturation, but T cells mature elsewhere."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-052_9_p2_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "During thymic selection, a double-positive thymocyte must recognize self-MHC weakly to be positively selected (in the cortex). A thymocyte whose TCR cannot engage self-MHC receives no survival signal and dies by neglect. Separately, thymocytes that recognize self-MHC/peptide too strongly are removed by negative selection (apoptosis) in the medulla to enforce central tolerance. Only intermediate-affinity cells survive to become mature CD4+ or CD8+ T cells.",
         "whyCorrect": "During thymic selection, a double-positive thymocyte must recognize self-MHC weakly to be positively selected (in the cortex). A thymocyte whose TCR cannot engage self-MHC receives no survival signal and dies by neglect. Separately, thymocytes that recognize self-MHC/peptide too strongly are removed by negative selection (apoptosis) in the medulla to enforce central tolerance. Only intermediate-affinity cells survive to become mature CD4+ or CD8+ T cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Only thymocytes that recognize self-MHC weakly survive to be exported; one with no recognition receives no survival signal.",
+          "B": "Thymocytes committed to the T lineage do not convert into NK cells after failing selection.",
+          "C": "Negative selection removes cells with strong self-reactivity, not cells unable to recognize self-MHC at all.",
+          "D": "Regulatory T cells arise from thymocytes with relatively high self-affinity, not from cells that fail to engage MHC."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-086_9_p8_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Full activation of a naive T cell requires signal 1 (TCR recognition of peptide-MHC, shown with CD4/CD8 coreceptors) plus signal 2, costimulation via CD28 binding B7 (CD80/CD86) on the dendritic cell. If a T cell recognizes antigen without adequate costimulation, it is rendered anergic (or is deleted), a key mechanism of peripheral tolerance that prevents inappropriate activation against self-antigens presented in the absence of danger signals.",
         "whyCorrect": "Full activation of a naive T cell requires signal 1 (TCR recognition of peptide-MHC, shown with CD4/CD8 coreceptors) plus signal 2, costimulation via CD28 binding B7 (CD80/CD86) on the dendritic cell. If a T cell recognizes antigen without adequate costimulation, it is rendered anergic (or is deleted), a key mechanism of peripheral tolerance that prevents inappropriate activation against self-antigens presented in the absence of danger signals.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lysis of target cells is a function of effector CTLs; a naive T cell without costimulation does not kill the dendritic cell.",
+          "B": "Without CD28 signaling, IL-2 production is minimal, so the cell does not expand.",
+          "C": "Full activation and proliferation require both signal 1 and signal 2, so signal 1 alone is insufficient.",
+          "E": "Memory cells develop only after full activation and clonal expansion, which require costimulation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-108_9_p10_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "IL-12 (with IFN-gamma) drives Th1 differentiation; Th1 cells secrete IFN-gamma, which activates macrophages to kill ingested intracellular pathogens and promotes B-cell switching to opsonizing IgG. Th2 (IL-4) targets helminths and drives IgE; Th17 (IL-6, TGF-beta, IL-1) recruits neutrophils against extracellular bacteria and fungi; Treg (TGF-beta, IL-2) suppresses responses and maintains tolerance.",
         "whyCorrect": "IL-12 (with IFN-gamma) drives Th1 differentiation; Th1 cells secrete IFN-gamma, which activates macrophages to kill ingested intracellular pathogens and promotes B-cell switching to opsonizing IgG. Th2 (IL-4) targets helminths and drives IgE; Th17 (IL-6, TGF-beta, IL-1) recruits neutrophils against extracellular bacteria and fungi; Treg (TGF-beta, IL-2) suppresses responses and maintains tolerance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tfh cells produce IL-21 and CD40L to help B cells in germinal centers, rather than activating macrophages with IFN-gamma.",
+          "B": "Th2 cells are driven by IL-4 and secrete IL-4, IL-5, and IL-13 against helminths, and they actually dampen classical macrophage activation.",
+          "C": "Th17 cells are driven by IL-6, TGF-beta, and IL-23 and secrete IL-17 to recruit neutrophils against extracellular bacteria and fungi.",
+          "D": "Tregs are driven by TGF-beta and IL-2 and suppress immune responses through IL-10 and TGF-beta rather than enhancing killing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-109_9_p14_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Increased cytosolic calcium activates the phosphatase calcineurin, which dephosphorylates NFAT, allowing it to enter the nucleus and drive IL-2 transcription. The immunosuppressants cyclosporine and tacrolimus inhibit calcineurin, blocking NFAT activation and thereby suppressing T-cell activation, which is exploited to prevent transplant rejection. NF-kB and AP-1 are activated through the PKC and MAPK arms of the same cascade.",
         "whyCorrect": "Increased cytosolic calcium activates the phosphatase calcineurin, which dephosphorylates NFAT, allowing it to enter the nucleus and drive IL-2 transcription. The immunosuppressants cyclosporine and tacrolimus inhibit calcineurin, blocking NFAT activation and thereby suppressing T-cell activation, which is exploited to prevent transplant rejection. NF-kB and AP-1 are activated through the PKC and MAPK arms of the same cascade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "STAT3 is activated by cytokine receptors through JAK kinases (e.g., IL-6, IL-23), not by calcineurin.",
+          "B": "NF-kB is activated through the PKC-theta arm of TCR signaling, independent of calcineurin.",
+          "C": "Myc is a proliferation-related transcription factor induced downstream, not the direct calcineurin target.",
+          "D": "AP-1 (Fos-Jun) is activated by the Ras-MAPK arm of TCR signaling rather than by calcineurin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-128_9_p12_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The figure depicts Th2 differentiation and its effector arms (IL-4/5/13, IgE, eosinophils, mast cells, mucus and peristalsis). This program mediates immunity against helminths and, when dysregulated, causes allergic disease. Intracellular pathogens are handled by Th1/CD8 responses.",
         "whyCorrect": "The figure depicts Th2 differentiation and its effector arms (IL-4/5/13, IgE, eosinophils, mast cells, mucus and peristalsis). This program mediates immunity against helminths and, when dysregulated, causes allergic disease. Intracellular pathogens are handled by Th1/CD8 responses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tumor cells are controlled mainly by CD8+ cytotoxic T cells, NK cells, and Th1 responses rather than the IgE and eosinophil program.",
+          "B": "Intracellular viruses and bacteria are handled by Th1 cells, IFN-gamma-activated macrophages, and CD8+ T cells.",
+          "C": "Extracellular pyogenic bacteria are cleared by Th17-recruited neutrophils, opsonizing antibodies, and complement.",
+          "D": "Systemic fungal infections rely on Th1 and Th17 immunity with neutrophils and macrophages, not IgE and eosinophils."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-001_10_p11_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Th1 cells license macrophages through CD40L-CD40 and IFN-gamma. The activated ('classically activated') macrophage generates ROS and NO to kill ingested microbes, secretes TNF/IL-1/IL-12, and upregulates MHC and B7.",
         "whyCorrect": "Th1 cells license macrophages through CD40L-CD40 and IFN-gamma. The activated ('classically activated') macrophage generates ROS and NO to kill ingested microbes, secretes TNF/IL-1/IL-12, and upregulates MHC and B7.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgE class switching is driven by Th2 cytokines (IL-4, IL-13), not by Th1 activation of macrophages.",
+          "B": "Goblet-cell mucus secretion is a Th2 (IL-13) effector mechanism against helminths.",
+          "C": "Antibodies cannot form pores themselves; membrane pores come from complement's membrane attack complex.",
+          "D": "Histamine release comes from mast cells and basophils during type I hypersensitivity, not from activated macrophages."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-087_10_p9_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "FasL on the CTL engages Fas on the target, activating caspase-3 and apoptosis. This death-receptor pathway is an alternative to perforin/granzyme granule exocytosis and does not require granule contents.",
         "whyCorrect": "FasL on the CTL engages Fas on the target, activating caspase-3 and apoptosis. This death-receptor pathway is an alternative to perforin/granzyme granule exocytosis and does not require granule contents.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Opsonization coats a target for phagocytosis and does not involve a CD8+ T cell engaging a death receptor.",
+          "C": "ADCC requires antibody on the target and Fc receptor (CD16) engagement, usually by NK cells, not FasL on a CD8+ T cell.",
+          "D": "Complement lysis uses the membrane attack complex, not a T-cell receptor-ligand pair.",
+          "E": "This pathway activates caspases to produce orderly apoptosis, not ROS-driven necrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-110_10_p6_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Cytotoxic granules contain perforin, granzymes, and serglycin. Perforin polymerizes to create pores that let granzymes enter the cytosol, where they activate caspases and induce apoptosis of the infected cell.",
         "whyCorrect": "Cytotoxic granules contain perforin, granzymes, and serglycin. Perforin polymerizes to create pores that let granzymes enter the cytosol, where they activate caspases and induce apoptosis of the infected cell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Neutralizing free viral particles is a function of antibodies, not of perforin.",
+          "C": "Fas cross-linking is the separate FasL death-receptor pathway, which does not use perforin.",
+          "D": "DNA fragmentation follows caspase activation by granzymes; perforin itself has no nuclease activity.",
+          "E": "Perforin is structurally related to C9 but does not activate or fix complement on the target."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-122_10_p4_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "NK cells express CD16 (FcγRIII), which binds the Fc region of IgG coating a target cell. Cross-linking triggers release of cytotoxic granules, killing the antibody-coated cell by ADCC. This differs from complement lysis and from phagocytosis.",
         "whyCorrect": "NK cells express CD16 (FcγRIII), which binds the Fc region of IgG coating a target cell. Cross-linking triggers release of cytotoxic granules, killing the antibody-coated cell by ADCC. This differs from complement lysis and from phagocytosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neutralization is antibody blocking a toxin or microbe from binding host cells; it does not recruit an effector cell to kill a target.",
+          "B": "Complement-dependent cytotoxicity uses C1q and the membrane attack complex rather than an Fc receptor on an effector cell.",
+          "C": "Opsonization leads to engulfment of the coated particle by a phagocyte, not granule-mediated apoptosis of a tumor cell.",
+          "D": "Type III injury results from soluble immune complexes depositing in tissues and activating complement, not targeted killing of a coated cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "impic-134_10_p14_1.png",
